@@ -8,7 +8,8 @@
     "formats": [
       {
         "title": "標準對戰",
-        "gameplay": "Standard"
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
       }
     ],
     "deckRulesets": {
