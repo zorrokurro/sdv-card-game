@@ -3,7 +3,7 @@
   "deckBuilding": {
     "mainFilters": ["type", "cost"],
     "formats": [
-      { "title": "Standard", "gameplay": "Standard" }
+      { "title": "Standard", "gameplay": "Standard", "deckRuleset": "Standard" }
     ],
     "deckRulesets": {
       "Standard": {
@@ -56,5 +56,8 @@
   "cards": {
     "dataUrl": "https://zorrokurro.github.io/sdv-card-game/cards.json",
     "cardBack": "https://zorrokurro.github.io/sdv-card-game/cardback.svg"
+  },
+  "defaultRessources": {
+    "decksUrl": "https://zorrokurro.github.io/sdv-card-game/decks.json"
   }
 }
