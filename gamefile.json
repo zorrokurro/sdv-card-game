@@ -3,113 +3,69 @@
   "deckBuilding": {
     "mainFilters": ["type", "cost"],
     "formats": [
-      {
-        "title": "Standard",
-        "gameplay": "Standard"
-      }
+      { "title": "Standard", "gameplay": "Standard" }
     ],
     "deckRulesets": {
       "Standard": {
-        "general": {
-          "min": 60,
-          "max": 60,
-          "maxPerCard": 1
-        }
+        "general": { "min": 60, "max": 60, "maxPerCard": 1 }
       }
     }
   },
   "gameplay": {
     "Standard": {
-      "mulligan": {
-        "startingHandSize": 5
-      },
-      "newTurn": {
-        "drawPerTurn": 1
-      },
+      "mulligan": { "startingHandSize": 5 },
+      "newTurn": { "drawOnStart": true, "drawPerTurn": 1 },
       "countersStartingValues": [20],
-      "defaultNotes": "Energy: 0/20",
       "sections": {
         "layout": {
           "direction": "column",
           "content": [
+            { "section": "Board" },
             {
               "direction": "row",
               "content": [
-                { "section": "OpponentDeck" },
-                { "section": "OpponentHand" },
-                { "section": "OpponentEnergy" }
+                { "section": "Energy" },
+                { "section": "Dissipation" },
+                { "section": "Extinction" }
               ]
-            },
-            { "section": "OpponentField" },
-            {
-              "direction": "row",
-              "content": [
-                { "section": "PlayerDeck" },
-                { "section": "PlayerHand" },
-                { "section": "PlayerEnergy" }
-              ]
-            },
-            { "section": "PlayerField" }
+            }
           ]
         },
         "sectionsDict": {
-          "PlayerDeck": {
-            "isHidden": "yes",
-            "height": "MEDIUM",
-            "alignment": "DECK",
-            "displayedTitle": "Deck"
-          },
-          "PlayerHand": {
-            "isHidden": "opponent-only",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "displayedTitle": "Hand"
-          },
-          "PlayerField": {
+          "Board": {
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "CENTER",
-            "displayedTitle": "Field"
+            "alignment": "CENTER"
           },
-          "PlayerEnergy": {
+          "Energy": {
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "displayedTitle": "Energy Zone",
+            "isHorizontalAllowed": true
+          },
+          "Dissipation": {
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
-            "displayedTitle": "Energy"
+            "displayedTitle": "Dissipation"
           },
-          "OpponentDeck": {
-            "isHidden": "yes",
-            "height": "MEDIUM",
-            "alignment": "DECK",
-            "displayedTitle": "Deck"
-          },
-          "OpponentHand": {
-            "isHidden": "opponent-only",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "displayedTitle": "Hand"
-          },
-          "OpponentField": {
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "displayedTitle": "Field"
-          },
-          "OpponentEnergy": {
+          "Extinction": {
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
-            "displayedTitle": "Energy"
+            "displayedTitle": "Extinction",
+            "noQuickActions": true
           }
         }
       }
     }
   },
   "cards": {
-    "dataUrl": "https://zorrokurro.github.io/sdv-card-game/cards.json",
-    "cardBack": "https://placehold.co/250x350/1a1a2e/ffffff?text=SDV"
+    "dataUrl": "./cards.json",
+    "cardBack": "./cardback.svg"
   },
   "defaultRessources": {
-    "decksUrl": "https://zorrokurro.github.io/sdv-card-game/decks.json"
+    "decksUrl": "./decks.json"
   }
 }

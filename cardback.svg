@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="350"><rect width="250" height="350" rx="12" fill="#1a1a2e"/><text x="125" y="180" text-anchor="middle" fill="#fff" font-size="24" font-family="Arial">SDV</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="350">
+  <rect width="250" height="350" rx="12" fill="#1a1a2e"/>
+  <rect x="10" y="10" width="230" height="330" rx="8" fill="none" stroke="#4a4a8a" stroke-width="2"/>
+  <text x="125" y="160" text-anchor="middle" fill="#8a8aba" font-size="36" font-family="Arial" font-weight="bold">SDV</text>
+  <text x="125" y="200" text-anchor="middle" fill="#5a5a7a" font-size="12" font-family="Arial">Strada Verso</text>
+</svg>
