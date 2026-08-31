@@ -1,15 +1,11 @@
 {
-  "name": "斯特拉達·維爾索 卡牌對戰",
-  "menuBackgroundImage": "",
-  "cardRotation": 90,
-  "customHelp": "斯特拉達·維爾索卡牌對戰\n\n遊戲目標：將對手能量區逼至20張使其落敗。\n\n能量系統：每回合可蓋1張手牌進能量區（提供1點能量）。直立能量可用於橫置（支付法術費）或回收（支付生物費）。\n\n戰鬥：攻擊時從牌庫頂翻1張牌進能量區。飛行僅能被飛行生物防守。守護生物必須被宣告防守。\n\n雙墓地：消散區（可洗回牌庫）與熄滅區（永久移除）。\n\n詳細規則請參照規則書 v0.1。",
+  "name": "SDV",
   "deckBuilding": {
     "mainFilters": ["type", "cost"],
     "formats": [
       {
-        "title": "標準對戰",
-        "gameplay": "Standard",
-        "deckRuleset": "Standard"
+        "title": "Standard",
+        "gameplay": "Standard"
       }
     ],
     "deckRulesets": {
@@ -25,26 +21,13 @@
   "gameplay": {
     "Standard": {
       "mulligan": {
-        "startingHandSize": 5,
-        "mulliganCount": { "max": 1 },
-        "mulliganCycle": {
-          "info": "將不要的牌放回牌庫底，重新抽同等數量的牌。",
-          "steps": ["toBottom", "draw"],
-          "selectionRange": { "min": 1, "max": 5 }
-        }
+        "startingHandSize": 5
       },
       "newTurn": {
-        "drawOnStart": true,
         "drawPerTurn": 1
       },
-      "countersStartingValues": [0],
-      "defaultNotes": "能量區：0/20",
-      "tokens": [],
-      "draggableTokens": [
-        { "id": "Sleep", "name": "橫置", "image": "https://img.icons8.com/ios/50/rotate-right--v1.png" },
-        { "id": "Buff", "name": "增益", "image": "https://img.icons8.com/ios/50/plus--v1.png" },
-        { "id": "Debuff", "name": "減益", "image": "https://img.icons8.com/ios/50/minus--v1.png" }
-      ],
+      "countersStartingValues": [20],
+      "defaultNotes": "Energy: 0/20",
       "sections": {
         "layout": {
           "direction": "column",
@@ -52,22 +35,21 @@
             {
               "direction": "row",
               "content": [
-                { "section": "OpponentDeck", "style": { "width": "8vh" } },
-                { "section": "OpponentHand", "style": { "width": "50vh" } },
-                { "section": "OpponentEnergy", "style": { "width": "12vh" } }
+                { "section": "OpponentDeck" },
+                { "section": "OpponentHand" },
+                { "section": "OpponentEnergy" }
               ]
             },
-            { "section": "OpponentField", "style": { "height": "20vh" } },
-            { "section": "SharedStack" },
-            { "section": "PlayerField", "style": { "height": "20vh" } },
+            { "section": "OpponentField" },
             {
               "direction": "row",
               "content": [
-                { "section": "PlayerDeck", "style": { "width": "8vh" } },
-                { "section": "PlayerHand", "style": { "width": "50vh" } },
-                { "section": "PlayerEnergy", "style": { "width": "12vh" } }
+                { "section": "PlayerDeck" },
+                { "section": "PlayerHand" },
+                { "section": "PlayerEnergy" }
               ]
-            }
+            },
+            { "section": "PlayerField" }
           ]
         },
         "sectionsDict": {
@@ -75,82 +57,59 @@
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "DECK",
-            "displayedTitle": "牌庫"
+            "displayedTitle": "Deck"
           },
           "PlayerHand": {
             "isHidden": "opponent-only",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "displayedTitle": "手牌",
-            "autoPlayFromHand": {
-              "生物": "PlayerField",
-              "法術": "Stack"
-            }
+            "displayedTitle": "Hand"
           },
           "PlayerField": {
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "displayedTitle": "場地"
+            "displayedTitle": "Field"
           },
           "PlayerEnergy": {
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
-            "displayedTitle": "能量區 (0/20)"
+            "displayedTitle": "Energy"
           },
           "OpponentDeck": {
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "DECK",
-            "displayedTitle": "牌庫"
+            "displayedTitle": "Deck"
           },
           "OpponentHand": {
             "isHidden": "opponent-only",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "displayedTitle": "手牌"
+            "displayedTitle": "Hand"
           },
           "OpponentField": {
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "displayedTitle": "場地"
+            "displayedTitle": "Field"
           },
           "OpponentEnergy": {
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "displayedTitle": "能量區 (0/20)"
-          },
-          "SharedStack": {
-            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
-            "displayedTitle": "連鎖/堆疊"
-          },
-          "Discard": {
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "displayedTitle": "消散區"
-          },
-          "Extinction": {
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "displayedTitle": "熄滅區"
+            "displayedTitle": "Energy"
           }
         }
       }
     }
   },
   "cards": {
-    "dataUrl": "./cards.json",
-    "cardBack": "https://placehold.co/250x350/1a1a2e/ffffff?text=SDV",
-    "cardBackColor": "#1a1a2e"
+    "dataUrl": "https://zorrokurro.github.io/sdv-card-game/cards.json",
+    "cardBack": "https://placehold.co/250x350/1a1a2e/ffffff?text=SDV"
   },
   "defaultRessources": {
-    "decksUrl": "./decks.json"
+    "decksUrl": "https://zorrokurro.github.io/sdv-card-game/decks.json"
   }
 }
