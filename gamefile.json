@@ -1,5 +1,5 @@
 {
-  "name": "SDV-CardGame",
+  "name": "SDV-TCG",
   "deckBuilding": {
     "mainFilters": ["type", "cost"],
     "formats": [
