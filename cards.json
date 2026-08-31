@@ -1,0 +1,4802 @@
+{
+  "pa_01": {
+    "id": "pa_01",
+    "face": {
+      "front": {
+        "name": {
+          "name": "實驗體21號·初始"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "實驗體21號·初始",
+    "type": "生物",
+    "cost": 1,
+    "faction": "實驗體",
+    "atk": 1,
+    "hp": 1,
+    "ability": "被動：你的能量區每有1張牌，此生物+1/+0（不含此卡自身）。"
+  },
+  "pa_02": {
+    "id": "pa_02",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩薄片"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "盧恩薄片",
+    "type": "生物",
+    "cost": 1,
+    "faction": "實驗體",
+    "atk": 0,
+    "hp": 2,
+    "ability": "守護。起動：橫置，查看對手能量區1張牌的內容。"
+  },
+  "pa_03": {
+    "id": "pa_03",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局監視器"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "認知科學局監視器",
+    "type": "生物",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": 2,
+    "hp": 1,
+    "ability": "起動：橫置，查看對手手牌1張。"
+  },
+  "pa_04": {
+    "id": "pa_04",
+    "face": {
+      "front": {
+        "name": {
+          "name": "實驗室逃脱路線"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "實驗室逃脱路線",
+    "type": "生物",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": 1,
+    "hp": 2,
+    "ability": "起動：回收此卡，將你場上1張生物返回手牌。"
+  },
+  "pa_05": {
+    "id": "pa_05",
+    "face": {
+      "front": {
+        "name": {
+          "name": "實驗體21號·覚醒"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "實驗體21號·覚醒",
+    "type": "生物",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": 1,
+    "hp": 2,
+    "ability": "飛行。被動：當你能量區達6以上（CONTROLLED），此生物攻擊時可查看對手手牌1張。"
+  },
+  "pa_06": {
+    "id": "pa_06",
+    "face": {
+      "front": {
+        "name": {
+          "name": "林"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "林",
+    "type": "生物",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": 2,
+    "hp": 3,
+    "ability": "被動：此生物存活時，你每回合可額外蓋1張牌進能量區（限2次/回合）。"
+  },
+  "pa_07": {
+    "id": "pa_07",
+    "face": {
+      "front": {
+        "name": {
+          "name": "阿嬤"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "阿嬤",
+    "type": "生物",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": 1,
+    "hp": 4,
+    "ability": "被動：此生物存活時，你場上其他生物+0/+1。"
+  },
+  "pa_08": {
+    "id": "pa_08",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暖橘色的記憶"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "暖橘色的記憶",
+    "type": "生物",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": 0,
+    "hp": 3,
+    "ability": "守護。觸發：當此生物被攻擊時，從手牌打出1張法術卡不消耗能量（本回合）。"
+  },
+  "pa_09": {
+    "id": "pa_09",
+    "face": {
+      "front": {
+        "name": {
+          "name": "舊城區藏身處"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "舊城區藏身處",
+    "type": "生物",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": 0,
+    "hp": 0,
+    "ability": "場地。你場上生物+0/+1。起動：橫置，抽1張牌。"
+  },
+  "pa_10": {
+    "id": "pa_10",
+    "face": {
+      "front": {
+        "name": {
+          "name": "色彩感知·色相"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "色彩感知·色相",
+    "type": "生物",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": 2,
+    "hp": 2,
+    "ability": "起動：橫置，查看對手手牌全部內容（不公開）。"
+  },
+  "pa_11": {
+    "id": "pa_11",
+    "face": {
+      "front": {
+        "name": {
+          "name": "第一次信任"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "第一次信任",
+    "type": "生物",
+    "cost": 4,
+    "faction": "實驗體",
+    "atk": 3,
+    "hp": 3,
+    "ability": "觸發：當此生物進場時，你能量區+1（蓋1張手牌）。"
+  },
+  "pa_12": {
+    "id": "pa_12",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者的追蹤"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者的追蹤",
+    "type": "生物",
+    "cost": 4,
+    "faction": "實驗體",
+    "atk": 3,
+    "hp": 2,
+    "ability": "疾襲（進場即可攻擊）。觸發：當此生物攻擊時，對手能量區+1。"
+  },
+  "pa_13": {
+    "id": "pa_13",
+    "face": {
+      "front": {
+        "name": {
+          "name": "亮紅色男人"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "亮紅色男人",
+    "type": "生物",
+    "cost": 5,
+    "faction": "實驗體",
+    "atk": 4,
+    "hp": 4,
+    "ability": "觸發：當此生物進場時，你場上其他生物本回合+2/+0。"
+  },
+  "pa_14": {
+    "id": "pa_14",
+    "face": {
+      "front": {
+        "name": {
+          "name": "亮藍綠女孩"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "亮藍綠女孩",
+    "type": "生物",
+    "cost": 5,
+    "faction": "實驗體",
+    "atk": 3,
+    "hp": 5,
+    "ability": "守護。被動：此生物存活時，你場上生物被攻擊時，防禦力+2。"
+  },
+  "pa_15": {
+    "id": "pa_15",
+    "face": {
+      "front": {
+        "name": {
+          "name": "色彩感知·質感"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "色彩感知·質感",
+    "type": "生物",
+    "cost": 5,
+    "faction": "實驗體",
+    "atk": 3,
+    "hp": 3,
+    "ability": "飛行。起動：橫置，查看對手場上所有生物的攻擊力與能力。"
+  },
+  "pa_16": {
+    "id": "pa_16",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·強化組分部"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·強化組分部",
+    "type": "生物",
+    "cost": 5,
+    "faction": "實驗體",
+    "atk": 0,
+    "hp": 0,
+    "ability": "場地。你每回合使用法術卡消耗-1（最低1）。對手每回合首張法術卡消耗+1。"
+  },
+  "pa_17": {
+    "id": "pa_17",
+    "face": {
+      "front": {
+        "name": {
+          "name": "博士的秘密"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "博士的秘密",
+    "type": "生物",
+    "cost": 6,
+    "faction": "實驗體",
+    "atk": 4,
+    "hp": 3,
+    "ability": "觸發：當此生物進場時，從墓地選1張法術卡返回手牌。"
+  },
+  "pa_18": {
+    "id": "pa_18",
+    "face": {
+      "front": {
+        "name": {
+          "name": "零號計劃的真相"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "零號計劃的真相",
+    "type": "生物",
+    "cost": 6,
+    "faction": "實驗體",
+    "atk": 3,
+    "hp": 4,
+    "ability": "起動：橫置，查看對手能量區全部內容。"
+  },
+  "pa_19": {
+    "id": "pa_19",
+    "face": {
+      "front": {
+        "name": {
+          "name": "南方節點"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "南方節點",
+    "type": "生物",
+    "cost": 6,
+    "faction": "實驗體",
+    "atk": 3,
+    "hp": 3,
+    "ability": "場地。你場上回聲之民（種族標籤）生物+1/+1。"
+  },
+  "pa_20": {
+    "id": "pa_20",
+    "face": {
+      "front": {
+        "name": {
+          "name": "銀白色老人"
+        },
+        "type": "生物",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "銀白色老人",
+    "type": "生物",
+    "cost": 7,
+    "faction": "實驗體",
+    "atk": 5,
+    "hp": 5,
+    "ability": "守護。被動：此生物存活時，你場上生物被消滅時，不進墓地，改為回到手牌。"
+  },
+  "pa_21": {
+    "id": "pa_21",
+    "face": {
+      "front": {
+        "name": {
+          "name": "實驗體21號·軌跡"
+        },
+        "type": "生物",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "實驗體21號·軌跡",
+    "type": "生物",
+    "cost": 7,
+    "faction": "實驗體",
+    "atk": 5,
+    "hp": 4,
+    "ability": "被動：此生物攻擊時，可查看對手牌庫頂3張牌，選1張送入對手能量區。"
+  },
+  "pa_22": {
+    "id": "pa_22",
+    "face": {
+      "front": {
+        "name": {
+          "name": "色彩感知·層次"
+        },
+        "type": "生物",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "色彩感知·層次",
+    "type": "生物",
+    "cost": 7,
+    "faction": "實驗體",
+    "atk": 4,
+    "hp": 5,
+    "ability": "起動：橫置，移除對手場上1張生物（無視守護）。"
+  },
+  "pa_23": {
+    "id": "pa_23",
+    "face": {
+      "front": {
+        "name": {
+          "name": "七個幽靈·集結"
+        },
+        "type": "生物",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "七個幽靈·集結",
+    "type": "生物",
+    "cost": 8,
+    "faction": "實驗體",
+    "atk": 6,
+    "hp": 6,
+    "ability": "觸發：當此生物進場時，你能量區每有1張牌，此生物+1/+0（最高+12）。"
+  },
+  "pa_24": {
+    "id": "pa_24",
+    "face": {
+      "front": {
+        "name": {
+          "name": "實驗體21號·同化視界"
+        },
+        "type": "生物",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "實驗體21號·同化視界",
+    "type": "生物",
+    "cost": 10,
+    "faction": "實驗體",
+    "atk": 8,
+    "hp": 8,
+    "ability": "被動：此生物攻擊時，對手能量區+2。觸發：此生物陣亡時，你場上所有生物本回合+4/+4。"
+  },
+  "pa_25": {
+    "id": "pa_25",
+    "face": {
+      "front": {
+        "name": {
+          "name": "色彩感知·情緒色"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "色彩感知·情緒色",
+    "type": "法術",
+    "cost": 1,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_26": {
+    "id": "pa_26",
+    "face": {
+      "front": {
+        "name": {
+          "name": "直覺閃現"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "直覺閃現",
+    "type": "法術",
+    "cost": 1,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_27": {
+    "id": "pa_27",
+    "face": {
+      "front": {
+        "name": {
+          "name": "色彩感知·質感讀取"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "色彩感知·質感讀取",
+    "type": "法術",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_28": {
+    "id": "pa_28",
+    "face": {
+      "front": {
+        "name": {
+          "name": "結構直覺"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "結構直覺",
+    "type": "法術",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_29": {
+    "id": "pa_29",
+    "face": {
+      "front": {
+        "name": {
+          "name": "方向直覺"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "方向直覺",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_30": {
+    "id": "pa_30",
+    "face": {
+      "front": {
+        "name": {
+          "name": "殘響讀取"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "殘響讀取",
+    "type": "法術",
+    "cost": 4,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_31": {
+    "id": "pa_31",
+    "face": {
+      "front": {
+        "name": {
+          "name": "觀測·色相"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "觀測·色相",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_32": {
+    "id": "pa_32",
+    "face": {
+      "front": {
+        "name": {
+          "name": "觀測·質感"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "觀測·質感",
+    "type": "法術",
+    "cost": 5,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_33": {
+    "id": "pa_33",
+    "face": {
+      "front": {
+        "name": {
+          "name": "觀測·層次"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "觀測·層次",
+    "type": "法術",
+    "cost": 6,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_34": {
+    "id": "pa_34",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·穩定"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·穩定",
+    "type": "法術",
+    "cost": 1,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_35": {
+    "id": "pa_35",
+    "face": {
+      "front": {
+        "name": {
+          "name": "色彩屏蔽"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "色彩屏蔽",
+    "type": "法術",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_36": {
+    "id": "pa_36",
+    "face": {
+      "front": {
+        "name": {
+          "name": "灰衣人的搜查"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "灰衣人的搜查",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_37": {
+    "id": "pa_37",
+    "face": {
+      "front": {
+        "name": {
+          "name": "轉移注意力"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "轉移注意力",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_38": {
+    "id": "pa_38",
+    "face": {
+      "front": {
+        "name": {
+          "name": "虛粒子護盾"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "虛粒子護盾",
+    "type": "法術",
+    "cost": 4,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_39": {
+    "id": "pa_39",
+    "face": {
+      "front": {
+        "name": {
+          "name": "動態法拉第籠"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "動態法拉第籠",
+    "type": "法術",
+    "cost": 5,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_40": {
+    "id": "pa_40",
+    "face": {
+      "front": {
+        "name": {
+          "name": "迴響金共鳴"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "迴響金共鳴",
+    "type": "法術",
+    "cost": 6,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_41": {
+    "id": "pa_41",
+    "face": {
+      "front": {
+        "name": {
+          "name": "臨界爆發"
+        },
+        "type": "法術",
+        "cost": 9,
+        "image": ""
+      }
+    },
+    "name": "臨界爆發",
+    "type": "法術",
+    "cost": 9,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_42": {
+    "id": "pa_42",
+    "face": {
+      "front": {
+        "name": {
+          "name": "微物理干涉·震波"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "微物理干涉·震波",
+    "type": "法術",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_43": {
+    "id": "pa_43",
+    "face": {
+      "front": {
+        "name": {
+          "name": "聲波脈衝"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "聲波脈衝",
+    "type": "法術",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_44": {
+    "id": "pa_44",
+    "face": {
+      "front": {
+        "name": {
+          "name": "色彩感知·暗紅讀取"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "色彩感知·暗紅讀取",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_45": {
+    "id": "pa_45",
+    "face": {
+      "front": {
+        "name": {
+          "name": "聲波聚焦·對空"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "聲波聚焦·對空",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_46": {
+    "id": "pa_46",
+    "face": {
+      "front": {
+        "name": {
+          "name": "概率觸及"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "概率觸及",
+    "type": "法術",
+    "cost": 4,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_47": {
+    "id": "pa_47",
+    "face": {
+      "front": {
+        "name": {
+          "name": "共振碎裂"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "共振碎裂",
+    "type": "法術",
+    "cost": 5,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_48": {
+    "id": "pa_48",
+    "face": {
+      "front": {
+        "name": {
+          "name": "熱電聲子耦合"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "熱電聲子耦合",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_49": {
+    "id": "pa_49",
+    "face": {
+      "front": {
+        "name": {
+          "name": "量子糾纏共鳴"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "量子糾纏共鳴",
+    "type": "法術",
+    "cost": 5,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_50": {
+    "id": "pa_50",
+    "face": {
+      "front": {
+        "name": {
+          "name": "否定之眼"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "否定之眼",
+    "type": "法術",
+    "cost": 7,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_51": {
+    "id": "pa_51",
+    "face": {
+      "front": {
+        "name": {
+          "name": "路徑收束"
+        },
+        "type": "法術",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "路徑收束",
+    "type": "法術",
+    "cost": 8,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_52": {
+    "id": "pa_52",
+    "face": {
+      "front": {
+        "name": {
+          "name": "維度透視"
+        },
+        "type": "法術",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "維度透視",
+    "type": "法術",
+    "cost": 10,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_53": {
+    "id": "pa_53",
+    "face": {
+      "front": {
+        "name": {
+          "name": "記憶碎片"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "記憶碎片",
+    "type": "法術",
+    "cost": 1,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_54": {
+    "id": "pa_54",
+    "face": {
+      "front": {
+        "name": {
+          "name": "生命熱源"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "生命熱源",
+    "type": "法術",
+    "cost": 2,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_55": {
+    "id": "pa_55",
+    "face": {
+      "front": {
+        "name": {
+          "name": "酶促隧穿加速"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "酶促隧穿加速",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_56": {
+    "id": "pa_56",
+    "face": {
+      "front": {
+        "name": {
+          "name": "磁受容共振"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "磁受容共振",
+    "type": "法術",
+    "cost": 3,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_57": {
+    "id": "pa_57",
+    "face": {
+      "front": {
+        "name": {
+          "name": "生物發光調節"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "生物發光調節",
+    "type": "法術",
+    "cost": 4,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_58": {
+    "id": "pa_58",
+    "face": {
+      "front": {
+        "name": {
+          "name": "轉生路線"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "轉生路線",
+    "type": "法術",
+    "cost": 6,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_59": {
+    "id": "pa_59",
+    "face": {
+      "front": {
+        "name": {
+          "name": "博士的最後贖罪"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "博士的最後贖罪",
+    "type": "法術",
+    "cost": 7,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pa_60": {
+    "id": "pa_60",
+    "face": {
+      "front": {
+        "name": {
+          "name": "名字·斯特拉達·維爾索"
+        },
+        "type": "法術",
+        "cost": 12,
+        "image": ""
+      }
+    },
+    "name": "名字·斯特拉達·維爾索",
+    "type": "法術",
+    "cost": 12,
+    "faction": "實驗體",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_01": {
+    "id": "pb_01",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·初期"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·初期",
+    "type": "生物",
+    "cost": 1,
+    "faction": "認知科學局",
+    "atk": 2,
+    "hp": 1,
+    "ability": "觸發：當此生物攻擊時，若對手能量區達6以上（CONTROLLED），此生物+1/+0。"
+  },
+  "pb_02": {
+    "id": "pb_02",
+    "face": {
+      "front": {
+        "name": {
+          "name": "灰衣偵查員"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "灰衣偵查員",
+    "type": "生物",
+    "cost": 1,
+    "faction": "認知科學局",
+    "atk": 1,
+    "hp": 2,
+    "ability": "起動：橫置，查看對手手牌1張。"
+  },
+  "pb_03": {
+    "id": "pb_03",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·監控無人機"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·監控無人機",
+    "type": "生物",
+    "cost": 1,
+    "faction": "認知科學局",
+    "atk": 1,
+    "hp": 1,
+    "ability": "飛行（僅可被飛行生物防守）。觸發：此生物攻擊時，查看對手牌庫頂1張。"
+  },
+  "pb_04": {
+    "id": "pb_04",
+    "face": {
+      "front": {
+        "name": {
+          "name": "實驗體追蹤犬"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "實驗體追蹤犬",
+    "type": "生物",
+    "cost": 2,
+    "faction": "認知科學局",
+    "atk": 2,
+    "hp": 2,
+    "ability": "起動：橫置，犧牲此卡，對1張生物造成1點傷害。"
+  },
+  "pb_05": {
+    "id": "pb_05",
+    "face": {
+      "front": {
+        "name": {
+          "name": "管控組·外勤幹員"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "管控組·外勤幹員",
+    "type": "生物",
+    "cost": 2,
+    "faction": "認知科學局",
+    "atk": 2,
+    "hp": 1,
+    "ability": "飛行。疾襲（進場即可攻擊）。"
+  },
+  "pb_06": {
+    "id": "pb_06",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·資源回收"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·資源回收",
+    "type": "生物",
+    "cost": 2,
+    "faction": "認知科學局",
+    "atk": 1,
+    "hp": 2,
+    "ability": "觸發：當此生物陣亡時，從墓地選1張法術卡返回手牌。"
+  },
+  "pb_07": {
+    "id": "pb_07",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·中期"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·中期",
+    "type": "生物",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": 3,
+    "hp": 3,
+    "ability": "被動：此生物攻擊時，若對手能量區達11以上（SUPPRESS），改為造成雙倍傷害。"
+  },
+  "pb_08": {
+    "id": "pb_08",
+    "face": {
+      "front": {
+        "name": {
+          "name": "灰衣小隊長"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "灰衣小隊長",
+    "type": "生物",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": 3,
+    "hp": 2,
+    "ability": "觸發：當此生物進場時，對手場上1張生物本回合-1/-1。"
+  },
+  "pb_09": {
+    "id": "pb_09",
+    "face": {
+      "front": {
+        "name": {
+          "name": "強化組·實驗護衛"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "強化組·實驗護衛",
+    "type": "生物",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": 2,
+    "hp": 4,
+    "ability": "守護。被動：你場上其他暗紅色者（種族標籤）生物+1/+0。"
+  },
+  "pb_10": {
+    "id": "pb_10",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·量測裝置"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·量測裝置",
+    "type": "生物",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": 0,
+    "hp": 3,
+    "ability": "場地。你每回合首次使用法術卡時，若該法術對生物造成傷害，+1傷害。"
+  },
+  "pb_11": {
+    "id": "pb_11",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·熟練"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·熟練",
+    "type": "生物",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": 4,
+    "hp": 3,
+    "ability": "飛行。觸發：當此生物攻擊時，若對手能量區達11以上（SUPPRESS），對手能量區+1。"
+  },
+  "pb_12": {
+    "id": "pb_12",
+    "face": {
+      "front": {
+        "name": {
+          "name": "管控組·情報分析官"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "管控組·情報分析官",
+    "type": "生物",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": 2,
+    "hp": 3,
+    "ability": "起動：橫置，查看對手手牌全部。"
+  },
+  "pb_13": {
+    "id": "pb_13",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·狙擊手"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "清理組·狙擊手",
+    "type": "生物",
+    "cost": 5,
+    "faction": "認知科學局",
+    "atk": 5,
+    "hp": 2,
+    "ability": "疾襲。觸發：此生物攻擊時，若對手能量區達16以上（COLLAPSE），改為造成3倍傷害。"
+  },
+  "pb_14": {
+    "id": "pb_14",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·強化戰士"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·強化戰士",
+    "type": "生物",
+    "cost": 5,
+    "faction": "認知科學局",
+    "atk": 4,
+    "hp": 4,
+    "ability": "觸發：當此生物進場時，你場上所有生物本回合+1/+0。"
+  },
+  "pb_15": {
+    "id": "pb_15",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·後期"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·後期",
+    "type": "生物",
+    "cost": 6,
+    "faction": "認知科學局",
+    "atk": 5,
+    "hp": 5,
+    "ability": "被動：此生物攻擊時，對手能量區每有1張牌，此生物+0/+1（最高+5）。"
+  },
+  "pb_16": {
+    "id": "pb_16",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·白塔守衛"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·白塔守衛",
+    "type": "生物",
+    "cost": 6,
+    "faction": "認知科學局",
+    "atk": 5,
+    "hp": 6,
+    "ability": "守護。觸發：當此生物進場時，從墓地選1張生物卡返回手牌。"
+  },
+  "pb_17": {
+    "id": "pb_17",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·執行者"
+        },
+        "type": "生物",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "清理組·執行者",
+    "type": "生物",
+    "cost": 7,
+    "faction": "認知科學局",
+    "atk": 6,
+    "hp": 4,
+    "ability": "觸發：當此生物攻擊時，若對手能量區達16以上（COLLAPSE），移除對手場上1張生物（無視守護）。"
+  },
+  "pb_18": {
+    "id": "pb_18",
+    "face": {
+      "front": {
+        "name": {
+          "name": "強化組·量產型"
+        },
+        "type": "生物",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "強化組·量產型",
+    "type": "生物",
+    "cost": 7,
+    "faction": "認知科學局",
+    "atk": 4,
+    "hp": 6,
+    "ability": "被動：你場上每有1張其他認知科學局（種族標籤）生物，此生物+1/+0。"
+  },
+  "pb_19": {
+    "id": "pb_19",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·Ω原型"
+        },
+        "type": "生物",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·Ω原型",
+    "type": "生物",
+    "cost": 8,
+    "faction": "認知科學局",
+    "atk": 7,
+    "hp": 5,
+    "ability": "觸發：當此生物進場時，對手能量區+2。被動：此生物攻擊時，若對手能量區達16以上（COLLAPSE），改為造成三倍傷害。"
+  },
+  "pb_20": {
+    "id": "pb_20",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·最終型"
+        },
+        "type": "生物",
+        "cost": 9,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·最終型",
+    "type": "生物",
+    "cost": 9,
+    "faction": "認知科學局",
+    "atk": 6,
+    "hp": 7,
+    "ability": "守護。被動：你場上所有暗紅色者（種族標籤）生物+2/+0。觸發：此生物陣亡時，對手場上所有生物本回合-3/-3。"
+  },
+  "pb_21": {
+    "id": "pb_21",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·零號計劃"
+        },
+        "type": "生物",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·零號計劃",
+    "type": "生物",
+    "cost": 10,
+    "faction": "認知科學局",
+    "atk": 8,
+    "hp": 8,
+    "ability": "觸發：當此生物進場時，對手能量區+3。被動：此生物攻擊時，若對手能量區達16以上（COLLAPSE），對手直接落敗。"
+  },
+  "pb_22": {
+    "id": "pb_22",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·最高指令"
+        },
+        "type": "生物",
+        "cost": 12,
+        "image": ""
+      }
+    },
+    "name": "清理組·最高指令",
+    "type": "生物",
+    "cost": 12,
+    "faction": "認知科學局",
+    "atk": 10,
+    "hp": 10,
+    "ability": "疾襲。觸發：此生物攻擊時，若對手能量區達16以上（COLLAPSE），移除對手場上所有生物。你能量區+5。"
+  },
+  "pb_23": {
+    "id": "pb_23",
+    "face": {
+      "front": {
+        "name": {
+          "name": "抑制射線"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "抑制射線",
+    "type": "法術",
+    "cost": 1,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_24": {
+    "id": "pb_24",
+    "face": {
+      "front": {
+        "name": {
+          "name": "管控組·標準處置"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "管控組·標準處置",
+    "type": "法術",
+    "cost": 1,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_25": {
+    "id": "pb_25",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·小型爆破"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·小型爆破",
+    "type": "法術",
+    "cost": 2,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_26": {
+    "id": "pb_26",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·標記"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·標記",
+    "type": "法術",
+    "cost": 2,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_27": {
+    "id": "pb_27",
+    "face": {
+      "front": {
+        "name": {
+          "name": "強化組·實驗性武器"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "強化組·實驗性武器",
+    "type": "法術",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_28": {
+    "id": "pb_28",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·追蹤鎖定"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·追蹤鎖定",
+    "type": "法術",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_29": {
+    "id": "pb_29",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·標準作業"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "清理組·標準作業",
+    "type": "法術",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_30": {
+    "id": "pb_30",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·深層追蹤"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·深層追蹤",
+    "type": "法術",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_31": {
+    "id": "pb_31",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·高壓電擊"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·高壓電擊",
+    "type": "法術",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_32": {
+    "id": "pb_32",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·精準打擊"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "清理組·精準打擊",
+    "type": "法術",
+    "cost": 5,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_33": {
+    "id": "pb_33",
+    "face": {
+      "front": {
+        "name": {
+          "name": "強化組·大規模實驗"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "強化組·大規模實驗",
+    "type": "法術",
+    "cost": 6,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_34": {
+    "id": "pb_34",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·淨化程序"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·淨化程序",
+    "type": "法術",
+    "cost": 7,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_35": {
+    "id": "pb_35",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·最終清除"
+        },
+        "type": "法術",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "清理組·最終清除",
+    "type": "法術",
+    "cost": 8,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_36": {
+    "id": "pb_36",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·終局處決"
+        },
+        "type": "法術",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·終局處決",
+    "type": "法術",
+    "cost": 10,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_37": {
+    "id": "pb_37",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·資源補給"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·資源補給",
+    "type": "法術",
+    "cost": 1,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_38": {
+    "id": "pb_38",
+    "face": {
+      "front": {
+        "name": {
+          "name": "強化組·實驗體改造"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "強化組·實驗體改造",
+    "type": "法術",
+    "cost": 2,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_39": {
+    "id": "pb_39",
+    "face": {
+      "front": {
+        "name": {
+          "name": "管控組·標準裝備"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "管控組·標準裝備",
+    "type": "法術",
+    "cost": 2,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_40": {
+    "id": "pb_40",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·數據同步"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·數據同步",
+    "type": "法術",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_41": {
+    "id": "pb_41",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·適應"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·適應",
+    "type": "法術",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_42": {
+    "id": "pb_42",
+    "face": {
+      "front": {
+        "name": {
+          "name": "強化組·過載"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "強化組·過載",
+    "type": "法術",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_43": {
+    "id": "pb_43",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·集體升級"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·集體升級",
+    "type": "法術",
+    "cost": 5,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_44": {
+    "id": "pb_44",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·戰術撤退"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "清理組·戰術撤退",
+    "type": "法術",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_45": {
+    "id": "pb_45",
+    "face": {
+      "front": {
+        "name": {
+          "name": "強化組·第二次機會"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "強化組·第二次機會",
+    "type": "法術",
+    "cost": 6,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_46": {
+    "id": "pb_46",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·最高授權"
+        },
+        "type": "法術",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·最高授權",
+    "type": "法術",
+    "cost": 8,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_47": {
+    "id": "pb_47",
+    "face": {
+      "front": {
+        "name": {
+          "name": "管控組·監控掃描"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "管控組·監控掃描",
+    "type": "法術",
+    "cost": 1,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_48": {
+    "id": "pb_48",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·全頻掃描"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·全頻掃描",
+    "type": "法術",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_49": {
+    "id": "pb_49",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·干擾脈衝"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "清理組·干擾脈衝",
+    "type": "法術",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_50": {
+    "id": "pb_50",
+    "face": {
+      "front": {
+        "name": {
+          "name": "管控組·資訊封鎖"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "管控組·資訊封鎖",
+    "type": "法術",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_51": {
+    "id": "pb_51",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·心理壓迫"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·心理壓迫",
+    "type": "法術",
+    "cost": 5,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_52": {
+    "id": "pb_52",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·全域監控"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·全域監控",
+    "type": "法術",
+    "cost": 6,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_53": {
+    "id": "pb_53",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·系統癱瘓"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "清理組·系統癱瘓",
+    "type": "法術",
+    "cost": 7,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_54": {
+    "id": "pb_54",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·認知干涉"
+        },
+        "type": "法術",
+        "cost": 9,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·認知干涉",
+    "type": "法術",
+    "cost": 9,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_55": {
+    "id": "pb_55",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·能量抽取"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·能量抽取",
+    "type": "法術",
+    "cost": 2,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_56": {
+    "id": "pb_56",
+    "face": {
+      "front": {
+        "name": {
+          "name": "管控組·強制轉化"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "管控組·強制轉化",
+    "type": "法術",
+    "cost": 3,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_57": {
+    "id": "pb_57",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·能量超載"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·能量超載",
+    "type": "法術",
+    "cost": 4,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_58": {
+    "id": "pb_58",
+    "face": {
+      "front": {
+        "name": {
+          "name": "清理組·回收協議"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "清理組·回收協議",
+    "type": "法術",
+    "cost": 5,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_59": {
+    "id": "pb_59",
+    "face": {
+      "front": {
+        "name": {
+          "name": "認知科學局·Ω程序"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "認知科學局·Ω程序",
+    "type": "法術",
+    "cost": 7,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pb_60": {
+    "id": "pb_60",
+    "face": {
+      "front": {
+        "name": {
+          "name": "暗紅色者·最終收割"
+        },
+        "type": "法術",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "暗紅色者·最終收割",
+    "type": "法術",
+    "cost": 10,
+    "faction": "認知科學局",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_01": {
+    "id": "pc_01",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩見習修士"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "盧恩見習修士",
+    "type": "生物",
+    "cost": 1,
+    "faction": "回聖會",
+    "atk": 1,
+    "hp": 2,
+    "ability": "回聲。每當你施放法術，此生物+1/+0直到回合結束。"
+  },
+  "pc_02": {
+    "id": "pc_02",
+    "face": {
+      "front": {
+        "name": {
+          "name": "先知候補"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "先知候補",
+    "type": "生物",
+    "cost": 1,
+    "faction": "回聖會",
+    "atk": 1,
+    "hp": 1,
+    "ability": "回聲。每當你施放法術，抽1張牌。此效果每回合僅觸發1次。"
+  },
+  "pc_03": {
+    "id": "pc_03",
+    "face": {
+      "front": {
+        "name": {
+          "name": "靜默修會見習"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "靜默修會見習",
+    "type": "生物",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": 1,
+    "hp": 3,
+    "ability": "守護。回聲。此生物每次獲得回聲時+0/+1。"
+  },
+  "pc_04": {
+    "id": "pc_04",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩石碑"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "盧恩石碑",
+    "type": "生物",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": 0,
+    "hp": 3,
+    "ability": "場地。你場上所有回聖會（種族標籤）生物+1/+1。"
+  },
+  "pc_05": {
+    "id": "pc_05",
+    "face": {
+      "front": {
+        "name": {
+          "name": "阿爾納傳人"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "阿爾納傳人",
+    "type": "生物",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": 2,
+    "hp": 2,
+    "ability": "回聲。每當此生物獲得回聲，你能量區1張牌重置為直立。"
+  },
+  "pc_06": {
+    "id": "pc_06",
+    "face": {
+      "front": {
+        "name": {
+          "name": "迴響金護衛"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "迴響金護衛",
+    "type": "生物",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": 1,
+    "hp": 2,
+    "ability": "回聲。每當此生物獲得回聲，你場上1張生物+0/+1直到回合結束。"
+  },
+  "pc_07": {
+    "id": "pc_07",
+    "face": {
+      "front": {
+        "name": {
+          "name": "維瑟爾祭司"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "維瑟爾祭司",
+    "type": "生物",
+    "cost": 3,
+    "faction": "回聖會",
+    "atk": 2,
+    "hp": 3,
+    "ability": "回聲。每當此生物獲得回聲，對手場上1張生物本回合-1/-0。"
+  },
+  "pc_08": {
+    "id": "pc_08",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩塔學者"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "盧恩塔學者",
+    "type": "生物",
+    "cost": 3,
+    "faction": "回聖會",
+    "atk": 2,
+    "hp": 2,
+    "ability": "回聲。每當你施放法術，查看對手手牌1張。"
+  },
+  "pc_09": {
+    "id": "pc_09",
+    "face": {
+      "front": {
+        "name": {
+          "name": "靜默修會冥想者"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "靜默修會冥想者",
+    "type": "生物",
+    "cost": 3,
+    "faction": "回聖會",
+    "atk": 1,
+    "hp": 4,
+    "ability": "守護。回聲。此生物每次獲得回聲時+1/+0直到回合結束。"
+  },
+  "pc_10": {
+    "id": "pc_10",
+    "face": {
+      "front": {
+        "name": {
+          "name": "先知見習生"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "先知見習生",
+    "type": "生物",
+    "cost": 4,
+    "faction": "回聖會",
+    "atk": 3,
+    "hp": 3,
+    "ability": "回聲。每當此生物獲得回聲，你場上所有回聲生物本回合+1/+0。"
+  },
+  "pc_11": {
+    "id": "pc_11",
+    "face": {
+      "front": {
+        "name": {
+          "name": "黎明團先鋒"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "黎明團先鋒",
+    "type": "生物",
+    "cost": 4,
+    "faction": "回聖會",
+    "atk": 3,
+    "hp": 2,
+    "ability": "疾襲。回聲。每當此生物獲得回聲，對1張生物造成1點傷害。"
+  },
+  "pc_12": {
+    "id": "pc_12",
+    "face": {
+      "front": {
+        "name": {
+          "name": "迴響金結晶"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "迴響金結晶",
+    "type": "生物",
+    "cost": 4,
+    "faction": "回聖會",
+    "atk": 0,
+    "hp": 0,
+    "ability": "場地。你場上生物施放法術時消耗-1（最低1）。你場上所有回聲生物+0/+1。"
+  },
+  "pc_13": {
+    "id": "pc_13",
+    "face": {
+      "front": {
+        "name": {
+          "name": "靜默修會長老"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "靜默修會長老",
+    "type": "生物",
+    "cost": 5,
+    "faction": "回聖會",
+    "atk": 3,
+    "hp": 5,
+    "ability": "守護。回聲。每當此生物獲得回聲，從消散區選1張牌返回手牌。"
+  },
+  "pc_14": {
+    "id": "pc_14",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩塔大祭司"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "盧恩塔大祭司",
+    "type": "生物",
+    "cost": 5,
+    "faction": "回聖會",
+    "atk": 4,
+    "hp": 4,
+    "ability": "回聲。每當你施放法術，你場上所有回聲生物本回合+1/+1。"
+  },
+  "pc_15": {
+    "id": "pc_15",
+    "face": {
+      "front": {
+        "name": {
+          "name": "維瑟爾神官"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "維瑟爾神官",
+    "type": "生物",
+    "cost": 5,
+    "faction": "回聖會",
+    "atk": 3,
+    "hp": 4,
+    "ability": "回聲。每當此生物獲得回聲，你能量區+1（蓋1張手牌）。"
+  },
+  "pc_16": {
+    "id": "pc_16",
+    "face": {
+      "front": {
+        "name": {
+          "name": "黎明團聖騎士"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "黎明團聖騎士",
+    "type": "生物",
+    "cost": 6,
+    "faction": "回聖會",
+    "atk": 5,
+    "hp": 5,
+    "ability": "守護。回聲。每當此生物獲得回聲，對手場上所有生物本回合-1/-0。"
+  },
+  "pc_17": {
+    "id": "pc_17",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩塔守護者"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "盧恩塔守護者",
+    "type": "生物",
+    "cost": 6,
+    "faction": "回聖會",
+    "atk": 4,
+    "hp": 6,
+    "ability": "守護。回聲。此生物被攻擊時，若你有5層以上回聲，防禦力+3。"
+  },
+  "pc_18": {
+    "id": "pc_18",
+    "face": {
+      "front": {
+        "name": {
+          "name": "先知·阿爾納二世"
+        },
+        "type": "生物",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "先知·阿爾納二世",
+    "type": "生物",
+    "cost": 7,
+    "faction": "回聖會",
+    "atk": 4,
+    "hp": 4,
+    "ability": "回聲。每當你施放法術，此生物+2/+2直到回合結束。觸發：此生物進場時，你場上所有回聲生物各獲得2層回聲。"
+  },
+  "pc_19": {
+    "id": "pc_19",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聖會·先知降臨"
+        },
+        "type": "生物",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "回聖會·先知降臨",
+    "type": "生物",
+    "cost": 8,
+    "faction": "回聖會",
+    "atk": 6,
+    "hp": 6,
+    "ability": "回聲。每當此生物獲得回聲，對手能量區+1。此生物攻擊時，你每有1層回聲，此生物+1/+0。"
+  },
+  "pc_20": {
+    "id": "pc_20",
+    "face": {
+      "front": {
+        "name": {
+          "name": "維瑟爾先知"
+        },
+        "type": "生物",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "維瑟爾先知",
+    "type": "生物",
+    "cost": 8,
+    "faction": "回聖會",
+    "atk": 5,
+    "hp": 5,
+    "ability": "回聲。每當你施放法術，此生物+3/+3直到回合結束。觸發：此生物進場時，你場上所有生物各獲得3層回聲。"
+  },
+  "pc_21": {
+    "id": "pc_21",
+    "face": {
+      "front": {
+        "name": {
+          "name": "貝特凱恩先知"
+        },
+        "type": "生物",
+        "cost": 9,
+        "image": ""
+      }
+    },
+    "name": "貝特凱恩先知",
+    "type": "生物",
+    "cost": 9,
+    "faction": "回聖會",
+    "atk": 6,
+    "hp": 7,
+    "ability": "回聲。每當此生物獲得回聲，從手牌打出1張生物卡不消耗能量（本回合）。"
+  },
+  "pc_22": {
+    "id": "pc_22",
+    "face": {
+      "front": {
+        "name": {
+          "name": "先知·末日審判"
+        },
+        "type": "生物",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "先知·末日審判",
+    "type": "生物",
+    "cost": 10,
+    "faction": "回聖會",
+    "atk": 8,
+    "hp": 8,
+    "ability": "回聲。每當你施放法術，此生物+4/+4直到回合結束。觸發：此生物進場時，對手場上所有生物-3/-3。"
+  },
+  "pc_23": {
+    "id": "pc_23",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聖會·最終先知"
+        },
+        "type": "生物",
+        "cost": 12,
+        "image": ""
+      }
+    },
+    "name": "回聖會·最終先知",
+    "type": "生物",
+    "cost": 12,
+    "faction": "回聖會",
+    "atk": 10,
+    "hp": 10,
+    "ability": "回聲。每當你施放法術，此生物+5/+5直到回合結束。此生物攻擊時，若你有10層以上回聲，移除對手場上所有生物（無視守護）。"
+  },
+  "pc_24": {
+    "id": "pc_24",
+    "face": {
+      "front": {
+        "name": {
+          "name": "維瑟爾·消散前夕"
+        },
+        "type": "生物",
+        "cost": 13,
+        "image": ""
+      }
+    },
+    "name": "維瑟爾·消散前夕",
+    "type": "生物",
+    "cost": 13,
+    "faction": "回聖會",
+    "atk": 12,
+    "hp": 12,
+    "ability": "回聲。每當你施放法術，此生物+6/+6直到回合結束。觸發：此生物進場時，你能量區+5。此生物在場時，你每回合結束階段受到1點傷害。"
+  },
+  "pc_25": {
+    "id": "pc_25",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·衝擊"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·衝擊",
+    "type": "法術",
+    "cost": 1,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_26": {
+    "id": "pc_26",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·守護"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·守護",
+    "type": "法術",
+    "cost": 1,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_27": {
+    "id": "pc_27",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·加速"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·加速",
+    "type": "法術",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_28": {
+    "id": "pc_28",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·回響"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·回響",
+    "type": "法術",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_29": {
+    "id": "pc_29",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·共鳴"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·共鳴",
+    "type": "法術",
+    "cost": 3,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_30": {
+    "id": "pc_30",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·神聖"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·神聖",
+    "type": "法術",
+    "cost": 4,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_31": {
+    "id": "pc_31",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·淨化"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·淨化",
+    "type": "法術",
+    "cost": 5,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_32": {
+    "id": "pc_32",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·降臨"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·降臨",
+    "type": "法術",
+    "cost": 6,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_33": {
+    "id": "pc_33",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·先知之路"
+        },
+        "type": "法術",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·先知之路",
+    "type": "法術",
+    "cost": 8,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_34": {
+    "id": "pc_34",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·最終審判"
+        },
+        "type": "法術",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·最終審判",
+    "type": "法術",
+    "cost": 10,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_35": {
+    "id": "pc_35",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聲共鳴"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "回聲共鳴",
+    "type": "法術",
+    "cost": 1,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_36": {
+    "id": "pc_36",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聲擴散"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "回聲擴散",
+    "type": "法術",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_37": {
+    "id": "pc_37",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聲回憶"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "回聲回憶",
+    "type": "法術",
+    "cost": 3,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_38": {
+    "id": "pc_38",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聲爆發"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "回聲爆發",
+    "type": "法術",
+    "cost": 4,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_39": {
+    "id": "pc_39",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聲湧流"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "回聲湧流",
+    "type": "法術",
+    "cost": 5,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_40": {
+    "id": "pc_40",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聲共鸣·極限"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "回聲共鸣·極限",
+    "type": "法術",
+    "cost": 6,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_41": {
+    "id": "pc_41",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聲終章"
+        },
+        "type": "法術",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "回聲終章",
+    "type": "法術",
+    "cost": 8,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_42": {
+    "id": "pc_42",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聲·永恆迴響"
+        },
+        "type": "法術",
+        "cost": 12,
+        "image": ""
+      }
+    },
+    "name": "回聲·永恆迴響",
+    "type": "法術",
+    "cost": 12,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_43": {
+    "id": "pc_43",
+    "face": {
+      "front": {
+        "name": {
+          "name": "靜默之擊"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "靜默之擊",
+    "type": "法術",
+    "cost": 1,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_44": {
+    "id": "pc_44",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩封印"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "盧恩封印",
+    "type": "法術",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_45": {
+    "id": "pc_45",
+    "face": {
+      "front": {
+        "name": {
+          "name": "先知預見"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "先知預見",
+    "type": "法術",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_46": {
+    "id": "pc_46",
+    "face": {
+      "front": {
+        "name": {
+          "name": "黎明團巡弋"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "黎明團巡弋",
+    "type": "法術",
+    "cost": 3,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_47": {
+    "id": "pc_47",
+    "face": {
+      "front": {
+        "name": {
+          "name": "靜默修會結界"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "靜默修會結界",
+    "type": "法術",
+    "cost": 4,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_48": {
+    "id": "pc_48",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩塔封鎖"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "盧恩塔封鎖",
+    "type": "法術",
+    "cost": 5,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_49": {
+    "id": "pc_49",
+    "face": {
+      "front": {
+        "name": {
+          "name": "先知之怒"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "先知之怒",
+    "type": "法術",
+    "cost": 6,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_50": {
+    "id": "pc_50",
+    "face": {
+      "front": {
+        "name": {
+          "name": "回聖會·神罰"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "回聖會·神罰",
+    "type": "法術",
+    "cost": 7,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_51": {
+    "id": "pc_51",
+    "face": {
+      "front": {
+        "name": {
+          "name": "先知·末日預言"
+        },
+        "type": "法術",
+        "cost": 9,
+        "image": ""
+      }
+    },
+    "name": "先知·末日預言",
+    "type": "法術",
+    "cost": 9,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_52": {
+    "id": "pc_52",
+    "face": {
+      "front": {
+        "name": {
+          "name": "維瑟爾·神聖審判"
+        },
+        "type": "法術",
+        "cost": 11,
+        "image": ""
+      }
+    },
+    "name": "維瑟爾·神聖審判",
+    "type": "法術",
+    "cost": 11,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_53": {
+    "id": "pc_53",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩回復"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "盧恩回復",
+    "type": "法術",
+    "cost": 1,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_54": {
+    "id": "pc_54",
+    "face": {
+      "front": {
+        "name": {
+          "name": "靜默冥想"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "靜默冥想",
+    "type": "法術",
+    "cost": 2,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_55": {
+    "id": "pc_55",
+    "face": {
+      "front": {
+        "name": {
+          "name": "迴響金共鳴"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "迴響金共鳴",
+    "type": "法術",
+    "cost": 3,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_56": {
+    "id": "pc_56",
+    "face": {
+      "front": {
+        "name": {
+          "name": "盧恩刻印·回生"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "盧恩刻印·回生",
+    "type": "法術",
+    "cost": 4,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_57": {
+    "id": "pc_57",
+    "face": {
+      "front": {
+        "name": {
+          "name": "先知之恩"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "先知之恩",
+    "type": "法術",
+    "cost": 5,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_58": {
+    "id": "pc_58",
+    "face": {
+      "front": {
+        "name": {
+          "name": "迴響金灌注"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "迴響金灌注",
+    "type": "法術",
+    "cost": 6,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_59": {
+    "id": "pc_59",
+    "face": {
+      "front": {
+        "name": {
+          "name": "博士的最後贖罪"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "博士的最後贖罪",
+    "type": "法術",
+    "cost": 7,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pc_60": {
+    "id": "pc_60",
+    "face": {
+      "front": {
+        "name": {
+          "name": "名字·斯特拉達·維爾索"
+        },
+        "type": "法術",
+        "cost": 12,
+        "image": ""
+      }
+    },
+    "name": "名字·斯特拉達·維爾索",
+    "type": "法術",
+    "cost": 12,
+    "faction": "回聖會",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_01": {
+    "id": "pd_01",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野幼狼"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "荒野幼狼",
+    "type": "生物",
+    "cost": 1,
+    "faction": "歸獸者",
+    "atk": 1,
+    "hp": 1,
+    "ability": "獸化1。觸發：此生物+2/+0。"
+  },
+  "pd_02": {
+    "id": "pd_02",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落偵查犬"
+        },
+        "type": "生物",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "部落偵查犬",
+    "type": "生物",
+    "cost": 1,
+    "faction": "歸獸者",
+    "atk": 1,
+    "hp": 2,
+    "ability": "獸化2。觸發：查看對手手牌1張。"
+  },
+  "pd_03": {
+    "id": "pd_03",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族幼崽"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "巨牙族幼崽",
+    "type": "生物",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": 2,
+    "hp": 2,
+    "ability": "獸化2。觸發：此生物+2/+0，對對手造成1點傷害。"
+  },
+  "pd_04": {
+    "id": "pd_04",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·驯獸師"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·驯獸師",
+    "type": "生物",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": 2,
+    "hp": 3,
+    "ability": "守護。獸化3。觸發：此生物+2/+1。"
+  },
+  "pd_05": {
+    "id": "pd_05",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野遊俠"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "荒野遊俠",
+    "type": "生物",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": 2,
+    "hp": 1,
+    "ability": "疾襲（進場即可攻擊）。獸化2。觸發：此生物+1/+1。"
+  },
+  "pd_06": {
+    "id": "pd_06",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落先行者"
+        },
+        "type": "生物",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "部落先行者",
+    "type": "生物",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": 1,
+    "hp": 2,
+    "ability": "獸化2。觸發：抽1張牌。"
+  },
+  "pd_07": {
+    "id": "pd_07",
+    "face": {
+      "front": {
+        "name": {
+          "name": "狼族突襲者"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "狼族突襲者",
+    "type": "生物",
+    "cost": 3,
+    "faction": "歸獸者",
+    "atk": 3,
+    "hp": 3,
+    "ability": "獸化3。觸發：此生物+3/+0，對1張生物造成2點傷害。"
+  },
+  "pd_08": {
+    "id": "pd_08",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族戰士"
+        },
+        "type": "生物",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "巨牙族戰士",
+    "type": "生物",
+    "cost": 3,
+    "faction": "歸獸者",
+    "atk": 2,
+    "hp": 4,
+    "ability": "守護。獸化3。觸發：此生物+2/+2。"
+  },
+  "pd_09": {
+    "id": "pd_09",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野嚎叫者"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "荒野嚎叫者",
+    "type": "生物",
+    "cost": 4,
+    "faction": "歸獸者",
+    "atk": 3,
+    "hp": 3,
+    "ability": "獸化3。觸發：你場上所有生物本回合+1/+0。"
+  },
+  "pd_10": {
+    "id": "pd_10",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·狂戰士"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·狂戰士",
+    "type": "生物",
+    "cost": 4,
+    "faction": "歸獸者",
+    "atk": 4,
+    "hp": 3,
+    "ability": "獸化4。觸發：此生物+3/+0。此生物攻擊時，若對手能量區達6以上（CONTROLLED），+1/+0。"
+  },
+  "pd_11": {
+    "id": "pd_11",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落守護巨獸"
+        },
+        "type": "生物",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "部落守護巨獸",
+    "type": "生物",
+    "cost": 4,
+    "faction": "歸獸者",
+    "atk": 2,
+    "hp": 6,
+    "ability": "守護。獸化4。觸發：此生物+2/+3。"
+  },
+  "pd_12": {
+    "id": "pd_12",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野追蹤者"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "荒野追蹤者",
+    "type": "生物",
+    "cost": 5,
+    "faction": "歸獸者",
+    "atk": 4,
+    "hp": 4,
+    "ability": "獸化4。觸發：查看對手手牌全部，選1張返回牌庫底。"
+  },
+  "pd_13": {
+    "id": "pd_13",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族戰狼"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "巨牙族戰狼",
+    "type": "生物",
+    "cost": 5,
+    "faction": "歸獸者",
+    "atk": 5,
+    "hp": 3,
+    "ability": "獸化3。觸發：此生物+3/+0。此生物攻擊時，若對手能量區達11以上（SUPPRESS），+2/+0。"
+  },
+  "pd_14": {
+    "id": "pd_14",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·獸王"
+        },
+        "type": "生物",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·獸王",
+    "type": "生物",
+    "cost": 5,
+    "faction": "歸獸者",
+    "atk": 3,
+    "hp": 5,
+    "ability": "獸化5。觸發：你場上所有獸化生物各獲得2層獸化指示物。"
+  },
+  "pd_15": {
+    "id": "pd_15",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族戰王"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "巨牙族戰王",
+    "type": "生物",
+    "cost": 6,
+    "faction": "歸獸者",
+    "atk": 6,
+    "hp": 5,
+    "ability": "獸化4。觸發：此生物+4/+0，對手場上所有生物-2/-0。"
+  },
+  "pd_16": {
+    "id": "pd_16",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野守護神"
+        },
+        "type": "生物",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "荒野守護神",
+    "type": "生物",
+    "cost": 6,
+    "faction": "歸獸者",
+    "atk": 4,
+    "hp": 7,
+    "ability": "守護。獸化5。觸發：你場上所有生物回復3點生命。"
+  },
+  "pd_17": {
+    "id": "pd_17",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·狂化戰士"
+        },
+        "type": "生物",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·狂化戰士",
+    "type": "生物",
+    "cost": 7,
+    "faction": "歸獸者",
+    "atk": 5,
+    "hp": 5,
+    "ability": "獸化4。觸發：此生物+5/+0。觸發：此生物陣亡時，對手場上所有生物-3/-0。"
+  },
+  "pd_18": {
+    "id": "pd_18",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落·戰鼓手"
+        },
+        "type": "生物",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "部落·戰鼓手",
+    "type": "生物",
+    "cost": 7,
+    "faction": "歸獸者",
+    "atk": 4,
+    "hp": 4,
+    "ability": "獸化5。觸發：你場上所有生物各獲得2層獸化指示物。"
+  },
+  "pd_19": {
+    "id": "pd_19",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野之王"
+        },
+        "type": "生物",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "荒野之王",
+    "type": "生物",
+    "cost": 8,
+    "faction": "歸獸者",
+    "atk": 6,
+    "hp": 6,
+    "ability": "獸化5。觸發：此生物+5/+0。觸發：此生物進場時，你場上所有獸化生物各獲得2層獸化指示物。"
+  },
+  "pd_20": {
+    "id": "pd_20",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族·終極戰王"
+        },
+        "type": "生物",
+        "cost": 9,
+        "image": ""
+      }
+    },
+    "name": "巨牙族·終極戰王",
+    "type": "生物",
+    "cost": 9,
+    "faction": "歸獸者",
+    "atk": 8,
+    "hp": 6,
+    "ability": "獸化6。觸發：此生物+6/+0，移除對手場上1張生物（無視守護）。"
+  },
+  "pd_21": {
+    "id": "pd_21",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·部落之魂"
+        },
+        "type": "生物",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·部落之魂",
+    "type": "生物",
+    "cost": 10,
+    "faction": "歸獸者",
+    "atk": 7,
+    "hp": 7,
+    "ability": "獸化6。觸發：你場上所有獸化生物各獲得3層獸化指示物。觸發：此生物進場時，你場上所有生物+2/+2。"
+  },
+  "pd_22": {
+    "id": "pd_22",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·萬獸之王"
+        },
+        "type": "生物",
+        "cost": 12,
+        "image": ""
+      }
+    },
+    "name": "荒野·萬獸之王",
+    "type": "生物",
+    "cost": 12,
+    "faction": "歸獸者",
+    "atk": 10,
+    "hp": 8,
+    "ability": "獸化8。觸發：此生物+10/+0。你場上所有獸化生物各獲得5層獸化指示物。此生物攻擊時，對手直接落敗（無視能量區上限）。"
+  },
+  "pd_23": {
+    "id": "pd_23",
+    "face": {
+      "front": {
+        "name": {
+          "name": "野性衝擊"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "野性衝擊",
+    "type": "法術",
+    "cost": 1,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_24": {
+    "id": "pd_24",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落毒刃"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "部落毒刃",
+    "type": "法術",
+    "cost": 1,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_25": {
+    "id": "pd_25",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野撕咬"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "荒野撕咬",
+    "type": "法術",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_26": {
+    "id": "pd_26",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族猛擊"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "巨牙族猛擊",
+    "type": "法術",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_27": {
+    "id": "pd_27",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·獵殺"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·獵殺",
+    "type": "法術",
+    "cost": 3,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_28": {
+    "id": "pd_28",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野嚎叫·震慑"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "荒野嚎叫·震慑",
+    "type": "法術",
+    "cost": 3,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_29": {
+    "id": "pd_29",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落戰嚎"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "部落戰嚎",
+    "type": "法術",
+    "cost": 4,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_30": {
+    "id": "pd_30",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族衝鋒"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "巨牙族衝鋒",
+    "type": "法術",
+    "cost": 4,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_31": {
+    "id": "pd_31",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·終極獵殺"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "荒野·終極獵殺",
+    "type": "法術",
+    "cost": 5,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_32": {
+    "id": "pd_32",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·大獵殺"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·大獵殺",
+    "type": "法術",
+    "cost": 6,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_33": {
+    "id": "pd_33",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落·血祭儀式"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "部落·血祭儀式",
+    "type": "法術",
+    "cost": 7,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_34": {
+    "id": "pd_34",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·獸王降臨"
+        },
+        "type": "法術",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "荒野·獸王降臨",
+    "type": "法術",
+    "cost": 8,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_35": {
+    "id": "pd_35",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族·滅世衝擊"
+        },
+        "type": "法術",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "巨牙族·滅世衝擊",
+    "type": "法術",
+    "cost": 10,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_36": {
+    "id": "pd_36",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·最終獵殺"
+        },
+        "type": "法術",
+        "cost": 12,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·最終獵殺",
+    "type": "法術",
+    "cost": 12,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_37": {
+    "id": "pd_37",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落嘶吼"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "部落嘶吼",
+    "type": "法術",
+    "cost": 1,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_38": {
+    "id": "pd_38",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野藥草"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "荒野藥草",
+    "type": "法術",
+    "cost": 1,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_39": {
+    "id": "pd_39",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·戰吼"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·戰吼",
+    "type": "法術",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_40": {
+    "id": "pd_40",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族戰鼓"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "巨牙族戰鼓",
+    "type": "法術",
+    "cost": 3,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_41": {
+    "id": "pd_41",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·狂化藥劑"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "荒野·狂化藥劑",
+    "type": "法術",
+    "cost": 3,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_42": {
+    "id": "pd_42",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落·戰士號角"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "部落·戰士號角",
+    "type": "法術",
+    "cost": 4,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_43": {
+    "id": "pd_43",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·集體狂化"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·集體狂化",
+    "type": "法術",
+    "cost": 5,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_44": {
+    "id": "pd_44",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·血怒灌注"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "荒野·血怒灌注",
+    "type": "法術",
+    "cost": 6,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_45": {
+    "id": "pd_45",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族·戰王號令"
+        },
+        "type": "法術",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "巨牙族·戰王號令",
+    "type": "法術",
+    "cost": 8,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_46": {
+    "id": "pd_46",
+    "face": {
+      "front": {
+        "name": {
+          "name": "名字·斯特拉達·維爾索"
+        },
+        "type": "法術",
+        "cost": 12,
+        "image": ""
+      }
+    },
+    "name": "名字·斯特拉達·維爾索",
+    "type": "法術",
+    "cost": 12,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_47": {
+    "id": "pd_47",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落偵察"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "部落偵察",
+    "type": "法術",
+    "cost": 1,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_48": {
+    "id": "pd_48",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·嚎叫震懾"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "荒野·嚎叫震懾",
+    "type": "法術",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_49": {
+    "id": "pd_49",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·戰場壓制"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·戰場壓制",
+    "type": "法術",
+    "cost": 3,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_50": {
+    "id": "pd_50",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族·戰吼震懾"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "巨牙族·戰吼震懾",
+    "type": "法術",
+    "cost": 4,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_51": {
+    "id": "pd_51",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·心理戰"
+        },
+        "type": "法術",
+        "cost": 5,
+        "image": ""
+      }
+    },
+    "name": "荒野·心理戰",
+    "type": "法術",
+    "cost": 5,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_52": {
+    "id": "pd_52",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落·戰場封鎖"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "部落·戰場封鎖",
+    "type": "法術",
+    "cost": 6,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_53": {
+    "id": "pd_53",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·獸群狂潮"
+        },
+        "type": "法術",
+        "cost": 8,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·獸群狂潮",
+    "type": "法術",
+    "cost": 8,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_54": {
+    "id": "pd_54",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·萬獸奔騰"
+        },
+        "type": "法術",
+        "cost": 10,
+        "image": ""
+      }
+    },
+    "name": "荒野·萬獸奔騰",
+    "type": "法術",
+    "cost": 10,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_55": {
+    "id": "pd_55",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野療傷"
+        },
+        "type": "法術",
+        "cost": 1,
+        "image": ""
+      }
+    },
+    "name": "荒野療傷",
+    "type": "法術",
+    "cost": 1,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_56": {
+    "id": "pd_56",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落·戰場救援"
+        },
+        "type": "法術",
+        "cost": 2,
+        "image": ""
+      }
+    },
+    "name": "部落·戰場救援",
+    "type": "法術",
+    "cost": 2,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_57": {
+    "id": "pd_57",
+    "face": {
+      "front": {
+        "name": {
+          "name": "歸獸者·集體治療"
+        },
+        "type": "法術",
+        "cost": 3,
+        "image": ""
+      }
+    },
+    "name": "歸獸者·集體治療",
+    "type": "法術",
+    "cost": 3,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_58": {
+    "id": "pd_58",
+    "face": {
+      "front": {
+        "name": {
+          "name": "荒野·戰場回收"
+        },
+        "type": "法術",
+        "cost": 4,
+        "image": ""
+      }
+    },
+    "name": "荒野·戰場回收",
+    "type": "法術",
+    "cost": 4,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_59": {
+    "id": "pd_59",
+    "face": {
+      "front": {
+        "name": {
+          "name": "部落·血祭重生"
+        },
+        "type": "法術",
+        "cost": 6,
+        "image": ""
+      }
+    },
+    "name": "部落·血祭重生",
+    "type": "法術",
+    "cost": 6,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  },
+  "pd_60": {
+    "id": "pd_60",
+    "face": {
+      "front": {
+        "name": {
+          "name": "巨牙族·戰王之怒"
+        },
+        "type": "法術",
+        "cost": 7,
+        "image": ""
+      }
+    },
+    "name": "巨牙族·戰王之怒",
+    "type": "法術",
+    "cost": 7,
+    "faction": "歸獸者",
+    "atk": null,
+    "hp": null,
+    "ability": ""
+  }
+}
