@@ -147,7 +147,7 @@
   },
   "cards": {
     "dataUrl": "./cards.json",
-    "cardBack": "https://via.placeholder.com/250x350/1a1a2e/ffffff?text=SDV",
+    "cardBack": "https://placehold.co/250x350/1a1a2e/ffffff?text=SDV",
     "cardBackColor": "#1a1a2e"
   },
   "defaultRessources": {

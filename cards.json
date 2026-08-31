@@ -8,16 +8,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E5%88%9D%E5%A7%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E5%88%9D%E5%A7%8B"
       }
     },
     "name": "實驗體21號·初始",
     "type": "生物",
-    "cost": 1,
-    "faction": "實驗體",
-    "atk": 1,
-    "hp": 1,
-    "ability": "被動：你的能量區每有1張牌，此生物+1/+0（不含此卡自身）。"
+    "cost": 1
   },
   "pa_02": {
     "id": "pa_02",
@@ -28,16 +24,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E8%96%84%E7%89%87"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E8%96%84%E7%89%87"
       }
     },
     "name": "盧恩薄片",
     "type": "生物",
-    "cost": 1,
-    "faction": "實驗體",
-    "atk": 0,
-    "hp": 2,
-    "ability": "守護。起動：橫置，查看對手能量區1張牌的內容。"
+    "cost": 1
   },
   "pa_03": {
     "id": "pa_03",
@@ -48,16 +40,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%E7%9B%A3%E8%A6%96%E5%99%A8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%E7%9B%A3%E8%A6%96%E5%99%A8"
       }
     },
     "name": "認知科學局監視器",
     "type": "生物",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": 2,
-    "hp": 1,
-    "ability": "起動：橫置，查看對手手牌1張。"
+    "cost": 2
   },
   "pa_04": {
     "id": "pa_04",
@@ -68,16 +56,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E5%AE%A4%E9%80%83%E8%84%B1%E8%B7%AF%E7%B7%9A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E5%AE%A4%E9%80%83%E8%84%B1%E8%B7%AF%E7%B7%9A"
       }
     },
     "name": "實驗室逃脱路線",
     "type": "生物",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": 1,
-    "hp": 2,
-    "ability": "起動：回收此卡，將你場上1張生物返回手牌。"
+    "cost": 2
   },
   "pa_05": {
     "id": "pa_05",
@@ -88,16 +72,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E8%A6%9A%E9%86%92"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E8%A6%9A%E9%86%92"
       }
     },
     "name": "實驗體21號·覚醒",
     "type": "生物",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": 1,
-    "hp": 2,
-    "ability": "飛行。被動：當你能量區達6以上（CONTROLLED），此生物攻擊時可查看對手手牌1張。"
+    "cost": 2
   },
   "pa_06": {
     "id": "pa_06",
@@ -108,16 +88,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9E%97"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9E%97"
       }
     },
     "name": "林",
     "type": "生物",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": 2,
-    "hp": 3,
-    "ability": "被動：此生物存活時，你每回合可額外蓋1張牌進能量區（限2次/回合）。"
+    "cost": 3
   },
   "pa_07": {
     "id": "pa_07",
@@ -128,16 +104,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%98%BF%E5%AC%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%98%BF%E5%AC%A4"
       }
     },
     "name": "阿嬤",
     "type": "生物",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": 1,
-    "hp": 4,
-    "ability": "被動：此生物存活時，你場上其他生物+0/+1。"
+    "cost": 3
   },
   "pa_08": {
     "id": "pa_08",
@@ -148,16 +120,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%96%E6%A9%98%E8%89%B2%E7%9A%84%E8%A8%98%E6%86%B6"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%96%E6%A9%98%E8%89%B2%E7%9A%84%E8%A8%98%E6%86%B6"
       }
     },
     "name": "暖橘色的記憶",
     "type": "生物",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": 0,
-    "hp": 3,
-    "ability": "守護。觸發：當此生物被攻擊時，從手牌打出1張法術卡不消耗能量（本回合）。"
+    "cost": 3
   },
   "pa_09": {
     "id": "pa_09",
@@ -168,16 +136,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%88%8A%E5%9F%8E%E5%8D%80%E8%97%8F%E8%BA%AB%E8%99%95"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%88%8A%E5%9F%8E%E5%8D%80%E8%97%8F%E8%BA%AB%E8%99%95"
       }
     },
     "name": "舊城區藏身處",
     "type": "生物",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": 0,
-    "hp": 0,
-    "ability": "場地。你場上生物+0/+1。起動：橫置，抽1張牌。"
+    "cost": 3
   },
   "pa_10": {
     "id": "pa_10",
@@ -188,16 +152,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%89%B2%E7%9B%B8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%89%B2%E7%9B%B8"
       }
     },
     "name": "色彩感知·色相",
     "type": "生物",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": 2,
-    "hp": 2,
-    "ability": "起動：橫置，查看對手手牌全部內容（不公開）。"
+    "cost": 3
   },
   "pa_11": {
     "id": "pa_11",
@@ -208,16 +168,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BF%A1%E4%BB%BB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BF%A1%E4%BB%BB"
       }
     },
     "name": "第一次信任",
     "type": "生物",
-    "cost": 4,
-    "faction": "實驗體",
-    "atk": 3,
-    "hp": 3,
-    "ability": "觸發：當此生物進場時，你能量區+1（蓋1張手牌）。"
+    "cost": 4
   },
   "pa_12": {
     "id": "pa_12",
@@ -228,16 +184,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%E7%9A%84%E8%BF%BD%E8%B9%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%E7%9A%84%E8%BF%BD%E8%B9%A4"
       }
     },
     "name": "暗紅色者的追蹤",
     "type": "生物",
-    "cost": 4,
-    "faction": "實驗體",
-    "atk": 3,
-    "hp": 2,
-    "ability": "疾襲（進場即可攻擊）。觸發：當此生物攻擊時，對手能量區+1。"
+    "cost": 4
   },
   "pa_13": {
     "id": "pa_13",
@@ -248,16 +200,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E4%BA%AE%E7%B4%85%E8%89%B2%E7%94%B7%E4%BA%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E4%BA%AE%E7%B4%85%E8%89%B2%E7%94%B7%E4%BA%BA"
       }
     },
     "name": "亮紅色男人",
     "type": "生物",
-    "cost": 5,
-    "faction": "實驗體",
-    "atk": 4,
-    "hp": 4,
-    "ability": "觸發：當此生物進場時，你場上其他生物本回合+2/+0。"
+    "cost": 5
   },
   "pa_14": {
     "id": "pa_14",
@@ -268,16 +216,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E4%BA%AE%E8%97%8D%E7%B6%A0%E5%A5%B3%E5%AD%A9"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E4%BA%AE%E8%97%8D%E7%B6%A0%E5%A5%B3%E5%AD%A9"
       }
     },
     "name": "亮藍綠女孩",
     "type": "生物",
-    "cost": 5,
-    "faction": "實驗體",
-    "atk": 3,
-    "hp": 5,
-    "ability": "守護。被動：此生物存活時，你場上生物被攻擊時，防禦力+2。"
+    "cost": 5
   },
   "pa_15": {
     "id": "pa_15",
@@ -288,16 +232,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%B3%AA%E6%84%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%B3%AA%E6%84%9F"
       }
     },
     "name": "色彩感知·質感",
     "type": "生物",
-    "cost": 5,
-    "faction": "實驗體",
-    "atk": 3,
-    "hp": 3,
-    "ability": "飛行。起動：橫置，查看對手場上所有生物的攻擊力與能力。"
+    "cost": 5
   },
   "pa_16": {
     "id": "pa_16",
@@ -308,16 +248,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%BC%B7%E5%8C%96%E7%B5%84%E5%88%86%E9%83%A8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%BC%B7%E5%8C%96%E7%B5%84%E5%88%86%E9%83%A8"
       }
     },
     "name": "認知科學局·強化組分部",
     "type": "生物",
-    "cost": 5,
-    "faction": "實驗體",
-    "atk": 0,
-    "hp": 0,
-    "ability": "場地。你每回合使用法術卡消耗-1（最低1）。對手每回合首張法術卡消耗+1。"
+    "cost": 5
   },
   "pa_17": {
     "id": "pa_17",
@@ -328,16 +264,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E7%A7%98%E5%AF%86"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E7%A7%98%E5%AF%86"
       }
     },
     "name": "博士的秘密",
     "type": "生物",
-    "cost": 6,
-    "faction": "實驗體",
-    "atk": 4,
-    "hp": 3,
-    "ability": "觸發：當此生物進場時，從墓地選1張法術卡返回手牌。"
+    "cost": 6
   },
   "pa_18": {
     "id": "pa_18",
@@ -348,16 +280,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9B%B6%E8%99%9F%E8%A8%88%E5%8A%83%E7%9A%84%E7%9C%9F%E7%9B%B8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%9B%B6%E8%99%9F%E8%A8%88%E5%8A%83%E7%9A%84%E7%9C%9F%E7%9B%B8"
       }
     },
     "name": "零號計劃的真相",
     "type": "生物",
-    "cost": 6,
-    "faction": "實驗體",
-    "atk": 3,
-    "hp": 4,
-    "ability": "起動：橫置，查看對手能量區全部內容。"
+    "cost": 6
   },
   "pa_19": {
     "id": "pa_19",
@@ -368,16 +296,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8D%97%E6%96%B9%E7%AF%80%E9%BB%9E"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%8D%97%E6%96%B9%E7%AF%80%E9%BB%9E"
       }
     },
     "name": "南方節點",
     "type": "生物",
-    "cost": 6,
-    "faction": "實驗體",
-    "atk": 3,
-    "hp": 3,
-    "ability": "場地。你場上回聲之民（種族標籤）生物+1/+1。"
+    "cost": 6
   },
   "pa_20": {
     "id": "pa_20",
@@ -388,16 +312,12 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%8A%80%E7%99%BD%E8%89%B2%E8%80%81%E4%BA%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%8A%80%E7%99%BD%E8%89%B2%E8%80%81%E4%BA%BA"
       }
     },
     "name": "銀白色老人",
     "type": "生物",
-    "cost": 7,
-    "faction": "實驗體",
-    "atk": 5,
-    "hp": 5,
-    "ability": "守護。被動：此生物存活時，你場上生物被消滅時，不進墓地，改為回到手牌。"
+    "cost": 7
   },
   "pa_21": {
     "id": "pa_21",
@@ -408,16 +328,12 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E8%BB%8C%E8%B7%A1"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E8%BB%8C%E8%B7%A1"
       }
     },
     "name": "實驗體21號·軌跡",
     "type": "生物",
-    "cost": 7,
-    "faction": "實驗體",
-    "atk": 5,
-    "hp": 4,
-    "ability": "被動：此生物攻擊時，可查看對手牌庫頂3張牌，選1張送入對手能量區。"
+    "cost": 7
   },
   "pa_22": {
     "id": "pa_22",
@@ -428,16 +344,12 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E5%B1%A4%E6%AC%A1"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E5%B1%A4%E6%AC%A1"
       }
     },
     "name": "色彩感知·層次",
     "type": "生物",
-    "cost": 7,
-    "faction": "實驗體",
-    "atk": 4,
-    "hp": 5,
-    "ability": "起動：橫置，移除對手場上1張生物（無視守護）。"
+    "cost": 7
   },
   "pa_23": {
     "id": "pa_23",
@@ -448,16 +360,12 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E4%B8%83%E5%80%8B%E5%B9%BD%E9%9D%88%C2%B7%E9%9B%86%E7%B5%90"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E4%B8%83%E5%80%8B%E5%B9%BD%E9%9D%88%C2%B7%E9%9B%86%E7%B5%90"
       }
     },
     "name": "七個幽靈·集結",
     "type": "生物",
-    "cost": 8,
-    "faction": "實驗體",
-    "atk": 6,
-    "hp": 6,
-    "ability": "觸發：當此生物進場時，你能量區每有1張牌，此生物+1/+0（最高+12）。"
+    "cost": 8
   },
   "pa_24": {
     "id": "pa_24",
@@ -468,16 +376,12 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E5%90%8C%E5%8C%96%E8%A6%96%E7%95%8C"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E5%90%8C%E5%8C%96%E8%A6%96%E7%95%8C"
       }
     },
     "name": "實驗體21號·同化視界",
     "type": "生物",
-    "cost": 10,
-    "faction": "實驗體",
-    "atk": 8,
-    "hp": 8,
-    "ability": "被動：此生物攻擊時，對手能量區+2。觸發：此生物陣亡時，你場上所有生物本回合+4/+4。"
+    "cost": 10
   },
   "pa_25": {
     "id": "pa_25",
@@ -488,16 +392,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E6%83%85%E7%B7%92%E8%89%B2"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E6%83%85%E7%B7%92%E8%89%B2"
       }
     },
     "name": "色彩感知·情緒色",
     "type": "法術",
-    "cost": 1,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pa_26": {
     "id": "pa_26",
@@ -508,16 +408,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%B4%E8%A6%BA%E9%96%83%E7%8F%BE"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%B4%E8%A6%BA%E9%96%83%E7%8F%BE"
       }
     },
     "name": "直覺閃現",
     "type": "法術",
-    "cost": 1,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pa_27": {
     "id": "pa_27",
@@ -528,16 +424,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%B3%AA%E6%84%9F%E8%AE%80%E5%8F%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%B3%AA%E6%84%9F%E8%AE%80%E5%8F%96"
       }
     },
     "name": "色彩感知·質感讀取",
     "type": "法術",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pa_28": {
     "id": "pa_28",
@@ -548,16 +440,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B5%90%E6%A7%8B%E7%9B%B4%E8%A6%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%B5%90%E6%A7%8B%E7%9B%B4%E8%A6%BA"
       }
     },
     "name": "結構直覺",
     "type": "法術",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pa_29": {
     "id": "pa_29",
@@ -568,16 +456,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%96%B9%E5%90%91%E7%9B%B4%E8%A6%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%96%B9%E5%90%91%E7%9B%B4%E8%A6%BA"
       }
     },
     "name": "方向直覺",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_30": {
     "id": "pa_30",
@@ -588,16 +472,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AE%98%E9%9F%BF%E8%AE%80%E5%8F%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AE%98%E9%9F%BF%E8%AE%80%E5%8F%96"
       }
     },
     "name": "殘響讀取",
     "type": "法術",
-    "cost": 4,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pa_31": {
     "id": "pa_31",
@@ -608,16 +488,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E8%89%B2%E7%9B%B8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E8%89%B2%E7%9B%B8"
       }
     },
     "name": "觀測·色相",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_32": {
     "id": "pa_32",
@@ -628,16 +504,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E8%B3%AA%E6%84%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E8%B3%AA%E6%84%9F"
       }
     },
     "name": "觀測·質感",
     "type": "法術",
-    "cost": 5,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pa_33": {
     "id": "pa_33",
@@ -648,16 +520,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E5%B1%A4%E6%AC%A1"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E5%B1%A4%E6%AC%A1"
       }
     },
     "name": "觀測·層次",
     "type": "法術",
-    "cost": 6,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pa_34": {
     "id": "pa_34",
@@ -668,16 +536,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E7%A9%A9%E5%AE%9A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E7%A9%A9%E5%AE%9A"
       }
     },
     "name": "盧恩刻印·穩定",
     "type": "法術",
-    "cost": 1,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pa_35": {
     "id": "pa_35",
@@ -688,16 +552,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E5%B1%8F%E8%94%BD"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E5%B1%8F%E8%94%BD"
       }
     },
     "name": "色彩屏蔽",
     "type": "法術",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pa_36": {
     "id": "pa_36",
@@ -708,16 +568,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E4%BA%BA%E7%9A%84%E6%90%9C%E6%9F%A5"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E4%BA%BA%E7%9A%84%E6%90%9C%E6%9F%A5"
       }
     },
     "name": "灰衣人的搜查",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_37": {
     "id": "pa_37",
@@ -728,16 +584,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BD%89%E7%A7%BB%E6%B3%A8%E6%84%8F%E5%8A%9B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%BD%89%E7%A7%BB%E6%B3%A8%E6%84%8F%E5%8A%9B"
       }
     },
     "name": "轉移注意力",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_38": {
     "id": "pa_38",
@@ -748,16 +600,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%99%9B%E7%B2%92%E5%AD%90%E8%AD%B7%E7%9B%BE"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%99%9B%E7%B2%92%E5%AD%90%E8%AD%B7%E7%9B%BE"
       }
     },
     "name": "虛粒子護盾",
     "type": "法術",
-    "cost": 4,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pa_39": {
     "id": "pa_39",
@@ -768,16 +616,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8B%95%E6%85%8B%E6%B3%95%E6%8B%89%E7%AC%AC%E7%B1%A0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%8B%95%E6%85%8B%E6%B3%95%E6%8B%89%E7%AC%AC%E7%B1%A0"
       }
     },
     "name": "動態法拉第籠",
     "type": "法術",
-    "cost": 5,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pa_40": {
     "id": "pa_40",
@@ -788,16 +632,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E5%85%B1%E9%B3%B4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "迴響金共鳴",
     "type": "法術",
-    "cost": 6,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pa_41": {
     "id": "pa_41",
@@ -808,16 +648,12 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%87%A8%E7%95%8C%E7%88%86%E7%99%BC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%87%A8%E7%95%8C%E7%88%86%E7%99%BC"
       }
     },
     "name": "臨界爆發",
     "type": "法術",
-    "cost": 9,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 9
   },
   "pa_42": {
     "id": "pa_42",
@@ -828,16 +664,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BE%AE%E7%89%A9%E7%90%86%E5%B9%B2%E6%B6%89%C2%B7%E9%9C%87%E6%B3%A2"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%BE%AE%E7%89%A9%E7%90%86%E5%B9%B2%E6%B6%89%C2%B7%E9%9C%87%E6%B3%A2"
       }
     },
     "name": "微物理干涉·震波",
     "type": "法術",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pa_43": {
     "id": "pa_43",
@@ -848,16 +680,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%81%B2%E6%B3%A2%E8%84%88%E8%A1%9D"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%81%B2%E6%B3%A2%E8%84%88%E8%A1%9D"
       }
     },
     "name": "聲波脈衝",
     "type": "法術",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pa_44": {
     "id": "pa_44",
@@ -868,16 +696,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E6%9A%97%E7%B4%85%E8%AE%80%E5%8F%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E6%9A%97%E7%B4%85%E8%AE%80%E5%8F%96"
       }
     },
     "name": "色彩感知·暗紅讀取",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_45": {
     "id": "pa_45",
@@ -888,16 +712,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%81%B2%E6%B3%A2%E8%81%9A%E7%84%A6%C2%B7%E5%B0%8D%E7%A9%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%81%B2%E6%B3%A2%E8%81%9A%E7%84%A6%C2%B7%E5%B0%8D%E7%A9%BA"
       }
     },
     "name": "聲波聚焦·對空",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_46": {
     "id": "pa_46",
@@ -908,16 +728,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%A6%82%E7%8E%87%E8%A7%B8%E5%8F%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%A6%82%E7%8E%87%E8%A7%B8%E5%8F%8A"
       }
     },
     "name": "概率觸及",
     "type": "法術",
-    "cost": 4,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pa_47": {
     "id": "pa_47",
@@ -928,16 +744,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%B1%E6%8C%AF%E7%A2%8E%E8%A3%82"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%B1%E6%8C%AF%E7%A2%8E%E8%A3%82"
       }
     },
     "name": "共振碎裂",
     "type": "法術",
-    "cost": 5,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pa_48": {
     "id": "pa_48",
@@ -948,16 +760,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%86%B1%E9%9B%BB%E8%81%B2%E5%AD%90%E8%80%A6%E5%90%88"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%86%B1%E9%9B%BB%E8%81%B2%E5%AD%90%E8%80%A6%E5%90%88"
       }
     },
     "name": "熱電聲子耦合",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_49": {
     "id": "pa_49",
@@ -968,16 +776,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%87%8F%E5%AD%90%E7%B3%BE%E7%BA%8F%E5%85%B1%E9%B3%B4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%87%8F%E5%AD%90%E7%B3%BE%E7%BA%8F%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "量子糾纏共鳴",
     "type": "法術",
-    "cost": 5,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pa_50": {
     "id": "pa_50",
@@ -988,16 +792,12 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%90%A6%E5%AE%9A%E4%B9%8B%E7%9C%BC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%90%A6%E5%AE%9A%E4%B9%8B%E7%9C%BC"
       }
     },
     "name": "否定之眼",
     "type": "法術",
-    "cost": 7,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   },
   "pa_51": {
     "id": "pa_51",
@@ -1008,16 +808,12 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%B7%AF%E5%BE%91%E6%94%B6%E6%9D%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%B7%AF%E5%BE%91%E6%94%B6%E6%9D%9F"
       }
     },
     "name": "路徑收束",
     "type": "法術",
-    "cost": 8,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 8
   },
   "pa_52": {
     "id": "pa_52",
@@ -1028,16 +824,12 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E5%BA%A6%E9%80%8F%E8%A6%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E5%BA%A6%E9%80%8F%E8%A6%96"
       }
     },
     "name": "維度透視",
     "type": "法術",
-    "cost": 10,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 10
   },
   "pa_53": {
     "id": "pa_53",
@@ -1048,16 +840,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%A8%98%E6%86%B6%E7%A2%8E%E7%89%87"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%A8%98%E6%86%B6%E7%A2%8E%E7%89%87"
       }
     },
     "name": "記憶碎片",
     "type": "法術",
-    "cost": 1,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pa_54": {
     "id": "pa_54",
@@ -1068,16 +856,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%94%9F%E5%91%BD%E7%86%B1%E6%BA%90"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%94%9F%E5%91%BD%E7%86%B1%E6%BA%90"
       }
     },
     "name": "生命熱源",
     "type": "法術",
-    "cost": 2,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pa_55": {
     "id": "pa_55",
@@ -1088,16 +872,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%85%B6%E4%BF%83%E9%9A%A7%E7%A9%BF%E5%8A%A0%E9%80%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%85%B6%E4%BF%83%E9%9A%A7%E7%A9%BF%E5%8A%A0%E9%80%9F"
       }
     },
     "name": "酶促隧穿加速",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_56": {
     "id": "pa_56",
@@ -1108,16 +888,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%A3%81%E5%8F%97%E5%AE%B9%E5%85%B1%E6%8C%AF"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%A3%81%E5%8F%97%E5%AE%B9%E5%85%B1%E6%8C%AF"
       }
     },
     "name": "磁受容共振",
     "type": "法術",
-    "cost": 3,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pa_57": {
     "id": "pa_57",
@@ -1128,16 +904,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%94%9F%E7%89%A9%E7%99%BC%E5%85%89%E8%AA%BF%E7%AF%80"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%94%9F%E7%89%A9%E7%99%BC%E5%85%89%E8%AA%BF%E7%AF%80"
       }
     },
     "name": "生物發光調節",
     "type": "法術",
-    "cost": 4,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pa_58": {
     "id": "pa_58",
@@ -1148,16 +920,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BD%89%E7%94%9F%E8%B7%AF%E7%B7%9A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%BD%89%E7%94%9F%E8%B7%AF%E7%B7%9A"
       }
     },
     "name": "轉生路線",
     "type": "法術",
-    "cost": 6,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pa_59": {
     "id": "pa_59",
@@ -1168,16 +936,12 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E6%9C%80%E5%BE%8C%E8%B4%96%E7%BD%AA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E6%9C%80%E5%BE%8C%E8%B4%96%E7%BD%AA"
       }
     },
     "name": "博士的最後贖罪",
     "type": "法術",
-    "cost": 7,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   },
   "pa_60": {
     "id": "pa_60",
@@ -1188,16 +952,12 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
       }
     },
     "name": "名字·斯特拉達·維爾索",
     "type": "法術",
-    "cost": 12,
-    "faction": "實驗體",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 12
   },
   "pb_01": {
     "id": "pb_01",
@@ -1208,16 +968,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%88%9D%E6%9C%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%88%9D%E6%9C%9F"
       }
     },
     "name": "暗紅色者·初期",
     "type": "生物",
-    "cost": 1,
-    "faction": "認知科學局",
-    "atk": 2,
-    "hp": 1,
-    "ability": "觸發：當此生物攻擊時，若對手能量區達6以上（CONTROLLED），此生物+1/+0。"
+    "cost": 1
   },
   "pb_02": {
     "id": "pb_02",
@@ -1228,16 +984,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E5%81%B5%E6%9F%A5%E5%93%A1"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E5%81%B5%E6%9F%A5%E5%93%A1"
       }
     },
     "name": "灰衣偵查員",
     "type": "生物",
-    "cost": 1,
-    "faction": "認知科學局",
-    "atk": 1,
-    "hp": 2,
-    "ability": "起動：橫置，查看對手手牌1張。"
+    "cost": 1
   },
   "pb_03": {
     "id": "pb_03",
@@ -1248,16 +1000,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E7%9B%A3%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E7%9B%A3%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F"
       }
     },
     "name": "認知科學局·監控無人機",
     "type": "生物",
-    "cost": 1,
-    "faction": "認知科學局",
-    "atk": 1,
-    "hp": 1,
-    "ability": "飛行（僅可被飛行生物防守）。觸發：此生物攻擊時，查看對手牌庫頂1張。"
+    "cost": 1
   },
   "pb_04": {
     "id": "pb_04",
@@ -1268,16 +1016,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%94%E8%BF%BD%E8%B9%A4%E7%8A%AC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%94%E8%BF%BD%E8%B9%A4%E7%8A%AC"
       }
     },
     "name": "實驗體追蹤犬",
     "type": "生物",
-    "cost": 2,
-    "faction": "認知科學局",
-    "atk": 2,
-    "hp": 2,
-    "ability": "起動：橫置，犧牲此卡，對1張生物造成1點傷害。"
+    "cost": 2
   },
   "pb_05": {
     "id": "pb_05",
@@ -1288,16 +1032,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E5%A4%96%E5%8B%A4%E5%B9%B9%E5%93%A1"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E5%A4%96%E5%8B%A4%E5%B9%B9%E5%93%A1"
       }
     },
     "name": "管控組·外勤幹員",
     "type": "生物",
-    "cost": 2,
-    "faction": "認知科學局",
-    "atk": 2,
-    "hp": 1,
-    "ability": "飛行。疾襲（進場即可攻擊）。"
+    "cost": 2
   },
   "pb_06": {
     "id": "pb_06",
@@ -1308,16 +1048,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%B3%87%E6%BA%90%E5%9B%9E%E6%94%B6"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%B3%87%E6%BA%90%E5%9B%9E%E6%94%B6"
       }
     },
     "name": "認知科學局·資源回收",
     "type": "生物",
-    "cost": 2,
-    "faction": "認知科學局",
-    "atk": 1,
-    "hp": 2,
-    "ability": "觸發：當此生物陣亡時，從墓地選1張法術卡返回手牌。"
+    "cost": 2
   },
   "pb_07": {
     "id": "pb_07",
@@ -1328,16 +1064,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E4%B8%AD%E6%9C%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E4%B8%AD%E6%9C%9F"
       }
     },
     "name": "暗紅色者·中期",
     "type": "生物",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": 3,
-    "hp": 3,
-    "ability": "被動：此生物攻擊時，若對手能量區達11以上（SUPPRESS），改為造成雙倍傷害。"
+    "cost": 3
   },
   "pb_08": {
     "id": "pb_08",
@@ -1348,16 +1080,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E5%B0%8F%E9%9A%8A%E9%95%B7"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E5%B0%8F%E9%9A%8A%E9%95%B7"
       }
     },
     "name": "灰衣小隊長",
     "type": "生物",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": 3,
-    "hp": 2,
-    "ability": "觸發：當此生物進場時，對手場上1張生物本回合-1/-1。"
+    "cost": 3
   },
   "pb_09": {
     "id": "pb_09",
@@ -1368,16 +1096,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E8%AD%B7%E8%A1%9B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E8%AD%B7%E8%A1%9B"
       }
     },
     "name": "強化組·實驗護衛",
     "type": "生物",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": 2,
-    "hp": 4,
-    "ability": "守護。被動：你場上其他暗紅色者（種族標籤）生物+1/+0。"
+    "cost": 3
   },
   "pb_10": {
     "id": "pb_10",
@@ -1388,16 +1112,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%87%8F%E6%B8%AC%E8%A3%9D%E7%BD%AE"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%87%8F%E6%B8%AC%E8%A3%9D%E7%BD%AE"
       }
     },
     "name": "認知科學局·量測裝置",
     "type": "生物",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": 0,
-    "hp": 3,
-    "ability": "場地。你每回合首次使用法術卡時，若該法術對生物造成傷害，+1傷害。"
+    "cost": 4
   },
   "pb_11": {
     "id": "pb_11",
@@ -1408,16 +1128,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E7%86%9F%E7%B7%B4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E7%86%9F%E7%B7%B4"
       }
     },
     "name": "暗紅色者·熟練",
     "type": "生物",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": 4,
-    "hp": 3,
-    "ability": "飛行。觸發：當此生物攻擊時，若對手能量區達11以上（SUPPRESS），對手能量區+1。"
+    "cost": 4
   },
   "pb_12": {
     "id": "pb_12",
@@ -1428,16 +1144,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%83%85%E5%A0%B1%E5%88%86%E6%9E%90%E5%AE%98"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%83%85%E5%A0%B1%E5%88%86%E6%9E%90%E5%AE%98"
       }
     },
     "name": "管控組·情報分析官",
     "type": "生物",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": 2,
-    "hp": 3,
-    "ability": "起動：橫置，查看對手手牌全部。"
+    "cost": 4
   },
   "pb_13": {
     "id": "pb_13",
@@ -1448,16 +1160,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%8B%99%E6%93%8A%E6%89%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%8B%99%E6%93%8A%E6%89%8B"
       }
     },
     "name": "清理組·狙擊手",
     "type": "生物",
-    "cost": 5,
-    "faction": "認知科學局",
-    "atk": 5,
-    "hp": 2,
-    "ability": "疾襲。觸發：此生物攻擊時，若對手能量區達16以上（COLLAPSE），改為造成3倍傷害。"
+    "cost": 5
   },
   "pb_14": {
     "id": "pb_14",
@@ -1468,16 +1176,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%BC%B7%E5%8C%96%E6%88%B0%E5%A3%AB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%BC%B7%E5%8C%96%E6%88%B0%E5%A3%AB"
       }
     },
     "name": "認知科學局·強化戰士",
     "type": "生物",
-    "cost": 5,
-    "faction": "認知科學局",
-    "atk": 4,
-    "hp": 4,
-    "ability": "觸發：當此生物進場時，你場上所有生物本回合+1/+0。"
+    "cost": 5
   },
   "pb_15": {
     "id": "pb_15",
@@ -1488,16 +1192,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%BE%8C%E6%9C%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%BE%8C%E6%9C%9F"
       }
     },
     "name": "暗紅色者·後期",
     "type": "生物",
-    "cost": 6,
-    "faction": "認知科學局",
-    "atk": 5,
-    "hp": 5,
-    "ability": "被動：此生物攻擊時，對手能量區每有1張牌，此生物+0/+1（最高+5）。"
+    "cost": 6
   },
   "pb_16": {
     "id": "pb_16",
@@ -1508,16 +1208,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E7%99%BD%E5%A1%94%E5%AE%88%E8%A1%9B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E7%99%BD%E5%A1%94%E5%AE%88%E8%A1%9B"
       }
     },
     "name": "認知科學局·白塔守衛",
     "type": "生物",
-    "cost": 6,
-    "faction": "認知科學局",
-    "atk": 5,
-    "hp": 6,
-    "ability": "守護。觸發：當此生物進場時，從墓地選1張生物卡返回手牌。"
+    "cost": 6
   },
   "pb_17": {
     "id": "pb_17",
@@ -1528,16 +1224,12 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%9F%B7%E8%A1%8C%E8%80%85"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%9F%B7%E8%A1%8C%E8%80%85"
       }
     },
     "name": "清理組·執行者",
     "type": "生物",
-    "cost": 7,
-    "faction": "認知科學局",
-    "atk": 6,
-    "hp": 4,
-    "ability": "觸發：當此生物攻擊時，若對手能量區達16以上（COLLAPSE），移除對手場上1張生物（無視守護）。"
+    "cost": 7
   },
   "pb_18": {
     "id": "pb_18",
@@ -1548,16 +1240,12 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E9%87%8F%E7%94%A2%E5%9E%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E9%87%8F%E7%94%A2%E5%9E%8B"
       }
     },
     "name": "強化組·量產型",
     "type": "生物",
-    "cost": 7,
-    "faction": "認知科學局",
-    "atk": 4,
-    "hp": 6,
-    "ability": "被動：你場上每有1張其他認知科學局（種族標籤）生物，此生物+1/+0。"
+    "cost": 7
   },
   "pb_19": {
     "id": "pb_19",
@@ -1568,16 +1256,12 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%CE%A9%E5%8E%9F%E5%9E%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%CE%A9%E5%8E%9F%E5%9E%8B"
       }
     },
     "name": "認知科學局·Ω原型",
     "type": "生物",
-    "cost": 8,
-    "faction": "認知科學局",
-    "atk": 7,
-    "hp": 5,
-    "ability": "觸發：當此生物進場時，對手能量區+2。被動：此生物攻擊時，若對手能量區達16以上（COLLAPSE），改為造成三倍傷害。"
+    "cost": 8
   },
   "pb_20": {
     "id": "pb_20",
@@ -1588,16 +1272,12 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E5%9E%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E5%9E%8B"
       }
     },
     "name": "暗紅色者·最終型",
     "type": "生物",
-    "cost": 9,
-    "faction": "認知科學局",
-    "atk": 6,
-    "hp": 7,
-    "ability": "守護。被動：你場上所有暗紅色者（種族標籤）生物+2/+0。觸發：此生物陣亡時，對手場上所有生物本回合-3/-3。"
+    "cost": 9
   },
   "pb_21": {
     "id": "pb_21",
@@ -1608,16 +1288,12 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%9B%B6%E8%99%9F%E8%A8%88%E5%8A%83"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%9B%B6%E8%99%9F%E8%A8%88%E5%8A%83"
       }
     },
     "name": "認知科學局·零號計劃",
     "type": "生物",
-    "cost": 10,
-    "faction": "認知科學局",
-    "atk": 8,
-    "hp": 8,
-    "ability": "觸發：當此生物進場時，對手能量區+3。被動：此生物攻擊時，若對手能量區達16以上（COLLAPSE），對手直接落敗。"
+    "cost": 10
   },
   "pb_22": {
     "id": "pb_22",
@@ -1628,16 +1304,12 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%9C%80%E9%AB%98%E6%8C%87%E4%BB%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%9C%80%E9%AB%98%E6%8C%87%E4%BB%A4"
       }
     },
     "name": "清理組·最高指令",
     "type": "生物",
-    "cost": 12,
-    "faction": "認知科學局",
-    "atk": 10,
-    "hp": 10,
-    "ability": "疾襲。觸發：此生物攻擊時，若對手能量區達16以上（COLLAPSE），移除對手場上所有生物。你能量區+5。"
+    "cost": 12
   },
   "pb_23": {
     "id": "pb_23",
@@ -1648,16 +1320,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%8A%91%E5%88%B6%E5%B0%84%E7%B7%9A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%8A%91%E5%88%B6%E5%B0%84%E7%B7%9A"
       }
     },
     "name": "抑制射線",
     "type": "法術",
-    "cost": 1,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pb_24": {
     "id": "pb_24",
@@ -1668,16 +1336,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E8%99%95%E7%BD%AE"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E8%99%95%E7%BD%AE"
       }
     },
     "name": "管控組·標準處置",
     "type": "法術",
-    "cost": 1,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pb_25": {
     "id": "pb_25",
@@ -1688,16 +1352,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%B0%8F%E5%9E%8B%E7%88%86%E7%A0%B4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%B0%8F%E5%9E%8B%E7%88%86%E7%A0%B4"
       }
     },
     "name": "認知科學局·小型爆破",
     "type": "法術",
-    "cost": 2,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pb_26": {
     "id": "pb_26",
@@ -1708,16 +1368,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%A8%99%E8%A8%98"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%A8%99%E8%A8%98"
       }
     },
     "name": "暗紅色者·標記",
     "type": "法術",
-    "cost": 2,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pb_27": {
     "id": "pb_27",
@@ -1728,16 +1384,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E6%80%A7%E6%AD%A6%E5%99%A8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E6%80%A7%E6%AD%A6%E5%99%A8"
       }
     },
     "name": "強化組·實驗性武器",
     "type": "法術",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pb_28": {
     "id": "pb_28",
@@ -1748,16 +1400,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%BF%BD%E8%B9%A4%E9%8E%96%E5%AE%9A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%BF%BD%E8%B9%A4%E9%8E%96%E5%AE%9A"
       }
     },
     "name": "認知科學局·追蹤鎖定",
     "type": "法術",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pb_29": {
     "id": "pb_29",
@@ -1768,16 +1416,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E4%BD%9C%E6%A5%AD"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E4%BD%9C%E6%A5%AD"
       }
     },
     "name": "清理組·標準作業",
     "type": "法術",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pb_30": {
     "id": "pb_30",
@@ -1788,16 +1432,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%B7%B1%E5%B1%A4%E8%BF%BD%E8%B9%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%B7%B1%E5%B1%A4%E8%BF%BD%E8%B9%A4"
       }
     },
     "name": "暗紅色者·深層追蹤",
     "type": "法術",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pb_31": {
     "id": "pb_31",
@@ -1808,16 +1448,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%AB%98%E5%A3%93%E9%9B%BB%E6%93%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%AB%98%E5%A3%93%E9%9B%BB%E6%93%8A"
       }
     },
     "name": "認知科學局·高壓電擊",
     "type": "法術",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pb_32": {
     "id": "pb_32",
@@ -1828,16 +1464,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A"
       }
     },
     "name": "清理組·精準打擊",
     "type": "法術",
-    "cost": 5,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pb_33": {
     "id": "pb_33",
@@ -1848,16 +1480,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%AF%A6%E9%A9%97"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%AF%A6%E9%A9%97"
       }
     },
     "name": "強化組·大規模實驗",
     "type": "法術",
-    "cost": 6,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pb_34": {
     "id": "pb_34",
@@ -1868,16 +1496,12 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%B7%A8%E5%8C%96%E7%A8%8B%E5%BA%8F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%B7%A8%E5%8C%96%E7%A8%8B%E5%BA%8F"
       }
     },
     "name": "認知科學局·淨化程序",
     "type": "法術",
-    "cost": 7,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   },
   "pb_35": {
     "id": "pb_35",
@@ -1888,16 +1512,12 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%9C%80%E7%B5%82%E6%B8%85%E9%99%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%9C%80%E7%B5%82%E6%B8%85%E9%99%A4"
       }
     },
     "name": "清理組·最終清除",
     "type": "法術",
-    "cost": 8,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 8
   },
   "pb_36": {
     "id": "pb_36",
@@ -1908,16 +1528,12 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E7%B5%82%E5%B1%80%E8%99%95%E6%B1%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E7%B5%82%E5%B1%80%E8%99%95%E6%B1%BA"
       }
     },
     "name": "暗紅色者·終局處決",
     "type": "法術",
-    "cost": 10,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 10
   },
   "pb_37": {
     "id": "pb_37",
@@ -1928,16 +1544,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%B3%87%E6%BA%90%E8%A3%9C%E7%B5%A6"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%B3%87%E6%BA%90%E8%A3%9C%E7%B5%A6"
       }
     },
     "name": "認知科學局·資源補給",
     "type": "法術",
-    "cost": 1,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pb_38": {
     "id": "pb_38",
@@ -1948,16 +1560,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E9%AB%94%E6%94%B9%E9%80%A0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E9%AB%94%E6%94%B9%E9%80%A0"
       }
     },
     "name": "強化組·實驗體改造",
     "type": "法術",
-    "cost": 2,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pb_39": {
     "id": "pb_39",
@@ -1968,16 +1576,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E8%A3%9D%E5%82%99"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E8%A3%9D%E5%82%99"
       }
     },
     "name": "管控組·標準裝備",
     "type": "法術",
-    "cost": 2,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pb_40": {
     "id": "pb_40",
@@ -1988,16 +1592,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%95%B8%E6%93%9A%E5%90%8C%E6%AD%A5"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%95%B8%E6%93%9A%E5%90%8C%E6%AD%A5"
       }
     },
     "name": "認知科學局·數據同步",
     "type": "法術",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pb_41": {
     "id": "pb_41",
@@ -2008,16 +1608,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E9%81%A9%E6%87%89"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E9%81%A9%E6%87%89"
       }
     },
     "name": "暗紅色者·適應",
     "type": "法術",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pb_42": {
     "id": "pb_42",
@@ -2028,16 +1624,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E9%81%8E%E8%BC%89"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E9%81%8E%E8%BC%89"
       }
     },
     "name": "強化組·過載",
     "type": "法術",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pb_43": {
     "id": "pb_43",
@@ -2048,16 +1640,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%9B%86%E9%AB%94%E5%8D%87%E7%B4%9A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%9B%86%E9%AB%94%E5%8D%87%E7%B4%9A"
       }
     },
     "name": "認知科學局·集體升級",
     "type": "法術",
-    "cost": 5,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pb_44": {
     "id": "pb_44",
@@ -2068,16 +1656,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%88%B0%E8%A1%93%E6%92%A4%E9%80%80"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%88%B0%E8%A1%93%E6%92%A4%E9%80%80"
       }
     },
     "name": "清理組·戰術撤退",
     "type": "法術",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pb_45": {
     "id": "pb_45",
@@ -2088,16 +1672,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%A9%9F%E6%9C%83"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%A9%9F%E6%9C%83"
       }
     },
     "name": "強化組·第二次機會",
     "type": "法術",
-    "cost": 6,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pb_46": {
     "id": "pb_46",
@@ -2108,16 +1688,12 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%9C%80%E9%AB%98%E6%8E%88%E6%AC%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%9C%80%E9%AB%98%E6%8E%88%E6%AC%8A"
       }
     },
     "name": "認知科學局·最高授權",
     "type": "法術",
-    "cost": 8,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 8
   },
   "pb_47": {
     "id": "pb_47",
@@ -2128,16 +1704,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E7%9B%A3%E6%8E%A7%E6%8E%83%E6%8F%8F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E7%9B%A3%E6%8E%A7%E6%8E%83%E6%8F%8F"
       }
     },
     "name": "管控組·監控掃描",
     "type": "法術",
-    "cost": 1,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pb_48": {
     "id": "pb_48",
@@ -2148,16 +1720,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%85%A8%E9%A0%BB%E6%8E%83%E6%8F%8F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%85%A8%E9%A0%BB%E6%8E%83%E6%8F%8F"
       }
     },
     "name": "認知科學局·全頻掃描",
     "type": "法術",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pb_49": {
     "id": "pb_49",
@@ -2168,16 +1736,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%B9%B2%E6%93%BE%E8%84%88%E8%A1%9D"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%B9%B2%E6%93%BE%E8%84%88%E8%A1%9D"
       }
     },
     "name": "清理組·干擾脈衝",
     "type": "法術",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pb_50": {
     "id": "pb_50",
@@ -2188,16 +1752,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E8%B3%87%E8%A8%8A%E5%B0%81%E9%8E%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E8%B3%87%E8%A8%8A%E5%B0%81%E9%8E%96"
       }
     },
     "name": "管控組·資訊封鎖",
     "type": "法術",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pb_51": {
     "id": "pb_51",
@@ -2208,16 +1768,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%BF%83%E7%90%86%E5%A3%93%E8%BF%AB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%BF%83%E7%90%86%E5%A3%93%E8%BF%AB"
       }
     },
     "name": "暗紅色者·心理壓迫",
     "type": "法術",
-    "cost": 5,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pb_52": {
     "id": "pb_52",
@@ -2228,16 +1784,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%85%A8%E5%9F%9F%E7%9B%A3%E6%8E%A7"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%85%A8%E5%9F%9F%E7%9B%A3%E6%8E%A7"
       }
     },
     "name": "認知科學局·全域監控",
     "type": "法術",
-    "cost": 6,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pb_53": {
     "id": "pb_53",
@@ -2248,16 +1800,12 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%B3%BB%E7%B5%B1%E7%99%B1%E7%98%93"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%B3%BB%E7%B5%B1%E7%99%B1%E7%98%93"
       }
     },
     "name": "清理組·系統癱瘓",
     "type": "法術",
-    "cost": 7,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   },
   "pb_54": {
     "id": "pb_54",
@@ -2268,16 +1816,12 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%AA%8D%E7%9F%A5%E5%B9%B2%E6%B6%89"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%AA%8D%E7%9F%A5%E5%B9%B2%E6%B6%89"
       }
     },
     "name": "認知科學局·認知干涉",
     "type": "法術",
-    "cost": 9,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 9
   },
   "pb_55": {
     "id": "pb_55",
@@ -2288,16 +1832,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%83%BD%E9%87%8F%E6%8A%BD%E5%8F%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%83%BD%E9%87%8F%E6%8A%BD%E5%8F%96"
       }
     },
     "name": "認知科學局·能量抽取",
     "type": "法術",
-    "cost": 2,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pb_56": {
     "id": "pb_56",
@@ -2308,16 +1848,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E5%BC%B7%E5%88%B6%E8%BD%89%E5%8C%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E5%BC%B7%E5%88%B6%E8%BD%89%E5%8C%96"
       }
     },
     "name": "管控組·強制轉化",
     "type": "法術",
-    "cost": 3,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pb_57": {
     "id": "pb_57",
@@ -2328,16 +1864,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%83%BD%E9%87%8F%E8%B6%85%E8%BC%89"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%83%BD%E9%87%8F%E8%B6%85%E8%BC%89"
       }
     },
     "name": "認知科學局·能量超載",
     "type": "法術",
-    "cost": 4,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pb_58": {
     "id": "pb_58",
@@ -2348,16 +1880,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%9B%9E%E6%94%B6%E5%8D%94%E8%AD%B0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%9B%9E%E6%94%B6%E5%8D%94%E8%AD%B0"
       }
     },
     "name": "清理組·回收協議",
     "type": "法術",
-    "cost": 5,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pb_59": {
     "id": "pb_59",
@@ -2368,16 +1896,12 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%CE%A9%E7%A8%8B%E5%BA%8F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%CE%A9%E7%A8%8B%E5%BA%8F"
       }
     },
     "name": "認知科學局·Ω程序",
     "type": "法術",
-    "cost": 7,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   },
   "pb_60": {
     "id": "pb_60",
@@ -2388,16 +1912,12 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E6%94%B6%E5%89%B2"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E6%94%B6%E5%89%B2"
       }
     },
     "name": "暗紅色者·最終收割",
     "type": "法術",
-    "cost": 10,
-    "faction": "認知科學局",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 10
   },
   "pc_01": {
     "id": "pc_01",
@@ -2408,16 +1928,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E8%A6%8B%E7%BF%92%E4%BF%AE%E5%A3%AB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E8%A6%8B%E7%BF%92%E4%BF%AE%E5%A3%AB"
       }
     },
     "name": "盧恩見習修士",
     "type": "生物",
-    "cost": 1,
-    "faction": "回聖會",
-    "atk": 1,
-    "hp": 2,
-    "ability": "回聲。每當你施放法術，此生物+1/+0直到回合結束。"
+    "cost": 1
   },
   "pc_02": {
     "id": "pc_02",
@@ -2428,16 +1944,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E5%80%99%E8%A3%9C"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E5%80%99%E8%A3%9C"
       }
     },
     "name": "先知候補",
     "type": "生物",
-    "cost": 1,
-    "faction": "回聖會",
-    "atk": 1,
-    "hp": 1,
-    "ability": "回聲。每當你施放法術，抽1張牌。此效果每回合僅觸發1次。"
+    "cost": 1
   },
   "pc_03": {
     "id": "pc_03",
@@ -2448,16 +1960,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E8%A6%8B%E7%BF%92"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E8%A6%8B%E7%BF%92"
       }
     },
     "name": "靜默修會見習",
     "type": "生物",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": 1,
-    "hp": 3,
-    "ability": "守護。回聲。此生物每次獲得回聲時+0/+1。"
+    "cost": 2
   },
   "pc_04": {
     "id": "pc_04",
@@ -2468,16 +1976,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E7%9F%B3%E7%A2%91"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E7%9F%B3%E7%A2%91"
       }
     },
     "name": "盧恩石碑",
     "type": "生物",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": 0,
-    "hp": 3,
-    "ability": "場地。你場上所有回聖會（種族標籤）生物+1/+1。"
+    "cost": 2
   },
   "pc_05": {
     "id": "pc_05",
@@ -2488,16 +1992,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%98%BF%E7%88%BE%E7%B4%8D%E5%82%B3%E4%BA%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%98%BF%E7%88%BE%E7%B4%8D%E5%82%B3%E4%BA%BA"
       }
     },
     "name": "阿爾納傳人",
     "type": "生物",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": 2,
-    "hp": 2,
-    "ability": "回聲。每當此生物獲得回聲，你能量區1張牌重置為直立。"
+    "cost": 2
   },
   "pc_06": {
     "id": "pc_06",
@@ -2508,16 +2008,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E8%AD%B7%E8%A1%9B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E8%AD%B7%E8%A1%9B"
       }
     },
     "name": "迴響金護衛",
     "type": "生物",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": 1,
-    "hp": 2,
-    "ability": "回聲。每當此生物獲得回聲，你場上1張生物+0/+1直到回合結束。"
+    "cost": 2
   },
   "pc_07": {
     "id": "pc_07",
@@ -2528,16 +2024,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E7%A5%AD%E5%8F%B8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E7%A5%AD%E5%8F%B8"
       }
     },
     "name": "維瑟爾祭司",
     "type": "生物",
-    "cost": 3,
-    "faction": "回聖會",
-    "atk": 2,
-    "hp": 3,
-    "ability": "回聲。每當此生物獲得回聲，對手場上1張生物本回合-1/-0。"
+    "cost": 3
   },
   "pc_08": {
     "id": "pc_08",
@@ -2548,16 +2040,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%AD%B8%E8%80%85"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%AD%B8%E8%80%85"
       }
     },
     "name": "盧恩塔學者",
     "type": "生物",
-    "cost": 3,
-    "faction": "回聖會",
-    "atk": 2,
-    "hp": 2,
-    "ability": "回聲。每當你施放法術，查看對手手牌1張。"
+    "cost": 3
   },
   "pc_09": {
     "id": "pc_09",
@@ -2568,16 +2056,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E5%86%A5%E6%83%B3%E8%80%85"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E5%86%A5%E6%83%B3%E8%80%85"
       }
     },
     "name": "靜默修會冥想者",
     "type": "生物",
-    "cost": 3,
-    "faction": "回聖會",
-    "atk": 1,
-    "hp": 4,
-    "ability": "守護。回聲。此生物每次獲得回聲時+1/+0直到回合結束。"
+    "cost": 3
   },
   "pc_10": {
     "id": "pc_10",
@@ -2588,16 +2072,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E8%A6%8B%E7%BF%92%E7%94%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E8%A6%8B%E7%BF%92%E7%94%9F"
       }
     },
     "name": "先知見習生",
     "type": "生物",
-    "cost": 4,
-    "faction": "回聖會",
-    "atk": 3,
-    "hp": 3,
-    "ability": "回聲。每當此生物獲得回聲，你場上所有回聲生物本回合+1/+0。"
+    "cost": 4
   },
   "pc_11": {
     "id": "pc_11",
@@ -2608,16 +2088,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E5%85%88%E9%8B%92"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E5%85%88%E9%8B%92"
       }
     },
     "name": "黎明團先鋒",
     "type": "生物",
-    "cost": 4,
-    "faction": "回聖會",
-    "atk": 3,
-    "hp": 2,
-    "ability": "疾襲。回聲。每當此生物獲得回聲，對1張生物造成1點傷害。"
+    "cost": 4
   },
   "pc_12": {
     "id": "pc_12",
@@ -2628,16 +2104,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E7%B5%90%E6%99%B6"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E7%B5%90%E6%99%B6"
       }
     },
     "name": "迴響金結晶",
     "type": "生物",
-    "cost": 4,
-    "faction": "回聖會",
-    "atk": 0,
-    "hp": 0,
-    "ability": "場地。你場上生物施放法術時消耗-1（最低1）。你場上所有回聲生物+0/+1。"
+    "cost": 4
   },
   "pc_13": {
     "id": "pc_13",
@@ -2648,16 +2120,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E9%95%B7%E8%80%81"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E9%95%B7%E8%80%81"
       }
     },
     "name": "靜默修會長老",
     "type": "生物",
-    "cost": 5,
-    "faction": "回聖會",
-    "atk": 3,
-    "hp": 5,
-    "ability": "守護。回聲。每當此生物獲得回聲，從消散區選1張牌返回手牌。"
+    "cost": 5
   },
   "pc_14": {
     "id": "pc_14",
@@ -2668,16 +2136,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%A4%A7%E7%A5%AD%E5%8F%B8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%A4%A7%E7%A5%AD%E5%8F%B8"
       }
     },
     "name": "盧恩塔大祭司",
     "type": "生物",
-    "cost": 5,
-    "faction": "回聖會",
-    "atk": 4,
-    "hp": 4,
-    "ability": "回聲。每當你施放法術，你場上所有回聲生物本回合+1/+1。"
+    "cost": 5
   },
   "pc_15": {
     "id": "pc_15",
@@ -2688,16 +2152,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E7%A5%9E%E5%AE%98"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E7%A5%9E%E5%AE%98"
       }
     },
     "name": "維瑟爾神官",
     "type": "生物",
-    "cost": 5,
-    "faction": "回聖會",
-    "atk": 3,
-    "hp": 4,
-    "ability": "回聲。每當此生物獲得回聲，你能量區+1（蓋1張手牌）。"
+    "cost": 5
   },
   "pc_16": {
     "id": "pc_16",
@@ -2708,16 +2168,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E8%81%96%E9%A8%8E%E5%A3%AB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E8%81%96%E9%A8%8E%E5%A3%AB"
       }
     },
     "name": "黎明團聖騎士",
     "type": "生物",
-    "cost": 6,
-    "faction": "回聖會",
-    "atk": 5,
-    "hp": 5,
-    "ability": "守護。回聲。每當此生物獲得回聲，對手場上所有生物本回合-1/-0。"
+    "cost": 6
   },
   "pc_17": {
     "id": "pc_17",
@@ -2728,16 +2184,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%AE%88%E8%AD%B7%E8%80%85"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%AE%88%E8%AD%B7%E8%80%85"
       }
     },
     "name": "盧恩塔守護者",
     "type": "生物",
-    "cost": 6,
-    "faction": "回聖會",
-    "atk": 4,
-    "hp": 6,
-    "ability": "守護。回聲。此生物被攻擊時，若你有5層以上回聲，防禦力+3。"
+    "cost": 6
   },
   "pc_18": {
     "id": "pc_18",
@@ -2748,16 +2200,12 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E9%98%BF%E7%88%BE%E7%B4%8D%E4%BA%8C%E4%B8%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E9%98%BF%E7%88%BE%E7%B4%8D%E4%BA%8C%E4%B8%96"
       }
     },
     "name": "先知·阿爾納二世",
     "type": "生物",
-    "cost": 7,
-    "faction": "回聖會",
-    "atk": 4,
-    "hp": 4,
-    "ability": "回聲。每當你施放法術，此生物+2/+2直到回合結束。觸發：此生物進場時，你場上所有回聲生物各獲得2層回聲。"
+    "cost": 7
   },
   "pc_19": {
     "id": "pc_19",
@@ -2768,16 +2216,12 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E5%85%88%E7%9F%A5%E9%99%8D%E8%87%A8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E5%85%88%E7%9F%A5%E9%99%8D%E8%87%A8"
       }
     },
     "name": "回聖會·先知降臨",
     "type": "生物",
-    "cost": 8,
-    "faction": "回聖會",
-    "atk": 6,
-    "hp": 6,
-    "ability": "回聲。每當此生物獲得回聲，對手能量區+1。此生物攻擊時，你每有1層回聲，此生物+1/+0。"
+    "cost": 8
   },
   "pc_20": {
     "id": "pc_20",
@@ -2788,16 +2232,12 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E5%85%88%E7%9F%A5"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E5%85%88%E7%9F%A5"
       }
     },
     "name": "維瑟爾先知",
     "type": "生物",
-    "cost": 8,
-    "faction": "回聖會",
-    "atk": 5,
-    "hp": 5,
-    "ability": "回聲。每當你施放法術，此生物+3/+3直到回合結束。觸發：此生物進場時，你場上所有生物各獲得3層回聲。"
+    "cost": 8
   },
   "pc_21": {
     "id": "pc_21",
@@ -2808,16 +2248,12 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%B2%9D%E7%89%B9%E5%87%B1%E6%81%A9%E5%85%88%E7%9F%A5"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%B2%9D%E7%89%B9%E5%87%B1%E6%81%A9%E5%85%88%E7%9F%A5"
       }
     },
     "name": "貝特凱恩先知",
     "type": "生物",
-    "cost": 9,
-    "faction": "回聖會",
-    "atk": 6,
-    "hp": 7,
-    "ability": "回聲。每當此生物獲得回聲，從手牌打出1張生物卡不消耗能量（本回合）。"
+    "cost": 9
   },
   "pc_22": {
     "id": "pc_22",
@@ -2828,16 +2264,12 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E6%9C%AB%E6%97%A5%E5%AF%A9%E5%88%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E6%9C%AB%E6%97%A5%E5%AF%A9%E5%88%A4"
       }
     },
     "name": "先知·末日審判",
     "type": "生物",
-    "cost": 10,
-    "faction": "回聖會",
-    "atk": 8,
-    "hp": 8,
-    "ability": "回聲。每當你施放法術，此生物+4/+4直到回合結束。觸發：此生物進場時，對手場上所有生物-3/-3。"
+    "cost": 10
   },
   "pc_23": {
     "id": "pc_23",
@@ -2848,16 +2280,12 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E6%9C%80%E7%B5%82%E5%85%88%E7%9F%A5"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E6%9C%80%E7%B5%82%E5%85%88%E7%9F%A5"
       }
     },
     "name": "回聖會·最終先知",
     "type": "生物",
-    "cost": 12,
-    "faction": "回聖會",
-    "atk": 10,
-    "hp": 10,
-    "ability": "回聲。每當你施放法術，此生物+5/+5直到回合結束。此生物攻擊時，若你有10層以上回聲，移除對手場上所有生物（無視守護）。"
+    "cost": 12
   },
   "pc_24": {
     "id": "pc_24",
@@ -2868,16 +2296,12 @@
         },
         "type": "生物",
         "cost": 13,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%C2%B7%E6%B6%88%E6%95%A3%E5%89%8D%E5%A4%95"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%C2%B7%E6%B6%88%E6%95%A3%E5%89%8D%E5%A4%95"
       }
     },
     "name": "維瑟爾·消散前夕",
     "type": "生物",
-    "cost": 13,
-    "faction": "回聖會",
-    "atk": 12,
-    "hp": 12,
-    "ability": "回聲。每當你施放法術，此生物+6/+6直到回合結束。觸發：此生物進場時，你能量區+5。此生物在場時，你每回合結束階段受到1點傷害。"
+    "cost": 13
   },
   "pc_25": {
     "id": "pc_25",
@@ -2888,16 +2312,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E8%A1%9D%E6%93%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E8%A1%9D%E6%93%8A"
       }
     },
     "name": "盧恩刻印·衝擊",
     "type": "法術",
-    "cost": 1,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pc_26": {
     "id": "pc_26",
@@ -2908,16 +2328,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%AE%88%E8%AD%B7"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%AE%88%E8%AD%B7"
       }
     },
     "name": "盧恩刻印·守護",
     "type": "法術",
-    "cost": 1,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pc_27": {
     "id": "pc_27",
@@ -2928,16 +2344,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%8A%A0%E9%80%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%8A%A0%E9%80%9F"
       }
     },
     "name": "盧恩刻印·加速",
     "type": "法術",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pc_28": {
     "id": "pc_28",
@@ -2948,16 +2360,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%9B%9E%E9%9F%BF"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%9B%9E%E9%9F%BF"
       }
     },
     "name": "盧恩刻印·回響",
     "type": "法術",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pc_29": {
     "id": "pc_29",
@@ -2968,16 +2376,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%85%B1%E9%B3%B4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "盧恩刻印·共鳴",
     "type": "法術",
-    "cost": 3,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pc_30": {
     "id": "pc_30",
@@ -2988,16 +2392,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E7%A5%9E%E8%81%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E7%A5%9E%E8%81%96"
       }
     },
     "name": "盧恩刻印·神聖",
     "type": "法術",
-    "cost": 4,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pc_31": {
     "id": "pc_31",
@@ -3008,16 +2408,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E6%B7%A8%E5%8C%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E6%B7%A8%E5%8C%96"
       }
     },
     "name": "盧恩刻印·淨化",
     "type": "法術",
-    "cost": 5,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pc_32": {
     "id": "pc_32",
@@ -3028,16 +2424,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E9%99%8D%E8%87%A8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E9%99%8D%E8%87%A8"
       }
     },
     "name": "盧恩刻印·降臨",
     "type": "法術",
-    "cost": 6,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pc_33": {
     "id": "pc_33",
@@ -3048,16 +2440,12 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%85%88%E7%9F%A5%E4%B9%8B%E8%B7%AF"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%85%88%E7%9F%A5%E4%B9%8B%E8%B7%AF"
       }
     },
     "name": "盧恩刻印·先知之路",
     "type": "法術",
-    "cost": 8,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 8
   },
   "pc_34": {
     "id": "pc_34",
@@ -3068,16 +2456,12 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E6%9C%80%E7%B5%82%E5%AF%A9%E5%88%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E6%9C%80%E7%B5%82%E5%AF%A9%E5%88%A4"
       }
     },
     "name": "盧恩刻印·最終審判",
     "type": "法術",
-    "cost": 10,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 10
   },
   "pc_35": {
     "id": "pc_35",
@@ -3088,16 +2472,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%85%B1%E9%B3%B4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "回聲共鳴",
     "type": "法術",
-    "cost": 1,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pc_36": {
     "id": "pc_36",
@@ -3108,16 +2488,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E6%93%B4%E6%95%A3"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E6%93%B4%E6%95%A3"
       }
     },
     "name": "回聲擴散",
     "type": "法術",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pc_37": {
     "id": "pc_37",
@@ -3128,16 +2504,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%9B%9E%E6%86%B6"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%9B%9E%E6%86%B6"
       }
     },
     "name": "回聲回憶",
     "type": "法術",
-    "cost": 3,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pc_38": {
     "id": "pc_38",
@@ -3148,16 +2520,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E7%88%86%E7%99%BC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E7%88%86%E7%99%BC"
       }
     },
     "name": "回聲爆發",
     "type": "法術",
-    "cost": 4,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pc_39": {
     "id": "pc_39",
@@ -3168,16 +2536,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E6%B9%A7%E6%B5%81"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E6%B9%A7%E6%B5%81"
       }
     },
     "name": "回聲湧流",
     "type": "法術",
-    "cost": 5,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pc_40": {
     "id": "pc_40",
@@ -3188,16 +2552,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%85%B1%E9%B8%A3%C2%B7%E6%A5%B5%E9%99%90"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%85%B1%E9%B8%A3%C2%B7%E6%A5%B5%E9%99%90"
       }
     },
     "name": "回聲共鸣·極限",
     "type": "法術",
-    "cost": 6,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pc_41": {
     "id": "pc_41",
@@ -3208,16 +2568,12 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E7%B5%82%E7%AB%A0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E7%B5%82%E7%AB%A0"
       }
     },
     "name": "回聲終章",
     "type": "法術",
-    "cost": 8,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 8
   },
   "pc_42": {
     "id": "pc_42",
@@ -3228,16 +2584,12 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%C2%B7%E6%B0%B8%E6%81%86%E8%BF%B4%E9%9F%BF"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%C2%B7%E6%B0%B8%E6%81%86%E8%BF%B4%E9%9F%BF"
       }
     },
     "name": "回聲·永恆迴響",
     "type": "法術",
-    "cost": 12,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 12
   },
   "pc_43": {
     "id": "pc_43",
@@ -3248,16 +2600,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%B9%8B%E6%93%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%B9%8B%E6%93%8A"
       }
     },
     "name": "靜默之擊",
     "type": "法術",
-    "cost": 1,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pc_44": {
     "id": "pc_44",
@@ -3268,16 +2616,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%B0%81%E5%8D%B0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%B0%81%E5%8D%B0"
       }
     },
     "name": "盧恩封印",
     "type": "法術",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pc_45": {
     "id": "pc_45",
@@ -3288,16 +2632,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E9%A0%90%E8%A6%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E9%A0%90%E8%A6%8B"
       }
     },
     "name": "先知預見",
     "type": "法術",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pc_46": {
     "id": "pc_46",
@@ -3308,16 +2648,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E5%B7%A1%E5%BC%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E5%B7%A1%E5%BC%8B"
       }
     },
     "name": "黎明團巡弋",
     "type": "法術",
-    "cost": 3,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pc_47": {
     "id": "pc_47",
@@ -3328,16 +2664,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E7%B5%90%E7%95%8C"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E7%B5%90%E7%95%8C"
       }
     },
     "name": "靜默修會結界",
     "type": "法術",
-    "cost": 4,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pc_48": {
     "id": "pc_48",
@@ -3348,16 +2680,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%B0%81%E9%8E%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%B0%81%E9%8E%96"
       }
     },
     "name": "盧恩塔封鎖",
     "type": "法術",
-    "cost": 5,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pc_49": {
     "id": "pc_49",
@@ -3368,16 +2696,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E4%B9%8B%E6%80%92"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E4%B9%8B%E6%80%92"
       }
     },
     "name": "先知之怒",
     "type": "法術",
-    "cost": 6,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pc_50": {
     "id": "pc_50",
@@ -3388,16 +2712,12 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E7%A5%9E%E7%BD%B0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E7%A5%9E%E7%BD%B0"
       }
     },
     "name": "回聖會·神罰",
     "type": "法術",
-    "cost": 7,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   },
   "pc_51": {
     "id": "pc_51",
@@ -3408,16 +2728,12 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E6%9C%AB%E6%97%A5%E9%A0%90%E8%A8%80"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E6%9C%AB%E6%97%A5%E9%A0%90%E8%A8%80"
       }
     },
     "name": "先知·末日預言",
     "type": "法術",
-    "cost": 9,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 9
   },
   "pc_52": {
     "id": "pc_52",
@@ -3428,16 +2744,12 @@
         },
         "type": "法術",
         "cost": 11,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%C2%B7%E7%A5%9E%E8%81%96%E5%AF%A9%E5%88%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%C2%B7%E7%A5%9E%E8%81%96%E5%AF%A9%E5%88%A4"
       }
     },
     "name": "維瑟爾·神聖審判",
     "type": "法術",
-    "cost": 11,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 11
   },
   "pc_53": {
     "id": "pc_53",
@@ -3448,16 +2760,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%9B%9E%E5%BE%A9"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%9B%9E%E5%BE%A9"
       }
     },
     "name": "盧恩回復",
     "type": "法術",
-    "cost": 1,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pc_54": {
     "id": "pc_54",
@@ -3468,16 +2776,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E5%86%A5%E6%83%B3"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E5%86%A5%E6%83%B3"
       }
     },
     "name": "靜默冥想",
     "type": "法術",
-    "cost": 2,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pc_55": {
     "id": "pc_55",
@@ -3488,16 +2792,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E5%85%B1%E9%B3%B4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "迴響金共鳴",
     "type": "法術",
-    "cost": 3,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pc_56": {
     "id": "pc_56",
@@ -3508,16 +2808,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%9B%9E%E7%94%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%9B%9E%E7%94%9F"
       }
     },
     "name": "盧恩刻印·回生",
     "type": "法術",
-    "cost": 4,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pc_57": {
     "id": "pc_57",
@@ -3528,16 +2824,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E4%B9%8B%E6%81%A9"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E4%B9%8B%E6%81%A9"
       }
     },
     "name": "先知之恩",
     "type": "法術",
-    "cost": 5,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pc_58": {
     "id": "pc_58",
@@ -3548,16 +2840,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E7%81%8C%E6%B3%A8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E7%81%8C%E6%B3%A8"
       }
     },
     "name": "迴響金灌注",
     "type": "法術",
-    "cost": 6,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pc_59": {
     "id": "pc_59",
@@ -3568,16 +2856,12 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E6%9C%80%E5%BE%8C%E8%B4%96%E7%BD%AA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E6%9C%80%E5%BE%8C%E8%B4%96%E7%BD%AA"
       }
     },
     "name": "博士的最後贖罪",
     "type": "法術",
-    "cost": 7,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   },
   "pc_60": {
     "id": "pc_60",
@@ -3588,16 +2872,12 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
       }
     },
     "name": "名字·斯特拉達·維爾索",
     "type": "法術",
-    "cost": 12,
-    "faction": "回聖會",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 12
   },
   "pd_01": {
     "id": "pd_01",
@@ -3608,16 +2888,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%B9%BC%E7%8B%BC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%B9%BC%E7%8B%BC"
       }
     },
     "name": "荒野幼狼",
     "type": "生物",
-    "cost": 1,
-    "faction": "歸獸者",
-    "atk": 1,
-    "hp": 1,
-    "ability": "獸化1。觸發：此生物+2/+0。"
+    "cost": 1
   },
   "pd_02": {
     "id": "pd_02",
@@ -3628,16 +2904,12 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%81%B5%E6%9F%A5%E7%8A%AC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%81%B5%E6%9F%A5%E7%8A%AC"
       }
     },
     "name": "部落偵查犬",
     "type": "生物",
-    "cost": 1,
-    "faction": "歸獸者",
-    "atk": 1,
-    "hp": 2,
-    "ability": "獸化2。觸發：查看對手手牌1張。"
+    "cost": 1
   },
   "pd_03": {
     "id": "pd_03",
@@ -3648,16 +2920,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E5%B9%BC%E5%B4%BD"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E5%B9%BC%E5%B4%BD"
       }
     },
     "name": "巨牙族幼崽",
     "type": "生物",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": 2,
-    "hp": 2,
-    "ability": "獸化2。觸發：此生物+2/+0，對對手造成1點傷害。"
+    "cost": 2
   },
   "pd_04": {
     "id": "pd_04",
@@ -3668,16 +2936,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%A9%AF%E7%8D%B8%E5%B8%AB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%A9%AF%E7%8D%B8%E5%B8%AB"
       }
     },
     "name": "歸獸者·驯獸師",
     "type": "生物",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": 2,
-    "hp": 3,
-    "ability": "守護。獸化3。觸發：此生物+2/+1。"
+    "cost": 2
   },
   "pd_05": {
     "id": "pd_05",
@@ -3688,16 +2952,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E9%81%8A%E4%BF%A0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E9%81%8A%E4%BF%A0"
       }
     },
     "name": "荒野遊俠",
     "type": "生物",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": 2,
-    "hp": 1,
-    "ability": "疾襲（進場即可攻擊）。獸化2。觸發：此生物+1/+1。"
+    "cost": 2
   },
   "pd_06": {
     "id": "pd_06",
@@ -3708,16 +2968,12 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%85%88%E8%A1%8C%E8%80%85"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%85%88%E8%A1%8C%E8%80%85"
       }
     },
     "name": "部落先行者",
     "type": "生物",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": 1,
-    "hp": 2,
-    "ability": "獸化2。觸發：抽1張牌。"
+    "cost": 2
   },
   "pd_07": {
     "id": "pd_07",
@@ -3728,16 +2984,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%8B%BC%E6%97%8F%E7%AA%81%E8%A5%B2%E8%80%85"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E7%8B%BC%E6%97%8F%E7%AA%81%E8%A5%B2%E8%80%85"
       }
     },
     "name": "狼族突襲者",
     "type": "生物",
-    "cost": 3,
-    "faction": "歸獸者",
-    "atk": 3,
-    "hp": 3,
-    "ability": "獸化3。觸發：此生物+3/+0，對1張生物造成2點傷害。"
+    "cost": 3
   },
   "pd_08": {
     "id": "pd_08",
@@ -3748,16 +3000,12 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E5%A3%AB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E5%A3%AB"
       }
     },
     "name": "巨牙族戰士",
     "type": "生物",
-    "cost": 3,
-    "faction": "歸獸者",
-    "atk": 2,
-    "hp": 4,
-    "ability": "守護。獸化3。觸發：此生物+2/+2。"
+    "cost": 3
   },
   "pd_09": {
     "id": "pd_09",
@@ -3768,16 +3016,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%9A%8E%E5%8F%AB%E8%80%85"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%9A%8E%E5%8F%AB%E8%80%85"
       }
     },
     "name": "荒野嚎叫者",
     "type": "生物",
-    "cost": 4,
-    "faction": "歸獸者",
-    "atk": 3,
-    "hp": 3,
-    "ability": "獸化3。觸發：你場上所有生物本回合+1/+0。"
+    "cost": 4
   },
   "pd_10": {
     "id": "pd_10",
@@ -3788,16 +3032,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8B%82%E6%88%B0%E5%A3%AB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8B%82%E6%88%B0%E5%A3%AB"
       }
     },
     "name": "歸獸者·狂戰士",
     "type": "生物",
-    "cost": 4,
-    "faction": "歸獸者",
-    "atk": 4,
-    "hp": 3,
-    "ability": "獸化4。觸發：此生物+3/+0。此生物攻擊時，若對手能量區達6以上（CONTROLLED），+1/+0。"
+    "cost": 4
   },
   "pd_11": {
     "id": "pd_11",
@@ -3808,16 +3048,12 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%AE%88%E8%AD%B7%E5%B7%A8%E7%8D%B8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%AE%88%E8%AD%B7%E5%B7%A8%E7%8D%B8"
       }
     },
     "name": "部落守護巨獸",
     "type": "生物",
-    "cost": 4,
-    "faction": "歸獸者",
-    "atk": 2,
-    "hp": 6,
-    "ability": "守護。獸化4。觸發：此生物+2/+3。"
+    "cost": 4
   },
   "pd_12": {
     "id": "pd_12",
@@ -3828,16 +3064,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E8%BF%BD%E8%B9%A4%E8%80%85"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E8%BF%BD%E8%B9%A4%E8%80%85"
       }
     },
     "name": "荒野追蹤者",
     "type": "生物",
-    "cost": 5,
-    "faction": "歸獸者",
-    "atk": 4,
-    "hp": 4,
-    "ability": "獸化4。觸發：查看對手手牌全部，選1張返回牌庫底。"
+    "cost": 5
   },
   "pd_13": {
     "id": "pd_13",
@@ -3848,16 +3080,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E7%8B%BC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E7%8B%BC"
       }
     },
     "name": "巨牙族戰狼",
     "type": "生物",
-    "cost": 5,
-    "faction": "歸獸者",
-    "atk": 5,
-    "hp": 3,
-    "ability": "獸化3。觸發：此生物+3/+0。此生物攻擊時，若對手能量區達11以上（SUPPRESS），+2/+0。"
+    "cost": 5
   },
   "pd_14": {
     "id": "pd_14",
@@ -3868,16 +3096,12 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B8%E7%8E%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B8%E7%8E%8B"
       }
     },
     "name": "歸獸者·獸王",
     "type": "生物",
-    "cost": 5,
-    "faction": "歸獸者",
-    "atk": 3,
-    "hp": 5,
-    "ability": "獸化5。觸發：你場上所有獸化生物各獲得2層獸化指示物。"
+    "cost": 5
   },
   "pd_15": {
     "id": "pd_15",
@@ -3888,16 +3112,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E7%8E%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E7%8E%8B"
       }
     },
     "name": "巨牙族戰王",
     "type": "生物",
-    "cost": 6,
-    "faction": "歸獸者",
-    "atk": 6,
-    "hp": 5,
-    "ability": "獸化4。觸發：此生物+4/+0，對手場上所有生物-2/-0。"
+    "cost": 6
   },
   "pd_16": {
     "id": "pd_16",
@@ -3908,16 +3128,12 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%AE%88%E8%AD%B7%E7%A5%9E"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%AE%88%E8%AD%B7%E7%A5%9E"
       }
     },
     "name": "荒野守護神",
     "type": "生物",
-    "cost": 6,
-    "faction": "歸獸者",
-    "atk": 4,
-    "hp": 7,
-    "ability": "守護。獸化5。觸發：你場上所有生物回復3點生命。"
+    "cost": 6
   },
   "pd_17": {
     "id": "pd_17",
@@ -3928,16 +3144,12 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8B%82%E5%8C%96%E6%88%B0%E5%A3%AB"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8B%82%E5%8C%96%E6%88%B0%E5%A3%AB"
       }
     },
     "name": "歸獸者·狂化戰士",
     "type": "生物",
-    "cost": 7,
-    "faction": "歸獸者",
-    "atk": 5,
-    "hp": 5,
-    "ability": "獸化4。觸發：此生物+5/+0。觸發：此生物陣亡時，對手場上所有生物-3/-0。"
+    "cost": 7
   },
   "pd_18": {
     "id": "pd_18",
@@ -3948,16 +3160,12 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E9%BC%93%E6%89%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E9%BC%93%E6%89%8B"
       }
     },
     "name": "部落·戰鼓手",
     "type": "生物",
-    "cost": 7,
-    "faction": "歸獸者",
-    "atk": 4,
-    "hp": 4,
-    "ability": "獸化5。觸發：你場上所有生物各獲得2層獸化指示物。"
+    "cost": 7
   },
   "pd_19": {
     "id": "pd_19",
@@ -3968,16 +3176,12 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E4%B9%8B%E7%8E%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E4%B9%8B%E7%8E%8B"
       }
     },
     "name": "荒野之王",
     "type": "生物",
-    "cost": 8,
-    "faction": "歸獸者",
-    "atk": 6,
-    "hp": 6,
-    "ability": "獸化5。觸發：此生物+5/+0。觸發：此生物進場時，你場上所有獸化生物各獲得2層獸化指示物。"
+    "cost": 8
   },
   "pd_20": {
     "id": "pd_20",
@@ -3988,16 +3192,12 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E7%B5%82%E6%A5%B5%E6%88%B0%E7%8E%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E7%B5%82%E6%A5%B5%E6%88%B0%E7%8E%8B"
       }
     },
     "name": "巨牙族·終極戰王",
     "type": "生物",
-    "cost": 9,
-    "faction": "歸獸者",
-    "atk": 8,
-    "hp": 6,
-    "ability": "獸化6。觸發：此生物+6/+0，移除對手場上1張生物（無視守護）。"
+    "cost": 9
   },
   "pd_21": {
     "id": "pd_21",
@@ -4008,16 +3208,12 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%83%A8%E8%90%BD%E4%B9%8B%E9%AD%82"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%83%A8%E8%90%BD%E4%B9%8B%E9%AD%82"
       }
     },
     "name": "歸獸者·部落之魂",
     "type": "生物",
-    "cost": 10,
-    "faction": "歸獸者",
-    "atk": 7,
-    "hp": 7,
-    "ability": "獸化6。觸發：你場上所有獸化生物各獲得3層獸化指示物。觸發：此生物進場時，你場上所有生物+2/+2。"
+    "cost": 10
   },
   "pd_22": {
     "id": "pd_22",
@@ -4028,16 +3224,12 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%90%AC%E7%8D%B8%E4%B9%8B%E7%8E%8B"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%90%AC%E7%8D%B8%E4%B9%8B%E7%8E%8B"
       }
     },
     "name": "荒野·萬獸之王",
     "type": "生物",
-    "cost": 12,
-    "faction": "歸獸者",
-    "atk": 10,
-    "hp": 8,
-    "ability": "獸化8。觸發：此生物+10/+0。你場上所有獸化生物各獲得5層獸化指示物。此生物攻擊時，對手直接落敗（無視能量區上限）。"
+    "cost": 12
   },
   "pd_23": {
     "id": "pd_23",
@@ -4048,16 +3240,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%87%8E%E6%80%A7%E8%A1%9D%E6%93%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%87%8E%E6%80%A7%E8%A1%9D%E6%93%8A"
       }
     },
     "name": "野性衝擊",
     "type": "法術",
-    "cost": 1,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pd_24": {
     "id": "pd_24",
@@ -4068,16 +3256,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E6%AF%92%E5%88%83"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E6%AF%92%E5%88%83"
       }
     },
     "name": "部落毒刃",
     "type": "法術",
-    "cost": 1,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pd_25": {
     "id": "pd_25",
@@ -4088,16 +3272,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E6%92%95%E5%92%AC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E6%92%95%E5%92%AC"
       }
     },
     "name": "荒野撕咬",
     "type": "法術",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pd_26": {
     "id": "pd_26",
@@ -4108,16 +3288,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E7%8C%9B%E6%93%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E7%8C%9B%E6%93%8A"
       }
     },
     "name": "巨牙族猛擊",
     "type": "法術",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pd_27": {
     "id": "pd_27",
@@ -4128,16 +3304,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B5%E6%AE%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B5%E6%AE%BA"
       }
     },
     "name": "歸獸者·獵殺",
     "type": "法術",
-    "cost": 3,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pd_28": {
     "id": "pd_28",
@@ -4148,16 +3320,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%9A%8E%E5%8F%AB%C2%B7%E9%9C%87%E6%85%91"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%9A%8E%E5%8F%AB%C2%B7%E9%9C%87%E6%85%91"
       }
     },
     "name": "荒野嚎叫·震慑",
     "type": "法術",
-    "cost": 3,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pd_29": {
     "id": "pd_29",
@@ -4168,16 +3336,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E6%88%B0%E5%9A%8E"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E6%88%B0%E5%9A%8E"
       }
     },
     "name": "部落戰嚎",
     "type": "法術",
-    "cost": 4,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pd_30": {
     "id": "pd_30",
@@ -4188,16 +3352,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E8%A1%9D%E9%8B%92"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E8%A1%9D%E9%8B%92"
       }
     },
     "name": "巨牙族衝鋒",
     "type": "法術",
-    "cost": 4,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pd_31": {
     "id": "pd_31",
@@ -4208,16 +3368,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%B5%82%E6%A5%B5%E7%8D%B5%E6%AE%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%B5%82%E6%A5%B5%E7%8D%B5%E6%AE%BA"
       }
     },
     "name": "荒野·終極獵殺",
     "type": "法術",
-    "cost": 5,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pd_32": {
     "id": "pd_32",
@@ -4228,16 +3384,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E5%A4%A7%E7%8D%B5%E6%AE%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E5%A4%A7%E7%8D%B5%E6%AE%BA"
       }
     },
     "name": "歸獸者·大獵殺",
     "type": "法術",
-    "cost": 6,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pd_33": {
     "id": "pd_33",
@@ -4248,16 +3400,12 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E8%A1%80%E7%A5%AD%E5%84%80%E5%BC%8F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E8%A1%80%E7%A5%AD%E5%84%80%E5%BC%8F"
       }
     },
     "name": "部落·血祭儀式",
     "type": "法術",
-    "cost": 7,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   },
   "pd_34": {
     "id": "pd_34",
@@ -4268,16 +3416,12 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%8D%B8%E7%8E%8B%E9%99%8D%E8%87%A8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%8D%B8%E7%8E%8B%E9%99%8D%E8%87%A8"
       }
     },
     "name": "荒野·獸王降臨",
     "type": "法術",
-    "cost": 8,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 8
   },
   "pd_35": {
     "id": "pd_35",
@@ -4288,16 +3432,12 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%BB%85%E4%B8%96%E8%A1%9D%E6%93%8A"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%BB%85%E4%B8%96%E8%A1%9D%E6%93%8A"
       }
     },
     "name": "巨牙族·滅世衝擊",
     "type": "法術",
-    "cost": 10,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 10
   },
   "pd_36": {
     "id": "pd_36",
@@ -4308,16 +3448,12 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E7%8D%B5%E6%AE%BA"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E7%8D%B5%E6%AE%BA"
       }
     },
     "name": "歸獸者·最終獵殺",
     "type": "法術",
-    "cost": 12,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 12
   },
   "pd_37": {
     "id": "pd_37",
@@ -4328,16 +3464,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%98%B6%E5%90%BC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%98%B6%E5%90%BC"
       }
     },
     "name": "部落嘶吼",
     "type": "法術",
-    "cost": 1,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pd_38": {
     "id": "pd_38",
@@ -4348,16 +3480,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E8%97%A5%E8%8D%89"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E8%97%A5%E8%8D%89"
       }
     },
     "name": "荒野藥草",
     "type": "法術",
-    "cost": 1,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pd_39": {
     "id": "pd_39",
@@ -4368,16 +3496,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%88%B0%E5%90%BC"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%88%B0%E5%90%BC"
       }
     },
     "name": "歸獸者·戰吼",
     "type": "法術",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pd_40": {
     "id": "pd_40",
@@ -4388,16 +3512,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E9%BC%93"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E9%BC%93"
       }
     },
     "name": "巨牙族戰鼓",
     "type": "法術",
-    "cost": 3,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pd_41": {
     "id": "pd_41",
@@ -4408,16 +3528,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%8B%82%E5%8C%96%E8%97%A5%E5%8A%91"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%8B%82%E5%8C%96%E8%97%A5%E5%8A%91"
       }
     },
     "name": "荒野·狂化藥劑",
     "type": "法術",
-    "cost": 3,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pd_42": {
     "id": "pd_42",
@@ -4428,16 +3544,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A3%AB%E8%99%9F%E8%A7%92"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A3%AB%E8%99%9F%E8%A7%92"
       }
     },
     "name": "部落·戰士號角",
     "type": "法術",
-    "cost": 4,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pd_43": {
     "id": "pd_43",
@@ -4448,16 +3560,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%9B%86%E9%AB%94%E7%8B%82%E5%8C%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%9B%86%E9%AB%94%E7%8B%82%E5%8C%96"
       }
     },
     "name": "歸獸者·集體狂化",
     "type": "法術",
-    "cost": 5,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pd_44": {
     "id": "pd_44",
@@ -4468,16 +3576,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%A1%80%E6%80%92%E7%81%8C%E6%B3%A8"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%A1%80%E6%80%92%E7%81%8C%E6%B3%A8"
       }
     },
     "name": "荒野·血怒灌注",
     "type": "法術",
-    "cost": 6,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pd_45": {
     "id": "pd_45",
@@ -4488,16 +3592,12 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E7%8E%8B%E8%99%9F%E4%BB%A4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E7%8E%8B%E8%99%9F%E4%BB%A4"
       }
     },
     "name": "巨牙族·戰王號令",
     "type": "法術",
-    "cost": 8,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 8
   },
   "pd_46": {
     "id": "pd_46",
@@ -4508,16 +3608,12 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
       }
     },
     "name": "名字·斯特拉達·維爾索",
     "type": "法術",
-    "cost": 12,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 12
   },
   "pd_47": {
     "id": "pd_47",
@@ -4528,16 +3624,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%81%B5%E5%AF%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%81%B5%E5%AF%9F"
       }
     },
     "name": "部落偵察",
     "type": "法術",
-    "cost": 1,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pd_48": {
     "id": "pd_48",
@@ -4548,16 +3640,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E5%9A%8E%E5%8F%AB%E9%9C%87%E6%87%BE"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E5%9A%8E%E5%8F%AB%E9%9C%87%E6%87%BE"
       }
     },
     "name": "荒野·嚎叫震懾",
     "type": "法術",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pd_49": {
     "id": "pd_49",
@@ -4568,16 +3656,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%88%B0%E5%A0%B4%E5%A3%93%E5%88%B6"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%88%B0%E5%A0%B4%E5%A3%93%E5%88%B6"
       }
     },
     "name": "歸獸者·戰場壓制",
     "type": "法術",
-    "cost": 3,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pd_50": {
     "id": "pd_50",
@@ -4588,16 +3672,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E5%90%BC%E9%9C%87%E6%87%BE"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E5%90%BC%E9%9C%87%E6%87%BE"
       }
     },
     "name": "巨牙族·戰吼震懾",
     "type": "法術",
-    "cost": 4,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pd_51": {
     "id": "pd_51",
@@ -4608,16 +3688,12 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E5%BF%83%E7%90%86%E6%88%B0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E5%BF%83%E7%90%86%E6%88%B0"
       }
     },
     "name": "荒野·心理戰",
     "type": "法術",
-    "cost": 5,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 5
   },
   "pd_52": {
     "id": "pd_52",
@@ -4628,16 +3704,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A0%B4%E5%B0%81%E9%8E%96"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A0%B4%E5%B0%81%E9%8E%96"
       }
     },
     "name": "部落·戰場封鎖",
     "type": "法術",
-    "cost": 6,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pd_53": {
     "id": "pd_53",
@@ -4648,16 +3720,12 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B8%E7%BE%A4%E7%8B%82%E6%BD%AE"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B8%E7%BE%A4%E7%8B%82%E6%BD%AE"
       }
     },
     "name": "歸獸者·獸群狂潮",
     "type": "法術",
-    "cost": 8,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 8
   },
   "pd_54": {
     "id": "pd_54",
@@ -4668,16 +3736,12 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%90%AC%E7%8D%B8%E5%A5%94%E9%A8%B0"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%90%AC%E7%8D%B8%E5%A5%94%E9%A8%B0"
       }
     },
     "name": "荒野·萬獸奔騰",
     "type": "法術",
-    "cost": 10,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 10
   },
   "pd_55": {
     "id": "pd_55",
@@ -4688,16 +3752,12 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E7%99%82%E5%82%B7"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E7%99%82%E5%82%B7"
       }
     },
     "name": "荒野療傷",
     "type": "法術",
-    "cost": 1,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 1
   },
   "pd_56": {
     "id": "pd_56",
@@ -4708,16 +3768,12 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A0%B4%E6%95%91%E6%8F%B4"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A0%B4%E6%95%91%E6%8F%B4"
       }
     },
     "name": "部落·戰場救援",
     "type": "法術",
-    "cost": 2,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 2
   },
   "pd_57": {
     "id": "pd_57",
@@ -4728,16 +3784,12 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%9B%86%E9%AB%94%E6%B2%BB%E7%99%82"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%9B%86%E9%AB%94%E6%B2%BB%E7%99%82"
       }
     },
     "name": "歸獸者·集體治療",
     "type": "法術",
-    "cost": 3,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 3
   },
   "pd_58": {
     "id": "pd_58",
@@ -4748,16 +3800,12 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E6%88%B0%E5%A0%B4%E5%9B%9E%E6%94%B6"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E6%88%B0%E5%A0%B4%E5%9B%9E%E6%94%B6"
       }
     },
     "name": "荒野·戰場回收",
     "type": "法術",
-    "cost": 4,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 4
   },
   "pd_59": {
     "id": "pd_59",
@@ -4768,16 +3816,12 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E8%A1%80%E7%A5%AD%E9%87%8D%E7%94%9F"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E8%A1%80%E7%A5%AD%E9%87%8D%E7%94%9F"
       }
     },
     "name": "部落·血祭重生",
     "type": "法術",
-    "cost": 6,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 6
   },
   "pd_60": {
     "id": "pd_60",
@@ -4788,15 +3832,11 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E7%8E%8B%E4%B9%8B%E6%80%92"
+        "image": "https://placehold.co/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E7%8E%8B%E4%B9%8B%E6%80%92"
       }
     },
     "name": "巨牙族·戰王之怒",
     "type": "法術",
-    "cost": 7,
-    "faction": "歸獸者",
-    "atk": null,
-    "hp": null,
-    "ability": ""
+    "cost": 7
   }
 }
