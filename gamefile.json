@@ -1,5 +1,5 @@
 {
-  "name": "SDV",
+  "name": "SDV-TCG",
   "deckBuilding": {
     "mainFilters": ["type", "cost"],
     "formats": [
@@ -56,8 +56,5 @@
   "cards": {
     "dataUrl": "https://zorrokurro.github.io/sdv-card-game/cards.json",
     "cardBack": "https://zorrokurro.github.io/sdv-card-game/cardback.svg"
-  },
-  "defaultRessources": {
-    "decksUrl": "https://zorrokurro.github.io/sdv-card-game/decks.json"
   }
 }
