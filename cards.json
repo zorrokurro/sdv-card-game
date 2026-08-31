@@ -8,7 +8,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E5%88%9D%E5%A7%8B"
       }
     },
     "name": "實驗體21號·初始",
@@ -28,7 +28,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E8%96%84%E7%89%87"
       }
     },
     "name": "盧恩薄片",
@@ -48,7 +48,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%E7%9B%A3%E8%A6%96%E5%99%A8"
       }
     },
     "name": "認知科學局監視器",
@@ -68,7 +68,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E5%AE%A4%E9%80%83%E8%84%B1%E8%B7%AF%E7%B7%9A"
       }
     },
     "name": "實驗室逃脱路線",
@@ -88,7 +88,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E8%A6%9A%E9%86%92"
       }
     },
     "name": "實驗體21號·覚醒",
@@ -108,7 +108,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9E%97"
       }
     },
     "name": "林",
@@ -128,7 +128,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%98%BF%E5%AC%A4"
       }
     },
     "name": "阿嬤",
@@ -148,7 +148,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%96%E6%A9%98%E8%89%B2%E7%9A%84%E8%A8%98%E6%86%B6"
       }
     },
     "name": "暖橘色的記憶",
@@ -168,7 +168,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%88%8A%E5%9F%8E%E5%8D%80%E8%97%8F%E8%BA%AB%E8%99%95"
       }
     },
     "name": "舊城區藏身處",
@@ -188,7 +188,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%89%B2%E7%9B%B8"
       }
     },
     "name": "色彩感知·色相",
@@ -208,7 +208,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BF%A1%E4%BB%BB"
       }
     },
     "name": "第一次信任",
@@ -228,7 +228,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%E7%9A%84%E8%BF%BD%E8%B9%A4"
       }
     },
     "name": "暗紅色者的追蹤",
@@ -248,7 +248,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E4%BA%AE%E7%B4%85%E8%89%B2%E7%94%B7%E4%BA%BA"
       }
     },
     "name": "亮紅色男人",
@@ -268,7 +268,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E4%BA%AE%E8%97%8D%E7%B6%A0%E5%A5%B3%E5%AD%A9"
       }
     },
     "name": "亮藍綠女孩",
@@ -288,7 +288,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%B3%AA%E6%84%9F"
       }
     },
     "name": "色彩感知·質感",
@@ -308,7 +308,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%BC%B7%E5%8C%96%E7%B5%84%E5%88%86%E9%83%A8"
       }
     },
     "name": "認知科學局·強化組分部",
@@ -328,7 +328,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E7%A7%98%E5%AF%86"
       }
     },
     "name": "博士的秘密",
@@ -348,7 +348,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9B%B6%E8%99%9F%E8%A8%88%E5%8A%83%E7%9A%84%E7%9C%9F%E7%9B%B8"
       }
     },
     "name": "零號計劃的真相",
@@ -368,7 +368,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8D%97%E6%96%B9%E7%AF%80%E9%BB%9E"
       }
     },
     "name": "南方節點",
@@ -388,7 +388,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%8A%80%E7%99%BD%E8%89%B2%E8%80%81%E4%BA%BA"
       }
     },
     "name": "銀白色老人",
@@ -408,7 +408,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E8%BB%8C%E8%B7%A1"
       }
     },
     "name": "實驗體21號·軌跡",
@@ -428,7 +428,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E5%B1%A4%E6%AC%A1"
       }
     },
     "name": "色彩感知·層次",
@@ -448,7 +448,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E4%B8%83%E5%80%8B%E5%B9%BD%E9%9D%88%C2%B7%E9%9B%86%E7%B5%90"
       }
     },
     "name": "七個幽靈·集結",
@@ -468,7 +468,7 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%9421%E8%99%9F%C2%B7%E5%90%8C%E5%8C%96%E8%A6%96%E7%95%8C"
       }
     },
     "name": "實驗體21號·同化視界",
@@ -488,7 +488,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E6%83%85%E7%B7%92%E8%89%B2"
       }
     },
     "name": "色彩感知·情緒色",
@@ -508,7 +508,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%B4%E8%A6%BA%E9%96%83%E7%8F%BE"
       }
     },
     "name": "直覺閃現",
@@ -528,7 +528,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E8%B3%AA%E6%84%9F%E8%AE%80%E5%8F%96"
       }
     },
     "name": "色彩感知·質感讀取",
@@ -548,7 +548,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B5%90%E6%A7%8B%E7%9B%B4%E8%A6%BA"
       }
     },
     "name": "結構直覺",
@@ -568,7 +568,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%96%B9%E5%90%91%E7%9B%B4%E8%A6%BA"
       }
     },
     "name": "方向直覺",
@@ -588,7 +588,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AE%98%E9%9F%BF%E8%AE%80%E5%8F%96"
       }
     },
     "name": "殘響讀取",
@@ -608,7 +608,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E8%89%B2%E7%9B%B8"
       }
     },
     "name": "觀測·色相",
@@ -628,7 +628,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E8%B3%AA%E6%84%9F"
       }
     },
     "name": "觀測·質感",
@@ -648,7 +648,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%A7%80%E6%B8%AC%C2%B7%E5%B1%A4%E6%AC%A1"
       }
     },
     "name": "觀測·層次",
@@ -668,7 +668,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E7%A9%A9%E5%AE%9A"
       }
     },
     "name": "盧恩刻印·穩定",
@@ -688,7 +688,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E5%B1%8F%E8%94%BD"
       }
     },
     "name": "色彩屏蔽",
@@ -708,7 +708,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E4%BA%BA%E7%9A%84%E6%90%9C%E6%9F%A5"
       }
     },
     "name": "灰衣人的搜查",
@@ -728,7 +728,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BD%89%E7%A7%BB%E6%B3%A8%E6%84%8F%E5%8A%9B"
       }
     },
     "name": "轉移注意力",
@@ -748,7 +748,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%99%9B%E7%B2%92%E5%AD%90%E8%AD%B7%E7%9B%BE"
       }
     },
     "name": "虛粒子護盾",
@@ -768,7 +768,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8B%95%E6%85%8B%E6%B3%95%E6%8B%89%E7%AC%AC%E7%B1%A0"
       }
     },
     "name": "動態法拉第籠",
@@ -788,7 +788,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "迴響金共鳴",
@@ -808,7 +808,7 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%87%A8%E7%95%8C%E7%88%86%E7%99%BC"
       }
     },
     "name": "臨界爆發",
@@ -828,7 +828,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BE%AE%E7%89%A9%E7%90%86%E5%B9%B2%E6%B6%89%C2%B7%E9%9C%87%E6%B3%A2"
       }
     },
     "name": "微物理干涉·震波",
@@ -848,7 +848,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%81%B2%E6%B3%A2%E8%84%88%E8%A1%9D"
       }
     },
     "name": "聲波脈衝",
@@ -868,7 +868,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%89%B2%E5%BD%A9%E6%84%9F%E7%9F%A5%C2%B7%E6%9A%97%E7%B4%85%E8%AE%80%E5%8F%96"
       }
     },
     "name": "色彩感知·暗紅讀取",
@@ -888,7 +888,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%81%B2%E6%B3%A2%E8%81%9A%E7%84%A6%C2%B7%E5%B0%8D%E7%A9%BA"
       }
     },
     "name": "聲波聚焦·對空",
@@ -908,7 +908,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%A6%82%E7%8E%87%E8%A7%B8%E5%8F%8A"
       }
     },
     "name": "概率觸及",
@@ -928,7 +928,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%B1%E6%8C%AF%E7%A2%8E%E8%A3%82"
       }
     },
     "name": "共振碎裂",
@@ -948,7 +948,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%86%B1%E9%9B%BB%E8%81%B2%E5%AD%90%E8%80%A6%E5%90%88"
       }
     },
     "name": "熱電聲子耦合",
@@ -968,7 +968,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%87%8F%E5%AD%90%E7%B3%BE%E7%BA%8F%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "量子糾纏共鳴",
@@ -988,7 +988,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%90%A6%E5%AE%9A%E4%B9%8B%E7%9C%BC"
       }
     },
     "name": "否定之眼",
@@ -1008,7 +1008,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%B7%AF%E5%BE%91%E6%94%B6%E6%9D%9F"
       }
     },
     "name": "路徑收束",
@@ -1028,7 +1028,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E5%BA%A6%E9%80%8F%E8%A6%96"
       }
     },
     "name": "維度透視",
@@ -1048,7 +1048,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%A8%98%E6%86%B6%E7%A2%8E%E7%89%87"
       }
     },
     "name": "記憶碎片",
@@ -1068,7 +1068,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%94%9F%E5%91%BD%E7%86%B1%E6%BA%90"
       }
     },
     "name": "生命熱源",
@@ -1088,7 +1088,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%85%B6%E4%BF%83%E9%9A%A7%E7%A9%BF%E5%8A%A0%E9%80%9F"
       }
     },
     "name": "酶促隧穿加速",
@@ -1108,7 +1108,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%A3%81%E5%8F%97%E5%AE%B9%E5%85%B1%E6%8C%AF"
       }
     },
     "name": "磁受容共振",
@@ -1128,7 +1128,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%94%9F%E7%89%A9%E7%99%BC%E5%85%89%E8%AA%BF%E7%AF%80"
       }
     },
     "name": "生物發光調節",
@@ -1148,7 +1148,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BD%89%E7%94%9F%E8%B7%AF%E7%B7%9A"
       }
     },
     "name": "轉生路線",
@@ -1168,7 +1168,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E6%9C%80%E5%BE%8C%E8%B4%96%E7%BD%AA"
       }
     },
     "name": "博士的最後贖罪",
@@ -1188,7 +1188,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
       }
     },
     "name": "名字·斯特拉達·維爾索",
@@ -1208,7 +1208,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%88%9D%E6%9C%9F"
       }
     },
     "name": "暗紅色者·初期",
@@ -1228,7 +1228,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E5%81%B5%E6%9F%A5%E5%93%A1"
       }
     },
     "name": "灰衣偵查員",
@@ -1248,7 +1248,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E7%9B%A3%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F"
       }
     },
     "name": "認知科學局·監控無人機",
@@ -1268,7 +1268,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%AF%A6%E9%A9%97%E9%AB%94%E8%BF%BD%E8%B9%A4%E7%8A%AC"
       }
     },
     "name": "實驗體追蹤犬",
@@ -1288,7 +1288,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E5%A4%96%E5%8B%A4%E5%B9%B9%E5%93%A1"
       }
     },
     "name": "管控組·外勤幹員",
@@ -1308,7 +1308,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%B3%87%E6%BA%90%E5%9B%9E%E6%94%B6"
       }
     },
     "name": "認知科學局·資源回收",
@@ -1328,7 +1328,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E4%B8%AD%E6%9C%9F"
       }
     },
     "name": "暗紅色者·中期",
@@ -1348,7 +1348,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%81%B0%E8%A1%A3%E5%B0%8F%E9%9A%8A%E9%95%B7"
       }
     },
     "name": "灰衣小隊長",
@@ -1368,7 +1368,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E8%AD%B7%E8%A1%9B"
       }
     },
     "name": "強化組·實驗護衛",
@@ -1388,7 +1388,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%87%8F%E6%B8%AC%E8%A3%9D%E7%BD%AE"
       }
     },
     "name": "認知科學局·量測裝置",
@@ -1408,7 +1408,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E7%86%9F%E7%B7%B4"
       }
     },
     "name": "暗紅色者·熟練",
@@ -1428,7 +1428,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%83%85%E5%A0%B1%E5%88%86%E6%9E%90%E5%AE%98"
       }
     },
     "name": "管控組·情報分析官",
@@ -1448,7 +1448,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%8B%99%E6%93%8A%E6%89%8B"
       }
     },
     "name": "清理組·狙擊手",
@@ -1468,7 +1468,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%BC%B7%E5%8C%96%E6%88%B0%E5%A3%AB"
       }
     },
     "name": "認知科學局·強化戰士",
@@ -1488,7 +1488,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%BE%8C%E6%9C%9F"
       }
     },
     "name": "暗紅色者·後期",
@@ -1508,7 +1508,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E7%99%BD%E5%A1%94%E5%AE%88%E8%A1%9B"
       }
     },
     "name": "認知科學局·白塔守衛",
@@ -1528,7 +1528,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%9F%B7%E8%A1%8C%E8%80%85"
       }
     },
     "name": "清理組·執行者",
@@ -1548,7 +1548,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E9%87%8F%E7%94%A2%E5%9E%8B"
       }
     },
     "name": "強化組·量產型",
@@ -1568,7 +1568,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%CE%A9%E5%8E%9F%E5%9E%8B"
       }
     },
     "name": "認知科學局·Ω原型",
@@ -1588,7 +1588,7 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E5%9E%8B"
       }
     },
     "name": "暗紅色者·最終型",
@@ -1608,7 +1608,7 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%9B%B6%E8%99%9F%E8%A8%88%E5%8A%83"
       }
     },
     "name": "認知科學局·零號計劃",
@@ -1628,7 +1628,7 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%9C%80%E9%AB%98%E6%8C%87%E4%BB%A4"
       }
     },
     "name": "清理組·最高指令",
@@ -1648,7 +1648,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%8A%91%E5%88%B6%E5%B0%84%E7%B7%9A"
       }
     },
     "name": "抑制射線",
@@ -1668,7 +1668,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E8%99%95%E7%BD%AE"
       }
     },
     "name": "管控組·標準處置",
@@ -1688,7 +1688,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%B0%8F%E5%9E%8B%E7%88%86%E7%A0%B4"
       }
     },
     "name": "認知科學局·小型爆破",
@@ -1708,7 +1708,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%A8%99%E8%A8%98"
       }
     },
     "name": "暗紅色者·標記",
@@ -1728,7 +1728,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E6%80%A7%E6%AD%A6%E5%99%A8"
       }
     },
     "name": "強化組·實驗性武器",
@@ -1748,7 +1748,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%BF%BD%E8%B9%A4%E9%8E%96%E5%AE%9A"
       }
     },
     "name": "認知科學局·追蹤鎖定",
@@ -1768,7 +1768,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E4%BD%9C%E6%A5%AD"
       }
     },
     "name": "清理組·標準作業",
@@ -1788,7 +1788,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%B7%B1%E5%B1%A4%E8%BF%BD%E8%B9%A4"
       }
     },
     "name": "暗紅色者·深層追蹤",
@@ -1808,7 +1808,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%AB%98%E5%A3%93%E9%9B%BB%E6%93%8A"
       }
     },
     "name": "認知科學局·高壓電擊",
@@ -1828,7 +1828,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A"
       }
     },
     "name": "清理組·精準打擊",
@@ -1848,7 +1848,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%AF%A6%E9%A9%97"
       }
     },
     "name": "強化組·大規模實驗",
@@ -1868,7 +1868,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%B7%A8%E5%8C%96%E7%A8%8B%E5%BA%8F"
       }
     },
     "name": "認知科學局·淨化程序",
@@ -1888,7 +1888,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%9C%80%E7%B5%82%E6%B8%85%E9%99%A4"
       }
     },
     "name": "清理組·最終清除",
@@ -1908,7 +1908,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E7%B5%82%E5%B1%80%E8%99%95%E6%B1%BA"
       }
     },
     "name": "暗紅色者·終局處決",
@@ -1928,7 +1928,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%B3%87%E6%BA%90%E8%A3%9C%E7%B5%A6"
       }
     },
     "name": "認知科學局·資源補給",
@@ -1948,7 +1948,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E5%AF%A6%E9%A9%97%E9%AB%94%E6%94%B9%E9%80%A0"
       }
     },
     "name": "強化組·實驗體改造",
@@ -1968,7 +1968,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E6%A8%99%E6%BA%96%E8%A3%9D%E5%82%99"
       }
     },
     "name": "管控組·標準裝備",
@@ -1988,7 +1988,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%95%B8%E6%93%9A%E5%90%8C%E6%AD%A5"
       }
     },
     "name": "認知科學局·數據同步",
@@ -2008,7 +2008,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E9%81%A9%E6%87%89"
       }
     },
     "name": "暗紅色者·適應",
@@ -2028,7 +2028,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E9%81%8E%E8%BC%89"
       }
     },
     "name": "強化組·過載",
@@ -2048,7 +2048,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E9%9B%86%E9%AB%94%E5%8D%87%E7%B4%9A"
       }
     },
     "name": "認知科學局·集體升級",
@@ -2068,7 +2068,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E6%88%B0%E8%A1%93%E6%92%A4%E9%80%80"
       }
     },
     "name": "清理組·戰術撤退",
@@ -2088,7 +2088,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%BC%B7%E5%8C%96%E7%B5%84%C2%B7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%A9%9F%E6%9C%83"
       }
     },
     "name": "強化組·第二次機會",
@@ -2108,7 +2108,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E6%9C%80%E9%AB%98%E6%8E%88%E6%AC%8A"
       }
     },
     "name": "認知科學局·最高授權",
@@ -2128,7 +2128,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E7%9B%A3%E6%8E%A7%E6%8E%83%E6%8F%8F"
       }
     },
     "name": "管控組·監控掃描",
@@ -2148,7 +2148,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%85%A8%E9%A0%BB%E6%8E%83%E6%8F%8F"
       }
     },
     "name": "認知科學局·全頻掃描",
@@ -2168,7 +2168,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%B9%B2%E6%93%BE%E8%84%88%E8%A1%9D"
       }
     },
     "name": "清理組·干擾脈衝",
@@ -2188,7 +2188,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E8%B3%87%E8%A8%8A%E5%B0%81%E9%8E%96"
       }
     },
     "name": "管控組·資訊封鎖",
@@ -2208,7 +2208,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E5%BF%83%E7%90%86%E5%A3%93%E8%BF%AB"
       }
     },
     "name": "暗紅色者·心理壓迫",
@@ -2228,7 +2228,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E5%85%A8%E5%9F%9F%E7%9B%A3%E6%8E%A7"
       }
     },
     "name": "認知科學局·全域監控",
@@ -2248,7 +2248,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E7%B3%BB%E7%B5%B1%E7%99%B1%E7%98%93"
       }
     },
     "name": "清理組·系統癱瘓",
@@ -2268,7 +2268,7 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%AA%8D%E7%9F%A5%E5%B9%B2%E6%B6%89"
       }
     },
     "name": "認知科學局·認知干涉",
@@ -2288,7 +2288,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%83%BD%E9%87%8F%E6%8A%BD%E5%8F%96"
       }
     },
     "name": "認知科學局·能量抽取",
@@ -2308,7 +2308,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%AE%A1%E6%8E%A7%E7%B5%84%C2%B7%E5%BC%B7%E5%88%B6%E8%BD%89%E5%8C%96"
       }
     },
     "name": "管控組·強制轉化",
@@ -2328,7 +2328,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%E8%83%BD%E9%87%8F%E8%B6%85%E8%BC%89"
       }
     },
     "name": "認知科學局·能量超載",
@@ -2348,7 +2348,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%B8%85%E7%90%86%E7%B5%84%C2%B7%E5%9B%9E%E6%94%B6%E5%8D%94%E8%AD%B0"
       }
     },
     "name": "清理組·回收協議",
@@ -2368,7 +2368,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%B1%80%C2%B7%CE%A9%E7%A8%8B%E5%BA%8F"
       }
     },
     "name": "認知科學局·Ω程序",
@@ -2388,7 +2388,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%9A%97%E7%B4%85%E8%89%B2%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E6%94%B6%E5%89%B2"
       }
     },
     "name": "暗紅色者·最終收割",
@@ -2408,7 +2408,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E8%A6%8B%E7%BF%92%E4%BF%AE%E5%A3%AB"
       }
     },
     "name": "盧恩見習修士",
@@ -2428,7 +2428,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E5%80%99%E8%A3%9C"
       }
     },
     "name": "先知候補",
@@ -2448,7 +2448,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E8%A6%8B%E7%BF%92"
       }
     },
     "name": "靜默修會見習",
@@ -2468,7 +2468,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E7%9F%B3%E7%A2%91"
       }
     },
     "name": "盧恩石碑",
@@ -2488,7 +2488,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%98%BF%E7%88%BE%E7%B4%8D%E5%82%B3%E4%BA%BA"
       }
     },
     "name": "阿爾納傳人",
@@ -2508,7 +2508,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E8%AD%B7%E8%A1%9B"
       }
     },
     "name": "迴響金護衛",
@@ -2528,7 +2528,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E7%A5%AD%E5%8F%B8"
       }
     },
     "name": "維瑟爾祭司",
@@ -2548,7 +2548,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%AD%B8%E8%80%85"
       }
     },
     "name": "盧恩塔學者",
@@ -2568,7 +2568,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E5%86%A5%E6%83%B3%E8%80%85"
       }
     },
     "name": "靜默修會冥想者",
@@ -2588,7 +2588,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E8%A6%8B%E7%BF%92%E7%94%9F"
       }
     },
     "name": "先知見習生",
@@ -2608,7 +2608,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E5%85%88%E9%8B%92"
       }
     },
     "name": "黎明團先鋒",
@@ -2628,7 +2628,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E7%B5%90%E6%99%B6"
       }
     },
     "name": "迴響金結晶",
@@ -2648,7 +2648,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E9%95%B7%E8%80%81"
       }
     },
     "name": "靜默修會長老",
@@ -2668,7 +2668,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%A4%A7%E7%A5%AD%E5%8F%B8"
       }
     },
     "name": "盧恩塔大祭司",
@@ -2688,7 +2688,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E7%A5%9E%E5%AE%98"
       }
     },
     "name": "維瑟爾神官",
@@ -2708,7 +2708,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E8%81%96%E9%A8%8E%E5%A3%AB"
       }
     },
     "name": "黎明團聖騎士",
@@ -2728,7 +2728,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%AE%88%E8%AD%B7%E8%80%85"
       }
     },
     "name": "盧恩塔守護者",
@@ -2748,7 +2748,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E9%98%BF%E7%88%BE%E7%B4%8D%E4%BA%8C%E4%B8%96"
       }
     },
     "name": "先知·阿爾納二世",
@@ -2768,7 +2768,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E5%85%88%E7%9F%A5%E9%99%8D%E8%87%A8"
       }
     },
     "name": "回聖會·先知降臨",
@@ -2788,7 +2788,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%E5%85%88%E7%9F%A5"
       }
     },
     "name": "維瑟爾先知",
@@ -2808,7 +2808,7 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%B2%9D%E7%89%B9%E5%87%B1%E6%81%A9%E5%85%88%E7%9F%A5"
       }
     },
     "name": "貝特凱恩先知",
@@ -2828,7 +2828,7 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E6%9C%AB%E6%97%A5%E5%AF%A9%E5%88%A4"
       }
     },
     "name": "先知·末日審判",
@@ -2848,7 +2848,7 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E6%9C%80%E7%B5%82%E5%85%88%E7%9F%A5"
       }
     },
     "name": "回聖會·最終先知",
@@ -2868,7 +2868,7 @@
         },
         "type": "生物",
         "cost": 13,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%C2%B7%E6%B6%88%E6%95%A3%E5%89%8D%E5%A4%95"
       }
     },
     "name": "維瑟爾·消散前夕",
@@ -2888,7 +2888,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E8%A1%9D%E6%93%8A"
       }
     },
     "name": "盧恩刻印·衝擊",
@@ -2908,7 +2908,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%AE%88%E8%AD%B7"
       }
     },
     "name": "盧恩刻印·守護",
@@ -2928,7 +2928,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%8A%A0%E9%80%9F"
       }
     },
     "name": "盧恩刻印·加速",
@@ -2948,7 +2948,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%9B%9E%E9%9F%BF"
       }
     },
     "name": "盧恩刻印·回響",
@@ -2968,7 +2968,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "盧恩刻印·共鳴",
@@ -2988,7 +2988,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E7%A5%9E%E8%81%96"
       }
     },
     "name": "盧恩刻印·神聖",
@@ -3008,7 +3008,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E6%B7%A8%E5%8C%96"
       }
     },
     "name": "盧恩刻印·淨化",
@@ -3028,7 +3028,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E9%99%8D%E8%87%A8"
       }
     },
     "name": "盧恩刻印·降臨",
@@ -3048,7 +3048,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%85%88%E7%9F%A5%E4%B9%8B%E8%B7%AF"
       }
     },
     "name": "盧恩刻印·先知之路",
@@ -3068,7 +3068,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E6%9C%80%E7%B5%82%E5%AF%A9%E5%88%A4"
       }
     },
     "name": "盧恩刻印·最終審判",
@@ -3088,7 +3088,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "回聲共鳴",
@@ -3108,7 +3108,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E6%93%B4%E6%95%A3"
       }
     },
     "name": "回聲擴散",
@@ -3128,7 +3128,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%9B%9E%E6%86%B6"
       }
     },
     "name": "回聲回憶",
@@ -3148,7 +3148,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E7%88%86%E7%99%BC"
       }
     },
     "name": "回聲爆發",
@@ -3168,7 +3168,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E6%B9%A7%E6%B5%81"
       }
     },
     "name": "回聲湧流",
@@ -3188,7 +3188,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E5%85%B1%E9%B8%A3%C2%B7%E6%A5%B5%E9%99%90"
       }
     },
     "name": "回聲共鸣·極限",
@@ -3208,7 +3208,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%E7%B5%82%E7%AB%A0"
       }
     },
     "name": "回聲終章",
@@ -3228,7 +3228,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%B2%C2%B7%E6%B0%B8%E6%81%86%E8%BF%B4%E9%9F%BF"
       }
     },
     "name": "回聲·永恆迴響",
@@ -3248,7 +3248,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%B9%8B%E6%93%8A"
       }
     },
     "name": "靜默之擊",
@@ -3268,7 +3268,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%B0%81%E5%8D%B0"
       }
     },
     "name": "盧恩封印",
@@ -3288,7 +3288,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E9%A0%90%E8%A6%8B"
       }
     },
     "name": "先知預見",
@@ -3308,7 +3308,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%BB%8E%E6%98%8E%E5%9C%98%E5%B7%A1%E5%BC%8B"
       }
     },
     "name": "黎明團巡弋",
@@ -3328,7 +3328,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E4%BF%AE%E6%9C%83%E7%B5%90%E7%95%8C"
       }
     },
     "name": "靜默修會結界",
@@ -3348,7 +3348,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%A1%94%E5%B0%81%E9%8E%96"
       }
     },
     "name": "盧恩塔封鎖",
@@ -3368,7 +3368,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E4%B9%8B%E6%80%92"
       }
     },
     "name": "先知之怒",
@@ -3388,7 +3388,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%9B%9E%E8%81%96%E6%9C%83%C2%B7%E7%A5%9E%E7%BD%B0"
       }
     },
     "name": "回聖會·神罰",
@@ -3408,7 +3408,7 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%C2%B7%E6%9C%AB%E6%97%A5%E9%A0%90%E8%A8%80"
       }
     },
     "name": "先知·末日預言",
@@ -3428,7 +3428,7 @@
         },
         "type": "法術",
         "cost": 11,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%B6%AD%E7%91%9F%E7%88%BE%C2%B7%E7%A5%9E%E8%81%96%E5%AF%A9%E5%88%A4"
       }
     },
     "name": "維瑟爾·神聖審判",
@@ -3448,7 +3448,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%9B%9E%E5%BE%A9"
       }
     },
     "name": "盧恩回復",
@@ -3468,7 +3468,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%9D%9C%E9%BB%98%E5%86%A5%E6%83%B3"
       }
     },
     "name": "靜默冥想",
@@ -3488,7 +3488,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E5%85%B1%E9%B3%B4"
       }
     },
     "name": "迴響金共鳴",
@@ -3508,7 +3508,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%9B%A7%E6%81%A9%E5%88%BB%E5%8D%B0%C2%B7%E5%9B%9E%E7%94%9F"
       }
     },
     "name": "盧恩刻印·回生",
@@ -3528,7 +3528,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%85%88%E7%9F%A5%E4%B9%8B%E6%81%A9"
       }
     },
     "name": "先知之恩",
@@ -3548,7 +3548,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%BF%B4%E9%9F%BF%E9%87%91%E7%81%8C%E6%B3%A8"
       }
     },
     "name": "迴響金灌注",
@@ -3568,7 +3568,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%8D%9A%E5%A3%AB%E7%9A%84%E6%9C%80%E5%BE%8C%E8%B4%96%E7%BD%AA"
       }
     },
     "name": "博士的最後贖罪",
@@ -3588,7 +3588,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
       }
     },
     "name": "名字·斯特拉達·維爾索",
@@ -3608,7 +3608,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%B9%BC%E7%8B%BC"
       }
     },
     "name": "荒野幼狼",
@@ -3628,7 +3628,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%81%B5%E6%9F%A5%E7%8A%AC"
       }
     },
     "name": "部落偵查犬",
@@ -3648,7 +3648,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E5%B9%BC%E5%B4%BD"
       }
     },
     "name": "巨牙族幼崽",
@@ -3668,7 +3668,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%A9%AF%E7%8D%B8%E5%B8%AB"
       }
     },
     "name": "歸獸者·驯獸師",
@@ -3688,7 +3688,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E9%81%8A%E4%BF%A0"
       }
     },
     "name": "荒野遊俠",
@@ -3708,7 +3708,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%85%88%E8%A1%8C%E8%80%85"
       }
     },
     "name": "部落先行者",
@@ -3728,7 +3728,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E7%8B%BC%E6%97%8F%E7%AA%81%E8%A5%B2%E8%80%85"
       }
     },
     "name": "狼族突襲者",
@@ -3748,7 +3748,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E5%A3%AB"
       }
     },
     "name": "巨牙族戰士",
@@ -3768,7 +3768,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%9A%8E%E5%8F%AB%E8%80%85"
       }
     },
     "name": "荒野嚎叫者",
@@ -3788,7 +3788,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8B%82%E6%88%B0%E5%A3%AB"
       }
     },
     "name": "歸獸者·狂戰士",
@@ -3808,7 +3808,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%AE%88%E8%AD%B7%E5%B7%A8%E7%8D%B8"
       }
     },
     "name": "部落守護巨獸",
@@ -3828,7 +3828,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E8%BF%BD%E8%B9%A4%E8%80%85"
       }
     },
     "name": "荒野追蹤者",
@@ -3848,7 +3848,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E7%8B%BC"
       }
     },
     "name": "巨牙族戰狼",
@@ -3868,7 +3868,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B8%E7%8E%8B"
       }
     },
     "name": "歸獸者·獸王",
@@ -3888,7 +3888,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E7%8E%8B"
       }
     },
     "name": "巨牙族戰王",
@@ -3908,7 +3908,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%AE%88%E8%AD%B7%E7%A5%9E"
       }
     },
     "name": "荒野守護神",
@@ -3928,7 +3928,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8B%82%E5%8C%96%E6%88%B0%E5%A3%AB"
       }
     },
     "name": "歸獸者·狂化戰士",
@@ -3948,7 +3948,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E9%BC%93%E6%89%8B"
       }
     },
     "name": "部落·戰鼓手",
@@ -3968,7 +3968,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E4%B9%8B%E7%8E%8B"
       }
     },
     "name": "荒野之王",
@@ -3988,7 +3988,7 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E7%B5%82%E6%A5%B5%E6%88%B0%E7%8E%8B"
       }
     },
     "name": "巨牙族·終極戰王",
@@ -4008,7 +4008,7 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%83%A8%E8%90%BD%E4%B9%8B%E9%AD%82"
       }
     },
     "name": "歸獸者·部落之魂",
@@ -4028,7 +4028,7 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%90%AC%E7%8D%B8%E4%B9%8B%E7%8E%8B"
       }
     },
     "name": "荒野·萬獸之王",
@@ -4048,7 +4048,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%87%8E%E6%80%A7%E8%A1%9D%E6%93%8A"
       }
     },
     "name": "野性衝擊",
@@ -4068,7 +4068,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E6%AF%92%E5%88%83"
       }
     },
     "name": "部落毒刃",
@@ -4088,7 +4088,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E6%92%95%E5%92%AC"
       }
     },
     "name": "荒野撕咬",
@@ -4108,7 +4108,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E7%8C%9B%E6%93%8A"
       }
     },
     "name": "巨牙族猛擊",
@@ -4128,7 +4128,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B5%E6%AE%BA"
       }
     },
     "name": "歸獸者·獵殺",
@@ -4148,7 +4148,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E5%9A%8E%E5%8F%AB%C2%B7%E9%9C%87%E6%85%91"
       }
     },
     "name": "荒野嚎叫·震慑",
@@ -4168,7 +4168,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E6%88%B0%E5%9A%8E"
       }
     },
     "name": "部落戰嚎",
@@ -4188,7 +4188,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E8%A1%9D%E9%8B%92"
       }
     },
     "name": "巨牙族衝鋒",
@@ -4208,7 +4208,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%B5%82%E6%A5%B5%E7%8D%B5%E6%AE%BA"
       }
     },
     "name": "荒野·終極獵殺",
@@ -4228,7 +4228,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E5%A4%A7%E7%8D%B5%E6%AE%BA"
       }
     },
     "name": "歸獸者·大獵殺",
@@ -4248,7 +4248,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E8%A1%80%E7%A5%AD%E5%84%80%E5%BC%8F"
       }
     },
     "name": "部落·血祭儀式",
@@ -4268,7 +4268,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%8D%B8%E7%8E%8B%E9%99%8D%E8%87%A8"
       }
     },
     "name": "荒野·獸王降臨",
@@ -4288,7 +4288,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%BB%85%E4%B8%96%E8%A1%9D%E6%93%8A"
       }
     },
     "name": "巨牙族·滅世衝擊",
@@ -4308,7 +4308,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%9C%80%E7%B5%82%E7%8D%B5%E6%AE%BA"
       }
     },
     "name": "歸獸者·最終獵殺",
@@ -4328,7 +4328,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%98%B6%E5%90%BC"
       }
     },
     "name": "部落嘶吼",
@@ -4348,7 +4348,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E8%97%A5%E8%8D%89"
       }
     },
     "name": "荒野藥草",
@@ -4368,7 +4368,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%88%B0%E5%90%BC"
       }
     },
     "name": "歸獸者·戰吼",
@@ -4388,7 +4388,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%E6%88%B0%E9%BC%93"
       }
     },
     "name": "巨牙族戰鼓",
@@ -4408,7 +4408,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E7%8B%82%E5%8C%96%E8%97%A5%E5%8A%91"
       }
     },
     "name": "荒野·狂化藥劑",
@@ -4428,7 +4428,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A3%AB%E8%99%9F%E8%A7%92"
       }
     },
     "name": "部落·戰士號角",
@@ -4448,7 +4448,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%9B%86%E9%AB%94%E7%8B%82%E5%8C%96"
       }
     },
     "name": "歸獸者·集體狂化",
@@ -4468,7 +4468,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%A1%80%E6%80%92%E7%81%8C%E6%B3%A8"
       }
     },
     "name": "荒野·血怒灌注",
@@ -4488,7 +4488,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E7%8E%8B%E8%99%9F%E4%BB%A4"
       }
     },
     "name": "巨牙族·戰王號令",
@@ -4508,7 +4508,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%90%8D%E5%AD%97%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E9%81%94%C2%B7%E7%B6%AD%E7%88%BE%E7%B4%A2"
       }
     },
     "name": "名字·斯特拉達·維爾索",
@@ -4528,7 +4528,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%E5%81%B5%E5%AF%9F"
       }
     },
     "name": "部落偵察",
@@ -4548,7 +4548,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E5%9A%8E%E5%8F%AB%E9%9C%87%E6%87%BE"
       }
     },
     "name": "荒野·嚎叫震懾",
@@ -4568,7 +4568,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E6%88%B0%E5%A0%B4%E5%A3%93%E5%88%B6"
       }
     },
     "name": "歸獸者·戰場壓制",
@@ -4588,7 +4588,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E5%90%BC%E9%9C%87%E6%87%BE"
       }
     },
     "name": "巨牙族·戰吼震懾",
@@ -4608,7 +4608,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E5%BF%83%E7%90%86%E6%88%B0"
       }
     },
     "name": "荒野·心理戰",
@@ -4628,7 +4628,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A0%B4%E5%B0%81%E9%8E%96"
       }
     },
     "name": "部落·戰場封鎖",
@@ -4648,7 +4648,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E7%8D%B8%E7%BE%A4%E7%8B%82%E6%BD%AE"
       }
     },
     "name": "歸獸者·獸群狂潮",
@@ -4668,7 +4668,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E8%90%AC%E7%8D%B8%E5%A5%94%E9%A8%B0"
       }
     },
     "name": "荒野·萬獸奔騰",
@@ -4688,7 +4688,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%E7%99%82%E5%82%B7"
       }
     },
     "name": "荒野療傷",
@@ -4708,7 +4708,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E6%88%B0%E5%A0%B4%E6%95%91%E6%8F%B4"
       }
     },
     "name": "部落·戰場救援",
@@ -4728,7 +4728,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E6%AD%B8%E7%8D%B8%E8%80%85%C2%B7%E9%9B%86%E9%AB%94%E6%B2%BB%E7%99%82"
       }
     },
     "name": "歸獸者·集體治療",
@@ -4748,7 +4748,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E8%8D%92%E9%87%8E%C2%B7%E6%88%B0%E5%A0%B4%E5%9B%9E%E6%94%B6"
       }
     },
     "name": "荒野·戰場回收",
@@ -4768,7 +4768,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E9%83%A8%E8%90%BD%C2%B7%E8%A1%80%E7%A5%AD%E9%87%8D%E7%94%9F"
       }
     },
     "name": "部落·血祭重生",
@@ -4788,7 +4788,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": ""
+        "image": "https://via.placeholder.com/250x350/2a2a4a/ffffff?text=%E5%B7%A8%E7%89%99%E6%97%8F%C2%B7%E6%88%B0%E7%8E%8B%E4%B9%8B%E6%80%92"
       }
     },
     "name": "巨牙族·戰王之怒",
