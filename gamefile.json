@@ -3,7 +3,7 @@
   "deckBuilding": {
     "mainFilters": ["type", "cost"],
     "formats": [
-      { "title": "Standard", "gameplay": "Standard" }
+      { "title": "Standard", "gameplay": "Standard", "deckRuleset": "Standard" }
     ],
     "deckRulesets": {
       "Standard": {
@@ -24,19 +24,15 @@
             {
               "direction": "row",
               "content": [
-                { "section": "Energy" },
-                { "section": "Dissipation" },
-                { "section": "Extinction" }
+                { "section": "Energy", "style": { "width": "34%" } },
+                { "section": "Dissipation", "style": { "width": "33%" } },
+                { "section": "Extinction", "style": { "width": "33%" } }
               ]
             }
           ]
         },
         "sectionsDict": {
-          "Board": {
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER"
-          },
+          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
           "Energy": {
             "isHidden": "opponent-only",
             "height": "SMALL",
@@ -44,19 +40,16 @@
             "displayedTitle": "Energy Zone",
             "isHorizontalAllowed": true
           },
-          "Dissipation": {
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "displayedTitle": "Dissipation"
-          },
-          "Extinction": {
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "displayedTitle": "Extinction",
-            "noQuickActions": true
-          }
+          "Dissipation": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER", "displayedTitle": "Dissipation" },
+          "Extinction": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER", "displayedTitle": "Extinction", "noQuickActions": true }
+        },
+        "autoPlayFromHand": {
+          "生物": "Board",
+          "法術": "Stack",
+          "場地": "Board"
+        },
+        "autoPlayFromStack": {
+          "法術": "Dissipation"
         }
       }
     }
