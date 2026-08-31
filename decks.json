@@ -1,6 +1,1046 @@
 [
-  "預組A：主角組·觀測之眼\n1 pa_01\n1 pa_02\n1 pa_03\n1 pa_04\n1 pa_05\n1 pa_06\n1 pa_07\n1 pa_08\n1 pa_09\n1 pa_10\n1 pa_11\n1 pa_12\n1 pa_13\n1 pa_14\n1 pa_15\n1 pa_16\n1 pa_17\n1 pa_18\n1 pa_19\n1 pa_20\n1 pa_21\n1 pa_22\n1 pa_23\n1 pa_24\n1 pa_25\n1 pa_26\n1 pa_27\n1 pa_28\n1 pa_29\n1 pa_30\n1 pa_31\n1 pa_32\n1 pa_33\n1 pa_34\n1 pa_35\n1 pa_36\n1 pa_37\n1 pa_38\n1 pa_39\n1 pa_40\n1 pa_41\n1 pa_42\n1 pa_43\n1 pa_44\n1 pa_45\n1 pa_46\n1 pa_47\n1 pa_48\n1 pa_49\n1 pa_50\n1 pa_51\n1 pa_52\n1 pa_53\n1 pa_54\n1 pa_55\n1 pa_56\n1 pa_57\n1 pa_58\n1 pa_59\n1 pa_60",
-  "預組B：清理組·暗紅色者\n1 pb_01\n1 pb_02\n1 pb_03\n1 pb_04\n1 pb_05\n1 pb_06\n1 pb_07\n1 pb_08\n1 pb_09\n1 pb_10\n1 pb_11\n1 pb_12\n1 pb_13\n1 pb_14\n1 pb_15\n1 pb_16\n1 pb_17\n1 pb_18\n1 pb_19\n1 pb_20\n1 pb_21\n1 pb_22\n1 pb_23\n1 pb_24\n1 pb_25\n1 pb_26\n1 pb_27\n1 pb_28\n1 pb_29\n1 pb_30\n1 pb_31\n1 pb_32\n1 pb_33\n1 pb_34\n1 pb_35\n1 pb_36\n1 pb_37\n1 pb_38\n1 pb_39\n1 pb_40\n1 pb_41\n1 pb_42\n1 pb_43\n1 pb_44\n1 pb_45\n1 pb_46\n1 pb_47\n1 pb_48\n1 pb_49\n1 pb_50\n1 pb_51\n1 pb_52\n1 pb_53\n1 pb_54\n1 pb_55\n1 pb_56\n1 pb_57\n1 pb_58\n1 pb_59\n1 pb_60",
-  "預組C：回聖會·先知之歌\n1 pc_01\n1 pc_02\n1 pc_03\n1 pc_04\n1 pc_05\n1 pc_06\n1 pc_07\n1 pc_08\n1 pc_09\n1 pc_10\n1 pc_11\n1 pc_12\n1 pc_13\n1 pc_14\n1 pc_15\n1 pc_16\n1 pc_17\n1 pc_18\n1 pc_19\n1 pc_20\n1 pc_21\n1 pc_22\n1 pc_23\n1 pc_24\n1 pc_25\n1 pc_26\n1 pc_27\n1 pc_28\n1 pc_29\n1 pc_30\n1 pc_31\n1 pc_32\n1 pc_33\n1 pc_34\n1 pc_35\n1 pc_36\n1 pc_37\n1 pc_38\n1 pc_39\n1 pc_40\n1 pc_41\n1 pc_42\n1 pc_43\n1 pc_44\n1 pc_45\n1 pc_46\n1 pc_47\n1 pc_48\n1 pc_49\n1 pc_50\n1 pc_51\n1 pc_52\n1 pc_53\n1 pc_54\n1 pc_55\n1 pc_56\n1 pc_57\n1 pc_58\n1 pc_59\n1 pc_60",
-  "預組D：歸獸者·野性本能\n1 pd_01\n1 pd_02\n1 pd_03\n1 pd_04\n1 pd_05\n1 pd_06\n1 pd_07\n1 pd_08\n1 pd_09\n1 pd_10\n1 pd_11\n1 pd_12\n1 pd_13\n1 pd_14\n1 pd_15\n1 pd_16\n1 pd_17\n1 pd_18\n1 pd_19\n1 pd_20\n1 pd_21\n1 pd_22\n1 pd_23\n1 pd_24\n1 pd_25\n1 pd_26\n1 pd_27\n1 pd_28\n1 pd_29\n1 pd_30\n1 pd_31\n1 pd_32\n1 pd_33\n1 pd_34\n1 pd_35\n1 pd_36\n1 pd_37\n1 pd_38\n1 pd_39\n1 pd_40\n1 pd_41\n1 pd_42\n1 pd_43\n1 pd_44\n1 pd_45\n1 pd_46\n1 pd_47\n1 pd_48\n1 pd_49\n1 pd_50\n1 pd_51\n1 pd_52\n1 pd_53\n1 pd_54\n1 pd_55\n1 pd_56\n1 pd_57\n1 pd_58\n1 pd_59\n1 pd_60"
+  {
+    "title": "預組A：主角組·觀測之眼",
+    "id": "36784d5b-25fb-4cf9-919d-57b1e591be43",
+    "cardCount": 60,
+    "createdAt": "2026-08-31T08:05:12.721Z",
+    "lastModifiedAt": "2026-08-31T08:05:12.730Z",
+    "game": "SDV",
+    "format": [
+      "Standard"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "生物",
+        "法術"
+      ],
+      "生物": [
+        {
+          "count": 1,
+          "id": "pa_01"
+        },
+        {
+          "count": 1,
+          "id": "pa_02"
+        },
+        {
+          "count": 1,
+          "id": "pa_03"
+        },
+        {
+          "count": 1,
+          "id": "pa_04"
+        },
+        {
+          "count": 1,
+          "id": "pa_05"
+        },
+        {
+          "count": 1,
+          "id": "pa_06"
+        },
+        {
+          "count": 1,
+          "id": "pa_07"
+        },
+        {
+          "count": 1,
+          "id": "pa_08"
+        },
+        {
+          "count": 1,
+          "id": "pa_09"
+        },
+        {
+          "count": 1,
+          "id": "pa_10"
+        },
+        {
+          "count": 1,
+          "id": "pa_11"
+        },
+        {
+          "count": 1,
+          "id": "pa_12"
+        },
+        {
+          "count": 1,
+          "id": "pa_13"
+        },
+        {
+          "count": 1,
+          "id": "pa_14"
+        },
+        {
+          "count": 1,
+          "id": "pa_15"
+        },
+        {
+          "count": 1,
+          "id": "pa_16"
+        },
+        {
+          "count": 1,
+          "id": "pa_17"
+        },
+        {
+          "count": 1,
+          "id": "pa_18"
+        },
+        {
+          "count": 1,
+          "id": "pa_19"
+        },
+        {
+          "count": 1,
+          "id": "pa_20"
+        },
+        {
+          "count": 1,
+          "id": "pa_21"
+        },
+        {
+          "count": 1,
+          "id": "pa_22"
+        },
+        {
+          "count": 1,
+          "id": "pa_23"
+        },
+        {
+          "count": 1,
+          "id": "pa_24"
+        }
+      ],
+      "法術": [
+        {
+          "count": 1,
+          "id": "pa_25"
+        },
+        {
+          "count": 1,
+          "id": "pa_26"
+        },
+        {
+          "count": 1,
+          "id": "pa_27"
+        },
+        {
+          "count": 1,
+          "id": "pa_28"
+        },
+        {
+          "count": 1,
+          "id": "pa_29"
+        },
+        {
+          "count": 1,
+          "id": "pa_30"
+        },
+        {
+          "count": 1,
+          "id": "pa_31"
+        },
+        {
+          "count": 1,
+          "id": "pa_32"
+        },
+        {
+          "count": 1,
+          "id": "pa_33"
+        },
+        {
+          "count": 1,
+          "id": "pa_34"
+        },
+        {
+          "count": 1,
+          "id": "pa_35"
+        },
+        {
+          "count": 1,
+          "id": "pa_36"
+        },
+        {
+          "count": 1,
+          "id": "pa_37"
+        },
+        {
+          "count": 1,
+          "id": "pa_38"
+        },
+        {
+          "count": 1,
+          "id": "pa_39"
+        },
+        {
+          "count": 1,
+          "id": "pa_40"
+        },
+        {
+          "count": 1,
+          "id": "pa_41"
+        },
+        {
+          "count": 1,
+          "id": "pa_42"
+        },
+        {
+          "count": 1,
+          "id": "pa_43"
+        },
+        {
+          "count": 1,
+          "id": "pa_44"
+        },
+        {
+          "count": 1,
+          "id": "pa_45"
+        },
+        {
+          "count": 1,
+          "id": "pa_46"
+        },
+        {
+          "count": 1,
+          "id": "pa_47"
+        },
+        {
+          "count": 1,
+          "id": "pa_48"
+        },
+        {
+          "count": 1,
+          "id": "pa_49"
+        },
+        {
+          "count": 1,
+          "id": "pa_50"
+        },
+        {
+          "count": 1,
+          "id": "pa_51"
+        },
+        {
+          "count": 1,
+          "id": "pa_52"
+        },
+        {
+          "count": 1,
+          "id": "pa_53"
+        },
+        {
+          "count": 1,
+          "id": "pa_54"
+        },
+        {
+          "count": 1,
+          "id": "pa_55"
+        },
+        {
+          "count": 1,
+          "id": "pa_56"
+        },
+        {
+          "count": 1,
+          "id": "pa_57"
+        },
+        {
+          "count": 1,
+          "id": "pa_58"
+        },
+        {
+          "count": 1,
+          "id": "pa_59"
+        },
+        {
+          "count": 1,
+          "id": "pa_60"
+        }
+      ]
+    }
+  },
+  {
+    "title": "預組B：清理組·暗紅色者",
+    "id": "4af558f9-a800-4be2-baa9-7d6b33af2aa4",
+    "cardCount": 60,
+    "createdAt": "2026-08-31T08:05:12.730Z",
+    "lastModifiedAt": "2026-08-31T08:05:12.730Z",
+    "game": "SDV",
+    "format": [
+      "Standard"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "生物",
+        "法術"
+      ],
+      "生物": [
+        {
+          "count": 1,
+          "id": "pb_01"
+        },
+        {
+          "count": 1,
+          "id": "pb_02"
+        },
+        {
+          "count": 1,
+          "id": "pb_03"
+        },
+        {
+          "count": 1,
+          "id": "pb_04"
+        },
+        {
+          "count": 1,
+          "id": "pb_05"
+        },
+        {
+          "count": 1,
+          "id": "pb_06"
+        },
+        {
+          "count": 1,
+          "id": "pb_07"
+        },
+        {
+          "count": 1,
+          "id": "pb_08"
+        },
+        {
+          "count": 1,
+          "id": "pb_09"
+        },
+        {
+          "count": 1,
+          "id": "pb_10"
+        },
+        {
+          "count": 1,
+          "id": "pb_11"
+        },
+        {
+          "count": 1,
+          "id": "pb_12"
+        },
+        {
+          "count": 1,
+          "id": "pb_13"
+        },
+        {
+          "count": 1,
+          "id": "pb_14"
+        },
+        {
+          "count": 1,
+          "id": "pb_15"
+        },
+        {
+          "count": 1,
+          "id": "pb_16"
+        },
+        {
+          "count": 1,
+          "id": "pb_17"
+        },
+        {
+          "count": 1,
+          "id": "pb_18"
+        },
+        {
+          "count": 1,
+          "id": "pb_19"
+        },
+        {
+          "count": 1,
+          "id": "pb_20"
+        },
+        {
+          "count": 1,
+          "id": "pb_21"
+        },
+        {
+          "count": 1,
+          "id": "pb_22"
+        }
+      ],
+      "法術": [
+        {
+          "count": 1,
+          "id": "pb_23"
+        },
+        {
+          "count": 1,
+          "id": "pb_24"
+        },
+        {
+          "count": 1,
+          "id": "pb_25"
+        },
+        {
+          "count": 1,
+          "id": "pb_26"
+        },
+        {
+          "count": 1,
+          "id": "pb_27"
+        },
+        {
+          "count": 1,
+          "id": "pb_28"
+        },
+        {
+          "count": 1,
+          "id": "pb_29"
+        },
+        {
+          "count": 1,
+          "id": "pb_30"
+        },
+        {
+          "count": 1,
+          "id": "pb_31"
+        },
+        {
+          "count": 1,
+          "id": "pb_32"
+        },
+        {
+          "count": 1,
+          "id": "pb_33"
+        },
+        {
+          "count": 1,
+          "id": "pb_34"
+        },
+        {
+          "count": 1,
+          "id": "pb_35"
+        },
+        {
+          "count": 1,
+          "id": "pb_36"
+        },
+        {
+          "count": 1,
+          "id": "pb_37"
+        },
+        {
+          "count": 1,
+          "id": "pb_38"
+        },
+        {
+          "count": 1,
+          "id": "pb_39"
+        },
+        {
+          "count": 1,
+          "id": "pb_40"
+        },
+        {
+          "count": 1,
+          "id": "pb_41"
+        },
+        {
+          "count": 1,
+          "id": "pb_42"
+        },
+        {
+          "count": 1,
+          "id": "pb_43"
+        },
+        {
+          "count": 1,
+          "id": "pb_44"
+        },
+        {
+          "count": 1,
+          "id": "pb_45"
+        },
+        {
+          "count": 1,
+          "id": "pb_46"
+        },
+        {
+          "count": 1,
+          "id": "pb_47"
+        },
+        {
+          "count": 1,
+          "id": "pb_48"
+        },
+        {
+          "count": 1,
+          "id": "pb_49"
+        },
+        {
+          "count": 1,
+          "id": "pb_50"
+        },
+        {
+          "count": 1,
+          "id": "pb_51"
+        },
+        {
+          "count": 1,
+          "id": "pb_52"
+        },
+        {
+          "count": 1,
+          "id": "pb_53"
+        },
+        {
+          "count": 1,
+          "id": "pb_54"
+        },
+        {
+          "count": 1,
+          "id": "pb_55"
+        },
+        {
+          "count": 1,
+          "id": "pb_56"
+        },
+        {
+          "count": 1,
+          "id": "pb_57"
+        },
+        {
+          "count": 1,
+          "id": "pb_58"
+        },
+        {
+          "count": 1,
+          "id": "pb_59"
+        },
+        {
+          "count": 1,
+          "id": "pb_60"
+        }
+      ]
+    }
+  },
+  {
+    "title": "預組C：回聖會·先知之歌",
+    "id": "5f0cf617-e653-41e0-afc5-4a20cb8fb2a0",
+    "cardCount": 60,
+    "createdAt": "2026-08-31T08:05:12.730Z",
+    "lastModifiedAt": "2026-08-31T08:05:12.730Z",
+    "game": "SDV",
+    "format": [
+      "Standard"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "生物",
+        "法術"
+      ],
+      "生物": [
+        {
+          "count": 1,
+          "id": "pc_01"
+        },
+        {
+          "count": 1,
+          "id": "pc_02"
+        },
+        {
+          "count": 1,
+          "id": "pc_03"
+        },
+        {
+          "count": 1,
+          "id": "pc_04"
+        },
+        {
+          "count": 1,
+          "id": "pc_05"
+        },
+        {
+          "count": 1,
+          "id": "pc_06"
+        },
+        {
+          "count": 1,
+          "id": "pc_07"
+        },
+        {
+          "count": 1,
+          "id": "pc_08"
+        },
+        {
+          "count": 1,
+          "id": "pc_09"
+        },
+        {
+          "count": 1,
+          "id": "pc_10"
+        },
+        {
+          "count": 1,
+          "id": "pc_11"
+        },
+        {
+          "count": 1,
+          "id": "pc_12"
+        },
+        {
+          "count": 1,
+          "id": "pc_13"
+        },
+        {
+          "count": 1,
+          "id": "pc_14"
+        },
+        {
+          "count": 1,
+          "id": "pc_15"
+        },
+        {
+          "count": 1,
+          "id": "pc_16"
+        },
+        {
+          "count": 1,
+          "id": "pc_17"
+        },
+        {
+          "count": 1,
+          "id": "pc_18"
+        },
+        {
+          "count": 1,
+          "id": "pc_19"
+        },
+        {
+          "count": 1,
+          "id": "pc_20"
+        },
+        {
+          "count": 1,
+          "id": "pc_21"
+        },
+        {
+          "count": 1,
+          "id": "pc_22"
+        },
+        {
+          "count": 1,
+          "id": "pc_23"
+        },
+        {
+          "count": 1,
+          "id": "pc_24"
+        }
+      ],
+      "法術": [
+        {
+          "count": 1,
+          "id": "pc_25"
+        },
+        {
+          "count": 1,
+          "id": "pc_26"
+        },
+        {
+          "count": 1,
+          "id": "pc_27"
+        },
+        {
+          "count": 1,
+          "id": "pc_28"
+        },
+        {
+          "count": 1,
+          "id": "pc_29"
+        },
+        {
+          "count": 1,
+          "id": "pc_30"
+        },
+        {
+          "count": 1,
+          "id": "pc_31"
+        },
+        {
+          "count": 1,
+          "id": "pc_32"
+        },
+        {
+          "count": 1,
+          "id": "pc_33"
+        },
+        {
+          "count": 1,
+          "id": "pc_34"
+        },
+        {
+          "count": 1,
+          "id": "pc_35"
+        },
+        {
+          "count": 1,
+          "id": "pc_36"
+        },
+        {
+          "count": 1,
+          "id": "pc_37"
+        },
+        {
+          "count": 1,
+          "id": "pc_38"
+        },
+        {
+          "count": 1,
+          "id": "pc_39"
+        },
+        {
+          "count": 1,
+          "id": "pc_40"
+        },
+        {
+          "count": 1,
+          "id": "pc_41"
+        },
+        {
+          "count": 1,
+          "id": "pc_42"
+        },
+        {
+          "count": 1,
+          "id": "pc_43"
+        },
+        {
+          "count": 1,
+          "id": "pc_44"
+        },
+        {
+          "count": 1,
+          "id": "pc_45"
+        },
+        {
+          "count": 1,
+          "id": "pc_46"
+        },
+        {
+          "count": 1,
+          "id": "pc_47"
+        },
+        {
+          "count": 1,
+          "id": "pc_48"
+        },
+        {
+          "count": 1,
+          "id": "pc_49"
+        },
+        {
+          "count": 1,
+          "id": "pc_50"
+        },
+        {
+          "count": 1,
+          "id": "pc_51"
+        },
+        {
+          "count": 1,
+          "id": "pc_52"
+        },
+        {
+          "count": 1,
+          "id": "pc_53"
+        },
+        {
+          "count": 1,
+          "id": "pc_54"
+        },
+        {
+          "count": 1,
+          "id": "pc_55"
+        },
+        {
+          "count": 1,
+          "id": "pc_56"
+        },
+        {
+          "count": 1,
+          "id": "pc_57"
+        },
+        {
+          "count": 1,
+          "id": "pc_58"
+        },
+        {
+          "count": 1,
+          "id": "pc_59"
+        },
+        {
+          "count": 1,
+          "id": "pc_60"
+        }
+      ]
+    }
+  },
+  {
+    "title": "預組D：歸獸者·野性本能",
+    "id": "0a75bdee-8eda-4357-bacb-b20aa04d43b7",
+    "cardCount": 60,
+    "createdAt": "2026-08-31T08:05:12.730Z",
+    "lastModifiedAt": "2026-08-31T08:05:12.730Z",
+    "game": "SDV",
+    "format": [
+      "Standard"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "生物",
+        "法術"
+      ],
+      "生物": [
+        {
+          "count": 1,
+          "id": "pd_01"
+        },
+        {
+          "count": 1,
+          "id": "pd_02"
+        },
+        {
+          "count": 1,
+          "id": "pd_03"
+        },
+        {
+          "count": 1,
+          "id": "pd_04"
+        },
+        {
+          "count": 1,
+          "id": "pd_05"
+        },
+        {
+          "count": 1,
+          "id": "pd_06"
+        },
+        {
+          "count": 1,
+          "id": "pd_07"
+        },
+        {
+          "count": 1,
+          "id": "pd_08"
+        },
+        {
+          "count": 1,
+          "id": "pd_09"
+        },
+        {
+          "count": 1,
+          "id": "pd_10"
+        },
+        {
+          "count": 1,
+          "id": "pd_11"
+        },
+        {
+          "count": 1,
+          "id": "pd_12"
+        },
+        {
+          "count": 1,
+          "id": "pd_13"
+        },
+        {
+          "count": 1,
+          "id": "pd_14"
+        },
+        {
+          "count": 1,
+          "id": "pd_15"
+        },
+        {
+          "count": 1,
+          "id": "pd_16"
+        },
+        {
+          "count": 1,
+          "id": "pd_17"
+        },
+        {
+          "count": 1,
+          "id": "pd_18"
+        },
+        {
+          "count": 1,
+          "id": "pd_19"
+        },
+        {
+          "count": 1,
+          "id": "pd_20"
+        },
+        {
+          "count": 1,
+          "id": "pd_21"
+        },
+        {
+          "count": 1,
+          "id": "pd_22"
+        }
+      ],
+      "法術": [
+        {
+          "count": 1,
+          "id": "pd_23"
+        },
+        {
+          "count": 1,
+          "id": "pd_24"
+        },
+        {
+          "count": 1,
+          "id": "pd_25"
+        },
+        {
+          "count": 1,
+          "id": "pd_26"
+        },
+        {
+          "count": 1,
+          "id": "pd_27"
+        },
+        {
+          "count": 1,
+          "id": "pd_28"
+        },
+        {
+          "count": 1,
+          "id": "pd_29"
+        },
+        {
+          "count": 1,
+          "id": "pd_30"
+        },
+        {
+          "count": 1,
+          "id": "pd_31"
+        },
+        {
+          "count": 1,
+          "id": "pd_32"
+        },
+        {
+          "count": 1,
+          "id": "pd_33"
+        },
+        {
+          "count": 1,
+          "id": "pd_34"
+        },
+        {
+          "count": 1,
+          "id": "pd_35"
+        },
+        {
+          "count": 1,
+          "id": "pd_36"
+        },
+        {
+          "count": 1,
+          "id": "pd_37"
+        },
+        {
+          "count": 1,
+          "id": "pd_38"
+        },
+        {
+          "count": 1,
+          "id": "pd_39"
+        },
+        {
+          "count": 1,
+          "id": "pd_40"
+        },
+        {
+          "count": 1,
+          "id": "pd_41"
+        },
+        {
+          "count": 1,
+          "id": "pd_42"
+        },
+        {
+          "count": 1,
+          "id": "pd_43"
+        },
+        {
+          "count": 1,
+          "id": "pd_44"
+        },
+        {
+          "count": 1,
+          "id": "pd_45"
+        },
+        {
+          "count": 1,
+          "id": "pd_46"
+        },
+        {
+          "count": 1,
+          "id": "pd_47"
+        },
+        {
+          "count": 1,
+          "id": "pd_48"
+        },
+        {
+          "count": 1,
+          "id": "pd_49"
+        },
+        {
+          "count": 1,
+          "id": "pd_50"
+        },
+        {
+          "count": 1,
+          "id": "pd_51"
+        },
+        {
+          "count": 1,
+          "id": "pd_52"
+        },
+        {
+          "count": 1,
+          "id": "pd_53"
+        },
+        {
+          "count": 1,
+          "id": "pd_54"
+        },
+        {
+          "count": 1,
+          "id": "pd_55"
+        },
+        {
+          "count": 1,
+          "id": "pd_56"
+        },
+        {
+          "count": 1,
+          "id": "pd_57"
+        },
+        {
+          "count": 1,
+          "id": "pd_58"
+        },
+        {
+          "count": 1,
+          "id": "pd_59"
+        },
+        {
+          "count": 1,
+          "id": "pd_60"
+        }
+      ]
+    }
+  }
 ]
