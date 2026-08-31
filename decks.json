@@ -5,7 +5,7 @@
     "cardCount": 60,
     "createdAt": "2026-08-31T08:05:12.721Z",
     "lastModifiedAt": "2026-08-31T08:05:12.730Z",
-    "game": "SDV",
+    "game": "SDV-TCG",
     "format": [
       "Standard"
     ],
@@ -266,7 +266,7 @@
     "cardCount": 60,
     "createdAt": "2026-08-31T08:05:12.730Z",
     "lastModifiedAt": "2026-08-31T08:05:12.730Z",
-    "game": "SDV",
+    "game": "SDV-TCG",
     "format": [
       "Standard"
     ],
@@ -527,7 +527,7 @@
     "cardCount": 60,
     "createdAt": "2026-08-31T08:05:12.730Z",
     "lastModifiedAt": "2026-08-31T08:05:12.730Z",
-    "game": "SDV",
+    "game": "SDV-TCG",
     "format": [
       "Standard"
     ],
@@ -788,7 +788,7 @@
     "cardCount": 60,
     "createdAt": "2026-08-31T08:05:12.730Z",
     "lastModifiedAt": "2026-08-31T08:05:12.730Z",
-    "game": "SDV",
+    "game": "SDV-TCG",
     "format": [
       "Standard"
     ],
