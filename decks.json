@@ -1,52 +1,6 @@
 [
-  {
-    "name": "預組A：主角組·觀測之眼",
-    "cards": [
-      "pa_01", "pa_02", "pa_03", "pa_04", "pa_05", "pa_06", "pa_07", "pa_08", "pa_09", "pa_10",
-      "pa_11", "pa_12", "pa_13", "pa_14", "pa_15", "pa_16", "pa_17", "pa_18", "pa_19", "pa_20",
-      "pa_21", "pa_22", "pa_23", "pa_24",
-      "pa_25", "pa_26", "pa_27", "pa_28", "pa_29", "pa_30", "pa_31", "pa_32", "pa_33",
-      "pa_34", "pa_35", "pa_36", "pa_37", "pa_38", "pa_39", "pa_40", "pa_41",
-      "pa_42", "pa_43", "pa_44", "pa_45", "pa_46", "pa_47", "pa_48", "pa_49", "pa_50", "pa_51", "pa_52", "pa_53",
-      "pa_54", "pa_55", "pa_56", "pa_57", "pa_58", "pa_59", "pa_60"
-    ]
-  },
-  {
-    "name": "預組B：清理組·暗紅色者",
-    "cards": [
-      "pb_01", "pb_02", "pb_03", "pb_04", "pb_05", "pb_06", "pb_07", "pb_08", "pb_09", "pb_10",
-      "pb_11", "pb_12", "pb_13", "pb_14", "pb_15", "pb_16", "pb_17", "pb_18", "pb_19", "pb_20",
-      "pb_21", "pb_22",
-      "pb_23", "pb_24", "pb_25", "pb_26", "pb_27", "pb_28", "pb_29", "pb_30", "pb_31", "pb_32",
-      "pb_33", "pb_34", "pb_35", "pb_36",
-      "pb_37", "pb_38", "pb_39", "pb_40", "pb_41", "pb_42", "pb_43", "pb_44", "pb_45", "pb_46",
-      "pb_47", "pb_48", "pb_49", "pb_50", "pb_51", "pb_52", "pb_53", "pb_54",
-      "pb_55", "pb_56", "pb_57", "pb_58", "pb_59", "pb_60"
-    ]
-  },
-  {
-    "name": "預組C：回聖會·先知之歌",
-    "cards": [
-      "pc_01", "pc_02", "pc_03", "pc_04", "pc_05", "pc_06", "pc_07", "pc_08", "pc_09", "pc_10",
-      "pc_11", "pc_12", "pc_13", "pc_14", "pc_15", "pc_16", "pc_17", "pc_18", "pc_19", "pc_20",
-      "pc_21", "pc_22", "pc_23", "pc_24",
-      "pc_25", "pc_26", "pc_27", "pc_28", "pc_29", "pc_30", "pc_31", "pc_32", "pc_33", "pc_34",
-      "pc_35", "pc_36", "pc_37", "pc_38", "pc_39", "pc_40", "pc_41", "pc_42",
-      "pc_43", "pc_44", "pc_45", "pc_46", "pc_47", "pc_48", "pc_49", "pc_50", "pc_51", "pc_52",
-      "pc_53", "pc_54", "pc_55", "pc_56", "pc_57", "pc_58", "pc_59", "pc_60"
-    ]
-  },
-  {
-    "name": "預組D：歸獸者·野性本能",
-    "cards": [
-      "pd_01", "pd_02", "pd_03", "pd_04", "pd_05", "pd_06", "pd_07", "pd_08", "pd_09", "pd_10",
-      "pd_11", "pd_12", "pd_13", "pd_14", "pd_15", "pd_16", "pd_17", "pd_18", "pd_19", "pd_20",
-      "pd_21", "pd_22",
-      "pd_23", "pd_24", "pd_25", "pd_26", "pd_27", "pd_28", "pd_29", "pd_30", "pd_31", "pd_32",
-      "pd_33", "pd_34", "pd_35", "pd_36",
-      "pd_37", "pd_38", "pd_39", "pd_40", "pd_41", "pd_42", "pd_43", "pd_44", "pd_45", "pd_46",
-      "pd_47", "pd_48", "pd_49", "pd_50", "pd_51", "pd_52", "pd_53", "pd_54",
-      "pd_55", "pd_56", "pd_57", "pd_58", "pd_59", "pd_60"
-    ]
-  }
+  "預組A：主角組·觀測之眼\n1 pa_01\n1 pa_02\n1 pa_03\n1 pa_04\n1 pa_05\n1 pa_06\n1 pa_07\n1 pa_08\n1 pa_09\n1 pa_10\n1 pa_11\n1 pa_12\n1 pa_13\n1 pa_14\n1 pa_15\n1 pa_16\n1 pa_17\n1 pa_18\n1 pa_19\n1 pa_20\n1 pa_21\n1 pa_22\n1 pa_23\n1 pa_24\n1 pa_25\n1 pa_26\n1 pa_27\n1 pa_28\n1 pa_29\n1 pa_30\n1 pa_31\n1 pa_32\n1 pa_33\n1 pa_34\n1 pa_35\n1 pa_36\n1 pa_37\n1 pa_38\n1 pa_39\n1 pa_40\n1 pa_41\n1 pa_42\n1 pa_43\n1 pa_44\n1 pa_45\n1 pa_46\n1 pa_47\n1 pa_48\n1 pa_49\n1 pa_50\n1 pa_51\n1 pa_52\n1 pa_53\n1 pa_54\n1 pa_55\n1 pa_56\n1 pa_57\n1 pa_58\n1 pa_59\n1 pa_60",
+  "預組B：清理組·暗紅色者\n1 pb_01\n1 pb_02\n1 pb_03\n1 pb_04\n1 pb_05\n1 pb_06\n1 pb_07\n1 pb_08\n1 pb_09\n1 pb_10\n1 pb_11\n1 pb_12\n1 pb_13\n1 pb_14\n1 pb_15\n1 pb_16\n1 pb_17\n1 pb_18\n1 pb_19\n1 pb_20\n1 pb_21\n1 pb_22\n1 pb_23\n1 pb_24\n1 pb_25\n1 pb_26\n1 pb_27\n1 pb_28\n1 pb_29\n1 pb_30\n1 pb_31\n1 pb_32\n1 pb_33\n1 pb_34\n1 pb_35\n1 pb_36\n1 pb_37\n1 pb_38\n1 pb_39\n1 pb_40\n1 pb_41\n1 pb_42\n1 pb_43\n1 pb_44\n1 pb_45\n1 pb_46\n1 pb_47\n1 pb_48\n1 pb_49\n1 pb_50\n1 pb_51\n1 pb_52\n1 pb_53\n1 pb_54\n1 pb_55\n1 pb_56\n1 pb_57\n1 pb_58\n1 pb_59\n1 pb_60",
+  "預組C：回聖會·先知之歌\n1 pc_01\n1 pc_02\n1 pc_03\n1 pc_04\n1 pc_05\n1 pc_06\n1 pc_07\n1 pc_08\n1 pc_09\n1 pc_10\n1 pc_11\n1 pc_12\n1 pc_13\n1 pc_14\n1 pc_15\n1 pc_16\n1 pc_17\n1 pc_18\n1 pc_19\n1 pc_20\n1 pc_21\n1 pc_22\n1 pc_23\n1 pc_24\n1 pc_25\n1 pc_26\n1 pc_27\n1 pc_28\n1 pc_29\n1 pc_30\n1 pc_31\n1 pc_32\n1 pc_33\n1 pc_34\n1 pc_35\n1 pc_36\n1 pc_37\n1 pc_38\n1 pc_39\n1 pc_40\n1 pc_41\n1 pc_42\n1 pc_43\n1 pc_44\n1 pc_45\n1 pc_46\n1 pc_47\n1 pc_48\n1 pc_49\n1 pc_50\n1 pc_51\n1 pc_52\n1 pc_53\n1 pc_54\n1 pc_55\n1 pc_56\n1 pc_57\n1 pc_58\n1 pc_59\n1 pc_60",
+  "預組D：歸獸者·野性本能\n1 pd_01\n1 pd_02\n1 pd_03\n1 pd_04\n1 pd_05\n1 pd_06\n1 pd_07\n1 pd_08\n1 pd_09\n1 pd_10\n1 pd_11\n1 pd_12\n1 pd_13\n1 pd_14\n1 pd_15\n1 pd_16\n1 pd_17\n1 pd_18\n1 pd_19\n1 pd_20\n1 pd_21\n1 pd_22\n1 pd_23\n1 pd_24\n1 pd_25\n1 pd_26\n1 pd_27\n1 pd_28\n1 pd_29\n1 pd_30\n1 pd_31\n1 pd_32\n1 pd_33\n1 pd_34\n1 pd_35\n1 pd_36\n1 pd_37\n1 pd_38\n1 pd_39\n1 pd_40\n1 pd_41\n1 pd_42\n1 pd_43\n1 pd_44\n1 pd_45\n1 pd_46\n1 pd_47\n1 pd_48\n1 pd_49\n1 pd_50\n1 pd_51\n1 pd_52\n1 pd_53\n1 pd_54\n1 pd_55\n1 pd_56\n1 pd_57\n1 pd_58\n1 pd_59\n1 pd_60"
 ]
