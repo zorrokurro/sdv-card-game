@@ -15,7 +15,9 @@
     "deckRulesets": {
       "Standard": {
         "general": {
-          "min": 60
+          "min": 60,
+          "max": 60,
+          "maxPerCard": 1
         }
       }
     }
