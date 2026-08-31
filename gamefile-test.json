@@ -54,10 +54,7 @@
     }
   },
   "cards": {
-    "dataUrl": "https://zorrokurro.github.io/sdv-card-game/cards.json",
+    "dataUrl": "https://zorrokurro.github.io/sdv-card-game/cards-minimal.json",
     "cardBack": "https://zorrokurro.github.io/sdv-card-game/cardback.svg"
-  },
-  "defaultRessources": {
-    "decksUrl": "https://zorrokurro.github.io/sdv-card-game/decks.json"
   }
 }
