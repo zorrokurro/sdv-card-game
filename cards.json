@@ -2788,14 +2788,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "迴響金共鳴"
+          "name": "迴響金共鳴·回聲"
         },
         "type": "法術",
         "cost": 3,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pc_55.png"
       }
     },
-    "name": "迴響金共鳴",
+    "name": "迴響金共鳴·回聲",
     "type": "法術",
     "cost": 3
   },
@@ -2852,32 +2852,16 @@
     "face": {
       "front": {
         "name": {
-          "name": "博士的最後贖罪"
+          "name": "博士的贖罪·回聲"
         },
         "type": "法術",
         "cost": 7,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pc_59.png"
       }
     },
-    "name": "博士的最後贖罪",
+    "name": "博士的贖罪·回聲",
     "type": "法術",
     "cost": 7
-  },
-  "pc_60": {
-    "id": "pc_60",
-    "face": {
-      "front": {
-        "name": {
-          "name": "名字·斯特拉達·維爾索"
-        },
-        "type": "法術",
-        "cost": 12,
-        "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pc_60.png"
-      }
-    },
-    "name": "名字·斯特拉達·維爾索",
-    "type": "法術",
-    "cost": 12
   },
   "pd_01": {
     "id": "pd_01",
@@ -3598,22 +3582,6 @@
     "name": "巨牙族·戰王號令",
     "type": "法術",
     "cost": 8
-  },
-  "pd_46": {
-    "id": "pd_46",
-    "face": {
-      "front": {
-        "name": {
-          "name": "名字·斯特拉達·維爾索"
-        },
-        "type": "法術",
-        "cost": 12,
-        "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pd_46.png"
-      }
-    },
-    "name": "名字·斯特拉達·維爾索",
-    "type": "法術",
-    "cost": 12
   },
   "pd_47": {
     "id": "pd_47",
