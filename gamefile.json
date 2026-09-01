@@ -59,6 +59,6 @@
     "version": 5
   },
   "defaultRessources": {
-    "decksUrl": "https://zorrokurro.github.io/sdv-card-game/decks.json"
+    "decksUrl": "https://raw.githubusercontent.com/zorrokurro/sdv-card-game/master/decks.json"
   }
 }
