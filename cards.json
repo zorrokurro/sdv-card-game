@@ -8,7 +8,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_01.svg"
+        "image": "cards-final-v3/pa_01.png"
       }
     },
     "name": "實驗體21號·初始",
@@ -24,7 +24,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_02.svg"
+        "image": "cards-final-v3/pa_02.png"
       }
     },
     "name": "盧恩薄片",
@@ -40,7 +40,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_03.svg"
+        "image": "cards-final-v3/pa_03.png"
       }
     },
     "name": "認知科學局監視器",
@@ -56,7 +56,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_04.svg"
+        "image": "cards-final-v3/pa_04.png"
       }
     },
     "name": "實驗室逃脱路線",
@@ -72,7 +72,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_05.svg"
+        "image": "cards-final-v3/pa_05.png"
       }
     },
     "name": "實驗體21號·覚醒",
@@ -88,7 +88,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_06.svg"
+        "image": "cards-final-v3/pa_06.png"
       }
     },
     "name": "林",
@@ -104,7 +104,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_07.svg"
+        "image": "cards-final-v3/pa_07.png"
       }
     },
     "name": "阿嬤",
@@ -120,7 +120,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_08.svg"
+        "image": "cards-final-v3/pa_08.png"
       }
     },
     "name": "暖橘色的記憶",
@@ -136,7 +136,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_09.svg"
+        "image": "cards-final-v3/pa_09.png"
       }
     },
     "name": "舊城區藏身處",
@@ -152,7 +152,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_10.svg"
+        "image": "cards-final-v3/pa_10.png"
       }
     },
     "name": "色彩感知·色相",
@@ -168,7 +168,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_11.svg"
+        "image": "cards-final-v3/pa_11.png"
       }
     },
     "name": "第一次信任",
@@ -184,7 +184,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_12.svg"
+        "image": "cards-final-v3/pa_12.png"
       }
     },
     "name": "暗紅色者的追蹤",
@@ -200,7 +200,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_13.svg"
+        "image": "cards-final-v3/pa_13.png"
       }
     },
     "name": "亮紅色男人",
@@ -216,7 +216,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_14.svg"
+        "image": "cards-final-v3/pa_14.png"
       }
     },
     "name": "亮藍綠女孩",
@@ -232,7 +232,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_15.svg"
+        "image": "cards-final-v3/pa_15.png"
       }
     },
     "name": "色彩感知·質感",
@@ -248,7 +248,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_16.svg"
+        "image": "cards-final-v3/pa_16.png"
       }
     },
     "name": "認知科學局·強化組分部",
@@ -264,7 +264,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_17.svg"
+        "image": "cards-final-v3/pa_17.png"
       }
     },
     "name": "博士的秘密",
@@ -280,7 +280,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_18.svg"
+        "image": "cards-final-v3/pa_18.png"
       }
     },
     "name": "零號計劃的真相",
@@ -296,7 +296,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_19.svg"
+        "image": "cards-final-v3/pa_19.png"
       }
     },
     "name": "南方節點",
@@ -312,7 +312,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_20.svg"
+        "image": "cards-final-v3/pa_20.png"
       }
     },
     "name": "銀白色老人",
@@ -328,7 +328,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_21.svg"
+        "image": "cards-final-v3/pa_21.png"
       }
     },
     "name": "實驗體21號·軌跡",
@@ -344,7 +344,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_22.svg"
+        "image": "cards-final-v3/pa_22.png"
       }
     },
     "name": "色彩感知·層次",
@@ -360,7 +360,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_23.svg"
+        "image": "cards-final-v3/pa_23.png"
       }
     },
     "name": "七個幽靈·集結",
@@ -376,7 +376,7 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_24.svg"
+        "image": "cards-final-v3/pa_24.png"
       }
     },
     "name": "實驗體21號·同化視界",
@@ -392,7 +392,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_25.svg"
+        "image": "cards-final-v3/pa_25.png"
       }
     },
     "name": "色彩感知·情緒色",
@@ -408,7 +408,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_26.svg"
+        "image": "cards-final-v3/pa_26.png"
       }
     },
     "name": "直覺閃現",
@@ -424,7 +424,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_27.svg"
+        "image": "cards-final-v3/pa_27.png"
       }
     },
     "name": "色彩感知·質感讀取",
@@ -440,7 +440,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_28.svg"
+        "image": "cards-final-v3/pa_28.png"
       }
     },
     "name": "結構直覺",
@@ -456,7 +456,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_29.svg"
+        "image": "cards-final-v3/pa_29.png"
       }
     },
     "name": "方向直覺",
@@ -472,7 +472,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_30.svg"
+        "image": "cards-final-v3/pa_30.png"
       }
     },
     "name": "殘響讀取",
@@ -488,7 +488,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_31.svg"
+        "image": "cards-final-v3/pa_31.png"
       }
     },
     "name": "觀測·色相",
@@ -504,7 +504,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_32.svg"
+        "image": "cards-final-v3/pa_32.png"
       }
     },
     "name": "觀測·質感",
@@ -520,7 +520,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_33.svg"
+        "image": "cards-final-v3/pa_33.png"
       }
     },
     "name": "觀測·層次",
@@ -536,7 +536,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_34.svg"
+        "image": "cards-final-v3/pa_34.png"
       }
     },
     "name": "盧恩刻印·穩定",
@@ -552,7 +552,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_35.svg"
+        "image": "cards-final-v3/pa_35.png"
       }
     },
     "name": "色彩屏蔽",
@@ -568,7 +568,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_36.svg"
+        "image": "cards-final-v3/pa_36.png"
       }
     },
     "name": "灰衣人的搜查",
@@ -584,7 +584,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_37.svg"
+        "image": "cards-final-v3/pa_37.png"
       }
     },
     "name": "轉移注意力",
@@ -600,7 +600,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_38.svg"
+        "image": "cards-final-v3/pa_38.png"
       }
     },
     "name": "虛粒子護盾",
@@ -616,7 +616,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_39.svg"
+        "image": "cards-final-v3/pa_39.png"
       }
     },
     "name": "動態法拉第籠",
@@ -632,7 +632,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_40.svg"
+        "image": "cards-final-v3/pa_40.png"
       }
     },
     "name": "迴響金共鳴",
@@ -648,7 +648,7 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_41.svg"
+        "image": "cards-final-v3/pa_41.png"
       }
     },
     "name": "臨界爆發",
@@ -664,7 +664,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_42.svg"
+        "image": "cards-final-v3/pa_42.png"
       }
     },
     "name": "微物理干涉·震波",
@@ -680,7 +680,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_43.svg"
+        "image": "cards-final-v3/pa_43.png"
       }
     },
     "name": "聲波脈衝",
@@ -696,7 +696,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_44.svg"
+        "image": "cards-final-v3/pa_44.png"
       }
     },
     "name": "色彩感知·暗紅讀取",
@@ -712,7 +712,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_45.svg"
+        "image": "cards-final-v3/pa_45.png"
       }
     },
     "name": "聲波聚焦·對空",
@@ -728,7 +728,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_46.svg"
+        "image": "cards-final-v3/pa_46.png"
       }
     },
     "name": "概率觸及",
@@ -744,7 +744,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_47.svg"
+        "image": "cards-final-v3/pa_47.png"
       }
     },
     "name": "共振碎裂",
@@ -760,7 +760,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_48.svg"
+        "image": "cards-final-v3/pa_48.png"
       }
     },
     "name": "熱電聲子耦合",
@@ -776,7 +776,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_49.svg"
+        "image": "cards-final-v3/pa_49.png"
       }
     },
     "name": "量子糾纏共鳴",
@@ -792,7 +792,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_50.svg"
+        "image": "cards-final-v3/pa_50.png"
       }
     },
     "name": "否定之眼",
@@ -808,7 +808,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_51.svg"
+        "image": "cards-final-v3/pa_51.png"
       }
     },
     "name": "路徑收束",
@@ -824,7 +824,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_52.svg"
+        "image": "cards-final-v3/pa_52.png"
       }
     },
     "name": "維度透視",
@@ -840,7 +840,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_53.svg"
+        "image": "cards-final-v3/pa_53.png"
       }
     },
     "name": "記憶碎片",
@@ -856,7 +856,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_54.svg"
+        "image": "cards-final-v3/pa_54.png"
       }
     },
     "name": "生命熱源",
@@ -872,7 +872,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_55.svg"
+        "image": "cards-final-v3/pa_55.png"
       }
     },
     "name": "酶促隧穿加速",
@@ -888,7 +888,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_56.svg"
+        "image": "cards-final-v3/pa_56.png"
       }
     },
     "name": "磁受容共振",
@@ -904,7 +904,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_57.svg"
+        "image": "cards-final-v3/pa_57.png"
       }
     },
     "name": "生物發光調節",
@@ -920,7 +920,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_58.svg"
+        "image": "cards-final-v3/pa_58.png"
       }
     },
     "name": "轉生路線",
@@ -936,7 +936,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_59.svg"
+        "image": "cards-final-v3/pa_59.png"
       }
     },
     "name": "博士的最後贖罪",
@@ -952,7 +952,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pa_60.svg"
+        "image": "cards-final-v3/pa_60.png"
       }
     },
     "name": "名字·斯特拉達·維爾索",
@@ -968,7 +968,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_01.svg"
+        "image": "cards-final-v3/pb_01.png"
       }
     },
     "name": "暗紅色者·初期",
@@ -984,7 +984,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_02.svg"
+        "image": "cards-final-v3/pb_02.png"
       }
     },
     "name": "灰衣偵查員",
@@ -1000,7 +1000,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_03.svg"
+        "image": "cards-final-v3/pb_03.png"
       }
     },
     "name": "認知科學局·監控無人機",
@@ -1016,7 +1016,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_04.svg"
+        "image": "cards-final-v3/pb_04.png"
       }
     },
     "name": "實驗體追蹤犬",
@@ -1032,7 +1032,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_05.svg"
+        "image": "cards-final-v3/pb_05.png"
       }
     },
     "name": "管控組·外勤幹員",
@@ -1048,7 +1048,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_06.svg"
+        "image": "cards-final-v3/pb_06.png"
       }
     },
     "name": "認知科學局·資源回收",
@@ -1064,7 +1064,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_07.svg"
+        "image": "cards-final-v3/pb_07.png"
       }
     },
     "name": "暗紅色者·中期",
@@ -1080,7 +1080,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_08.svg"
+        "image": "cards-final-v3/pb_08.png"
       }
     },
     "name": "灰衣小隊長",
@@ -1096,7 +1096,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_09.svg"
+        "image": "cards-final-v3/pb_09.png"
       }
     },
     "name": "強化組·實驗護衛",
@@ -1112,7 +1112,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_10.svg"
+        "image": "cards-final-v3/pb_10.png"
       }
     },
     "name": "認知科學局·量測裝置",
@@ -1128,7 +1128,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_11.svg"
+        "image": "cards-final-v3/pb_11.png"
       }
     },
     "name": "暗紅色者·熟練",
@@ -1144,7 +1144,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_12.svg"
+        "image": "cards-final-v3/pb_12.png"
       }
     },
     "name": "管控組·情報分析官",
@@ -1160,7 +1160,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_13.svg"
+        "image": "cards-final-v3/pb_13.png"
       }
     },
     "name": "清理組·狙擊手",
@@ -1176,7 +1176,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_14.svg"
+        "image": "cards-final-v3/pb_14.png"
       }
     },
     "name": "認知科學局·強化戰士",
@@ -1192,7 +1192,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_15.svg"
+        "image": "cards-final-v3/pb_15.png"
       }
     },
     "name": "暗紅色者·後期",
@@ -1208,7 +1208,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_16.svg"
+        "image": "cards-final-v3/pb_16.png"
       }
     },
     "name": "認知科學局·白塔守衛",
@@ -1224,7 +1224,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_17.svg"
+        "image": "cards-final-v3/pb_17.png"
       }
     },
     "name": "清理組·執行者",
@@ -1240,7 +1240,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_18.svg"
+        "image": "cards-final-v3/pb_18.png"
       }
     },
     "name": "強化組·量產型",
@@ -1256,7 +1256,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_19.svg"
+        "image": "cards-final-v3/pb_19.png"
       }
     },
     "name": "認知科學局·Ω原型",
@@ -1272,7 +1272,7 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_20.svg"
+        "image": "cards-final-v3/pb_20.png"
       }
     },
     "name": "暗紅色者·最終型",
@@ -1288,7 +1288,7 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_21.svg"
+        "image": "cards-final-v3/pb_21.png"
       }
     },
     "name": "認知科學局·零號計劃",
@@ -1304,7 +1304,7 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_22.svg"
+        "image": "cards-final-v3/pb_22.png"
       }
     },
     "name": "清理組·最高指令",
@@ -1320,7 +1320,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_23.svg"
+        "image": "cards-final-v3/pb_23.png"
       }
     },
     "name": "抑制射線",
@@ -1336,7 +1336,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_24.svg"
+        "image": "cards-final-v3/pb_24.png"
       }
     },
     "name": "管控組·標準處置",
@@ -1352,7 +1352,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_25.svg"
+        "image": "cards-final-v3/pb_25.png"
       }
     },
     "name": "認知科學局·小型爆破",
@@ -1368,7 +1368,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_26.svg"
+        "image": "cards-final-v3/pb_26.png"
       }
     },
     "name": "暗紅色者·標記",
@@ -1384,7 +1384,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_27.svg"
+        "image": "cards-final-v3/pb_27.png"
       }
     },
     "name": "強化組·實驗性武器",
@@ -1400,7 +1400,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_28.svg"
+        "image": "cards-final-v3/pb_28.png"
       }
     },
     "name": "認知科學局·追蹤鎖定",
@@ -1416,7 +1416,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_29.svg"
+        "image": "cards-final-v3/pb_29.png"
       }
     },
     "name": "清理組·標準作業",
@@ -1432,7 +1432,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_30.svg"
+        "image": "cards-final-v3/pb_30.png"
       }
     },
     "name": "暗紅色者·深層追蹤",
@@ -1448,7 +1448,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_31.svg"
+        "image": "cards-final-v3/pb_31.png"
       }
     },
     "name": "認知科學局·高壓電擊",
@@ -1464,7 +1464,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_32.svg"
+        "image": "cards-final-v3/pb_32.png"
       }
     },
     "name": "清理組·精準打擊",
@@ -1480,7 +1480,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_33.svg"
+        "image": "cards-final-v3/pb_33.png"
       }
     },
     "name": "強化組·大規模實驗",
@@ -1496,7 +1496,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_34.svg"
+        "image": "cards-final-v3/pb_34.png"
       }
     },
     "name": "認知科學局·淨化程序",
@@ -1512,7 +1512,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_35.svg"
+        "image": "cards-final-v3/pb_35.png"
       }
     },
     "name": "清理組·最終清除",
@@ -1528,7 +1528,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_36.svg"
+        "image": "cards-final-v3/pb_36.png"
       }
     },
     "name": "暗紅色者·終局處決",
@@ -1544,7 +1544,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_37.svg"
+        "image": "cards-final-v3/pb_37.png"
       }
     },
     "name": "認知科學局·資源補給",
@@ -1560,7 +1560,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_38.svg"
+        "image": "cards-final-v3/pb_38.png"
       }
     },
     "name": "強化組·實驗體改造",
@@ -1576,7 +1576,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_39.svg"
+        "image": "cards-final-v3/pb_39.png"
       }
     },
     "name": "管控組·標準裝備",
@@ -1592,7 +1592,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_40.svg"
+        "image": "cards-final-v3/pb_40.png"
       }
     },
     "name": "認知科學局·數據同步",
@@ -1608,7 +1608,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_41.svg"
+        "image": "cards-final-v3/pb_41.png"
       }
     },
     "name": "暗紅色者·適應",
@@ -1624,7 +1624,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_42.svg"
+        "image": "cards-final-v3/pb_42.png"
       }
     },
     "name": "強化組·過載",
@@ -1640,7 +1640,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_43.svg"
+        "image": "cards-final-v3/pb_43.png"
       }
     },
     "name": "認知科學局·集體升級",
@@ -1656,7 +1656,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_44.svg"
+        "image": "cards-final-v3/pb_44.png"
       }
     },
     "name": "清理組·戰術撤退",
@@ -1672,7 +1672,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_45.svg"
+        "image": "cards-final-v3/pb_45.png"
       }
     },
     "name": "強化組·第二次機會",
@@ -1688,7 +1688,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_46.svg"
+        "image": "cards-final-v3/pb_46.png"
       }
     },
     "name": "認知科學局·最高授權",
@@ -1704,7 +1704,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_47.svg"
+        "image": "cards-final-v3/pb_47.png"
       }
     },
     "name": "管控組·監控掃描",
@@ -1720,7 +1720,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_48.svg"
+        "image": "cards-final-v3/pb_48.png"
       }
     },
     "name": "認知科學局·全頻掃描",
@@ -1736,7 +1736,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_49.svg"
+        "image": "cards-final-v3/pb_49.png"
       }
     },
     "name": "清理組·干擾脈衝",
@@ -1752,7 +1752,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_50.svg"
+        "image": "cards-final-v3/pb_50.png"
       }
     },
     "name": "管控組·資訊封鎖",
@@ -1768,7 +1768,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_51.svg"
+        "image": "cards-final-v3/pb_51.png"
       }
     },
     "name": "暗紅色者·心理壓迫",
@@ -1784,7 +1784,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_52.svg"
+        "image": "cards-final-v3/pb_52.png"
       }
     },
     "name": "認知科學局·全域監控",
@@ -1800,7 +1800,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_53.svg"
+        "image": "cards-final-v3/pb_53.png"
       }
     },
     "name": "清理組·系統癱瘓",
@@ -1816,7 +1816,7 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_54.svg"
+        "image": "cards-final-v3/pb_54.png"
       }
     },
     "name": "認知科學局·認知干涉",
@@ -1832,7 +1832,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_55.svg"
+        "image": "cards-final-v3/pb_55.png"
       }
     },
     "name": "認知科學局·能量抽取",
@@ -1848,7 +1848,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_56.svg"
+        "image": "cards-final-v3/pb_56.png"
       }
     },
     "name": "管控組·強制轉化",
@@ -1864,7 +1864,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_57.svg"
+        "image": "cards-final-v3/pb_57.png"
       }
     },
     "name": "認知科學局·能量超載",
@@ -1880,7 +1880,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_58.svg"
+        "image": "cards-final-v3/pb_58.png"
       }
     },
     "name": "清理組·回收協議",
@@ -1896,7 +1896,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_59.svg"
+        "image": "cards-final-v3/pb_59.png"
       }
     },
     "name": "認知科學局·Ω程序",
@@ -1912,7 +1912,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pb_60.svg"
+        "image": "cards-final-v3/pb_60.png"
       }
     },
     "name": "暗紅色者·最終收割",
@@ -1928,7 +1928,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_01.svg"
+        "image": "cards-final-v3/pc_01.png"
       }
     },
     "name": "盧恩見習修士",
@@ -1944,7 +1944,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_02.svg"
+        "image": "cards-final-v3/pc_02.png"
       }
     },
     "name": "先知候補",
@@ -1960,7 +1960,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_03.svg"
+        "image": "cards-final-v3/pc_03.png"
       }
     },
     "name": "靜默修會見習",
@@ -1976,7 +1976,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_04.svg"
+        "image": "cards-final-v3/pc_04.png"
       }
     },
     "name": "盧恩石碑",
@@ -1992,7 +1992,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_05.svg"
+        "image": "cards-final-v3/pc_05.png"
       }
     },
     "name": "阿爾納傳人",
@@ -2008,7 +2008,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_06.svg"
+        "image": "cards-final-v3/pc_06.png"
       }
     },
     "name": "迴響金護衛",
@@ -2024,7 +2024,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_07.svg"
+        "image": "cards-final-v3/pc_07.png"
       }
     },
     "name": "維瑟爾祭司",
@@ -2040,7 +2040,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_08.svg"
+        "image": "cards-final-v3/pc_08.png"
       }
     },
     "name": "盧恩塔學者",
@@ -2056,7 +2056,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_09.svg"
+        "image": "cards-final-v3/pc_09.png"
       }
     },
     "name": "靜默修會冥想者",
@@ -2072,7 +2072,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_10.svg"
+        "image": "cards-final-v3/pc_10.png"
       }
     },
     "name": "先知見習生",
@@ -2088,7 +2088,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_11.svg"
+        "image": "cards-final-v3/pc_11.png"
       }
     },
     "name": "黎明團先鋒",
@@ -2104,7 +2104,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_12.svg"
+        "image": "cards-final-v3/pc_12.png"
       }
     },
     "name": "迴響金結晶",
@@ -2120,7 +2120,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_13.svg"
+        "image": "cards-final-v3/pc_13.png"
       }
     },
     "name": "靜默修會長老",
@@ -2136,7 +2136,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_14.svg"
+        "image": "cards-final-v3/pc_14.png"
       }
     },
     "name": "盧恩塔大祭司",
@@ -2152,7 +2152,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_15.svg"
+        "image": "cards-final-v3/pc_15.png"
       }
     },
     "name": "維瑟爾神官",
@@ -2168,7 +2168,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_16.svg"
+        "image": "cards-final-v3/pc_16.png"
       }
     },
     "name": "黎明團聖騎士",
@@ -2184,7 +2184,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_17.svg"
+        "image": "cards-final-v3/pc_17.png"
       }
     },
     "name": "盧恩塔守護者",
@@ -2200,7 +2200,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_18.svg"
+        "image": "cards-final-v3/pc_18.png"
       }
     },
     "name": "先知·阿爾納二世",
@@ -2216,7 +2216,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_19.svg"
+        "image": "cards-final-v3/pc_19.png"
       }
     },
     "name": "回聖會·先知降臨",
@@ -2232,7 +2232,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_20.svg"
+        "image": "cards-final-v3/pc_20.png"
       }
     },
     "name": "維瑟爾先知",
@@ -2248,7 +2248,7 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_21.svg"
+        "image": "cards-final-v3/pc_21.png"
       }
     },
     "name": "貝特凱恩先知",
@@ -2264,7 +2264,7 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_22.svg"
+        "image": "cards-final-v3/pc_22.png"
       }
     },
     "name": "先知·末日審判",
@@ -2280,7 +2280,7 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_23.svg"
+        "image": "cards-final-v3/pc_23.png"
       }
     },
     "name": "回聖會·最終先知",
@@ -2296,7 +2296,7 @@
         },
         "type": "生物",
         "cost": 13,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_24.svg"
+        "image": "cards-final-v3/pc_24.png"
       }
     },
     "name": "維瑟爾·消散前夕",
@@ -2312,7 +2312,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_25.svg"
+        "image": "cards-final-v3/pc_25.png"
       }
     },
     "name": "盧恩刻印·衝擊",
@@ -2328,7 +2328,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_26.svg"
+        "image": "cards-final-v3/pc_26.png"
       }
     },
     "name": "盧恩刻印·守護",
@@ -2344,7 +2344,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_27.svg"
+        "image": "cards-final-v3/pc_27.png"
       }
     },
     "name": "盧恩刻印·加速",
@@ -2360,7 +2360,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_28.svg"
+        "image": "cards-final-v3/pc_28.png"
       }
     },
     "name": "盧恩刻印·回響",
@@ -2376,7 +2376,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_29.svg"
+        "image": "cards-final-v3/pc_29.png"
       }
     },
     "name": "盧恩刻印·共鳴",
@@ -2392,7 +2392,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_30.svg"
+        "image": "cards-final-v3/pc_30.png"
       }
     },
     "name": "盧恩刻印·神聖",
@@ -2408,7 +2408,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_31.svg"
+        "image": "cards-final-v3/pc_31.png"
       }
     },
     "name": "盧恩刻印·淨化",
@@ -2424,7 +2424,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_32.svg"
+        "image": "cards-final-v3/pc_32.png"
       }
     },
     "name": "盧恩刻印·降臨",
@@ -2440,7 +2440,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_33.svg"
+        "image": "cards-final-v3/pc_33.png"
       }
     },
     "name": "盧恩刻印·先知之路",
@@ -2456,7 +2456,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_34.svg"
+        "image": "cards-final-v3/pc_34.png"
       }
     },
     "name": "盧恩刻印·最終審判",
@@ -2472,7 +2472,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_35.svg"
+        "image": "cards-final-v3/pc_35.png"
       }
     },
     "name": "回聲共鳴",
@@ -2488,7 +2488,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_36.svg"
+        "image": "cards-final-v3/pc_36.png"
       }
     },
     "name": "回聲擴散",
@@ -2504,7 +2504,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_37.svg"
+        "image": "cards-final-v3/pc_37.png"
       }
     },
     "name": "回聲回憶",
@@ -2520,7 +2520,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_38.svg"
+        "image": "cards-final-v3/pc_38.png"
       }
     },
     "name": "回聲爆發",
@@ -2536,7 +2536,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_39.svg"
+        "image": "cards-final-v3/pc_39.png"
       }
     },
     "name": "回聲湧流",
@@ -2552,7 +2552,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_40.svg"
+        "image": "cards-final-v3/pc_40.png"
       }
     },
     "name": "回聲共鸣·極限",
@@ -2568,7 +2568,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_41.svg"
+        "image": "cards-final-v3/pc_41.png"
       }
     },
     "name": "回聲終章",
@@ -2584,7 +2584,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_42.svg"
+        "image": "cards-final-v3/pc_42.png"
       }
     },
     "name": "回聲·永恆迴響",
@@ -2600,7 +2600,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_43.svg"
+        "image": "cards-final-v3/pc_43.png"
       }
     },
     "name": "靜默之擊",
@@ -2616,7 +2616,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_44.svg"
+        "image": "cards-final-v3/pc_44.png"
       }
     },
     "name": "盧恩封印",
@@ -2632,7 +2632,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_45.svg"
+        "image": "cards-final-v3/pc_45.png"
       }
     },
     "name": "先知預見",
@@ -2648,7 +2648,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_46.svg"
+        "image": "cards-final-v3/pc_46.png"
       }
     },
     "name": "黎明團巡弋",
@@ -2664,7 +2664,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_47.svg"
+        "image": "cards-final-v3/pc_47.png"
       }
     },
     "name": "靜默修會結界",
@@ -2680,7 +2680,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_48.svg"
+        "image": "cards-final-v3/pc_48.png"
       }
     },
     "name": "盧恩塔封鎖",
@@ -2696,7 +2696,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_49.svg"
+        "image": "cards-final-v3/pc_49.png"
       }
     },
     "name": "先知之怒",
@@ -2712,7 +2712,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_50.svg"
+        "image": "cards-final-v3/pc_50.png"
       }
     },
     "name": "回聖會·神罰",
@@ -2728,7 +2728,7 @@
         },
         "type": "法術",
         "cost": 9,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_51.svg"
+        "image": "cards-final-v3/pc_51.png"
       }
     },
     "name": "先知·末日預言",
@@ -2744,7 +2744,7 @@
         },
         "type": "法術",
         "cost": 11,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_52.svg"
+        "image": "cards-final-v3/pc_52.png"
       }
     },
     "name": "維瑟爾·神聖審判",
@@ -2760,7 +2760,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_53.svg"
+        "image": "cards-final-v3/pc_53.png"
       }
     },
     "name": "盧恩回復",
@@ -2776,7 +2776,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_54.svg"
+        "image": "cards-final-v3/pc_54.png"
       }
     },
     "name": "靜默冥想",
@@ -2792,7 +2792,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_55.svg"
+        "image": "cards-final-v3/pc_55.png"
       }
     },
     "name": "迴響金共鳴",
@@ -2808,7 +2808,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_56.svg"
+        "image": "cards-final-v3/pc_56.png"
       }
     },
     "name": "盧恩刻印·回生",
@@ -2824,7 +2824,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_57.svg"
+        "image": "cards-final-v3/pc_57.png"
       }
     },
     "name": "先知之恩",
@@ -2840,7 +2840,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_58.svg"
+        "image": "cards-final-v3/pc_58.png"
       }
     },
     "name": "迴響金灌注",
@@ -2856,7 +2856,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_59.svg"
+        "image": "cards-final-v3/pc_59.png"
       }
     },
     "name": "博士的最後贖罪",
@@ -2872,7 +2872,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pc_60.svg"
+        "image": "cards-final-v3/pc_60.png"
       }
     },
     "name": "名字·斯特拉達·維爾索",
@@ -2888,7 +2888,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_01.svg"
+        "image": "cards-final-v3/pd_01.png"
       }
     },
     "name": "荒野幼狼",
@@ -2904,7 +2904,7 @@
         },
         "type": "生物",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_02.svg"
+        "image": "cards-final-v3/pd_02.png"
       }
     },
     "name": "部落偵查犬",
@@ -2920,7 +2920,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_03.svg"
+        "image": "cards-final-v3/pd_03.png"
       }
     },
     "name": "巨牙族幼崽",
@@ -2936,7 +2936,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_04.svg"
+        "image": "cards-final-v3/pd_04.png"
       }
     },
     "name": "歸獸者·驯獸師",
@@ -2952,7 +2952,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_05.svg"
+        "image": "cards-final-v3/pd_05.png"
       }
     },
     "name": "荒野遊俠",
@@ -2968,7 +2968,7 @@
         },
         "type": "生物",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_06.svg"
+        "image": "cards-final-v3/pd_06.png"
       }
     },
     "name": "部落先行者",
@@ -2984,7 +2984,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_07.svg"
+        "image": "cards-final-v3/pd_07.png"
       }
     },
     "name": "狼族突襲者",
@@ -3000,7 +3000,7 @@
         },
         "type": "生物",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_08.svg"
+        "image": "cards-final-v3/pd_08.png"
       }
     },
     "name": "巨牙族戰士",
@@ -3016,7 +3016,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_09.svg"
+        "image": "cards-final-v3/pd_09.png"
       }
     },
     "name": "荒野嚎叫者",
@@ -3032,7 +3032,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_10.svg"
+        "image": "cards-final-v3/pd_10.png"
       }
     },
     "name": "歸獸者·狂戰士",
@@ -3048,7 +3048,7 @@
         },
         "type": "生物",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_11.svg"
+        "image": "cards-final-v3/pd_11.png"
       }
     },
     "name": "部落守護巨獸",
@@ -3064,7 +3064,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_12.svg"
+        "image": "cards-final-v3/pd_12.png"
       }
     },
     "name": "荒野追蹤者",
@@ -3080,7 +3080,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_13.svg"
+        "image": "cards-final-v3/pd_13.png"
       }
     },
     "name": "巨牙族戰狼",
@@ -3096,7 +3096,7 @@
         },
         "type": "生物",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_14.svg"
+        "image": "cards-final-v3/pd_14.png"
       }
     },
     "name": "歸獸者·獸王",
@@ -3112,7 +3112,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_15.svg"
+        "image": "cards-final-v3/pd_15.png"
       }
     },
     "name": "巨牙族戰王",
@@ -3128,7 +3128,7 @@
         },
         "type": "生物",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_16.svg"
+        "image": "cards-final-v3/pd_16.png"
       }
     },
     "name": "荒野守護神",
@@ -3144,7 +3144,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_17.svg"
+        "image": "cards-final-v3/pd_17.png"
       }
     },
     "name": "歸獸者·狂化戰士",
@@ -3160,7 +3160,7 @@
         },
         "type": "生物",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_18.svg"
+        "image": "cards-final-v3/pd_18.png"
       }
     },
     "name": "部落·戰鼓手",
@@ -3176,7 +3176,7 @@
         },
         "type": "生物",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_19.svg"
+        "image": "cards-final-v3/pd_19.png"
       }
     },
     "name": "荒野之王",
@@ -3192,7 +3192,7 @@
         },
         "type": "生物",
         "cost": 9,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_20.svg"
+        "image": "cards-final-v3/pd_20.png"
       }
     },
     "name": "巨牙族·終極戰王",
@@ -3208,7 +3208,7 @@
         },
         "type": "生物",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_21.svg"
+        "image": "cards-final-v3/pd_21.png"
       }
     },
     "name": "歸獸者·部落之魂",
@@ -3224,7 +3224,7 @@
         },
         "type": "生物",
         "cost": 12,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_22.svg"
+        "image": "cards-final-v3/pd_22.png"
       }
     },
     "name": "荒野·萬獸之王",
@@ -3240,7 +3240,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_23.svg"
+        "image": "cards-final-v3/pd_23.png"
       }
     },
     "name": "野性衝擊",
@@ -3256,7 +3256,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_24.svg"
+        "image": "cards-final-v3/pd_24.png"
       }
     },
     "name": "部落毒刃",
@@ -3272,7 +3272,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_25.svg"
+        "image": "cards-final-v3/pd_25.png"
       }
     },
     "name": "荒野撕咬",
@@ -3288,7 +3288,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_26.svg"
+        "image": "cards-final-v3/pd_26.png"
       }
     },
     "name": "巨牙族猛擊",
@@ -3304,7 +3304,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_27.svg"
+        "image": "cards-final-v3/pd_27.png"
       }
     },
     "name": "歸獸者·獵殺",
@@ -3320,7 +3320,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_28.svg"
+        "image": "cards-final-v3/pd_28.png"
       }
     },
     "name": "荒野嚎叫·震慑",
@@ -3336,7 +3336,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_29.svg"
+        "image": "cards-final-v3/pd_29.png"
       }
     },
     "name": "部落戰嚎",
@@ -3352,7 +3352,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_30.svg"
+        "image": "cards-final-v3/pd_30.png"
       }
     },
     "name": "巨牙族衝鋒",
@@ -3368,7 +3368,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_31.svg"
+        "image": "cards-final-v3/pd_31.png"
       }
     },
     "name": "荒野·終極獵殺",
@@ -3384,7 +3384,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_32.svg"
+        "image": "cards-final-v3/pd_32.png"
       }
     },
     "name": "歸獸者·大獵殺",
@@ -3400,7 +3400,7 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_33.svg"
+        "image": "cards-final-v3/pd_33.png"
       }
     },
     "name": "部落·血祭儀式",
@@ -3416,7 +3416,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_34.svg"
+        "image": "cards-final-v3/pd_34.png"
       }
     },
     "name": "荒野·獸王降臨",
@@ -3432,7 +3432,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_35.svg"
+        "image": "cards-final-v3/pd_35.png"
       }
     },
     "name": "巨牙族·滅世衝擊",
@@ -3448,7 +3448,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_36.svg"
+        "image": "cards-final-v3/pd_36.png"
       }
     },
     "name": "歸獸者·最終獵殺",
@@ -3464,7 +3464,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_37.svg"
+        "image": "cards-final-v3/pd_37.png"
       }
     },
     "name": "部落嘶吼",
@@ -3480,7 +3480,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_38.svg"
+        "image": "cards-final-v3/pd_38.png"
       }
     },
     "name": "荒野藥草",
@@ -3496,7 +3496,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_39.svg"
+        "image": "cards-final-v3/pd_39.png"
       }
     },
     "name": "歸獸者·戰吼",
@@ -3512,7 +3512,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_40.svg"
+        "image": "cards-final-v3/pd_40.png"
       }
     },
     "name": "巨牙族戰鼓",
@@ -3528,7 +3528,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_41.svg"
+        "image": "cards-final-v3/pd_41.png"
       }
     },
     "name": "荒野·狂化藥劑",
@@ -3544,7 +3544,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_42.svg"
+        "image": "cards-final-v3/pd_42.png"
       }
     },
     "name": "部落·戰士號角",
@@ -3560,7 +3560,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_43.svg"
+        "image": "cards-final-v3/pd_43.png"
       }
     },
     "name": "歸獸者·集體狂化",
@@ -3576,7 +3576,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_44.svg"
+        "image": "cards-final-v3/pd_44.png"
       }
     },
     "name": "荒野·血怒灌注",
@@ -3592,7 +3592,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_45.svg"
+        "image": "cards-final-v3/pd_45.png"
       }
     },
     "name": "巨牙族·戰王號令",
@@ -3608,7 +3608,7 @@
         },
         "type": "法術",
         "cost": 12,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_46.svg"
+        "image": "cards-final-v3/pd_46.png"
       }
     },
     "name": "名字·斯特拉達·維爾索",
@@ -3624,7 +3624,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_47.svg"
+        "image": "cards-final-v3/pd_47.png"
       }
     },
     "name": "部落偵察",
@@ -3640,7 +3640,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_48.svg"
+        "image": "cards-final-v3/pd_48.png"
       }
     },
     "name": "荒野·嚎叫震懾",
@@ -3656,7 +3656,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_49.svg"
+        "image": "cards-final-v3/pd_49.png"
       }
     },
     "name": "歸獸者·戰場壓制",
@@ -3672,7 +3672,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_50.svg"
+        "image": "cards-final-v3/pd_50.png"
       }
     },
     "name": "巨牙族·戰吼震懾",
@@ -3688,7 +3688,7 @@
         },
         "type": "法術",
         "cost": 5,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_51.svg"
+        "image": "cards-final-v3/pd_51.png"
       }
     },
     "name": "荒野·心理戰",
@@ -3704,7 +3704,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_52.svg"
+        "image": "cards-final-v3/pd_52.png"
       }
     },
     "name": "部落·戰場封鎖",
@@ -3720,7 +3720,7 @@
         },
         "type": "法術",
         "cost": 8,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_53.svg"
+        "image": "cards-final-v3/pd_53.png"
       }
     },
     "name": "歸獸者·獸群狂潮",
@@ -3736,7 +3736,7 @@
         },
         "type": "法術",
         "cost": 10,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_54.svg"
+        "image": "cards-final-v3/pd_54.png"
       }
     },
     "name": "荒野·萬獸奔騰",
@@ -3752,7 +3752,7 @@
         },
         "type": "法術",
         "cost": 1,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_55.svg"
+        "image": "cards-final-v3/pd_55.png"
       }
     },
     "name": "荒野療傷",
@@ -3768,7 +3768,7 @@
         },
         "type": "法術",
         "cost": 2,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_56.svg"
+        "image": "cards-final-v3/pd_56.png"
       }
     },
     "name": "部落·戰場救援",
@@ -3784,7 +3784,7 @@
         },
         "type": "法術",
         "cost": 3,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_57.svg"
+        "image": "cards-final-v3/pd_57.png"
       }
     },
     "name": "歸獸者·集體治療",
@@ -3800,7 +3800,7 @@
         },
         "type": "法術",
         "cost": 4,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_58.svg"
+        "image": "cards-final-v3/pd_58.png"
       }
     },
     "name": "荒野·戰場回收",
@@ -3816,7 +3816,7 @@
         },
         "type": "法術",
         "cost": 6,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_59.svg"
+        "image": "cards-final-v3/pd_59.png"
       }
     },
     "name": "部落·血祭重生",
@@ -3832,11 +3832,27 @@
         },
         "type": "法術",
         "cost": 7,
-        "image": "https://zorrokurro.github.io/sdv-card-game/img/pd_60.svg"
+        "image": "cards-final-v3/pd_60.png"
       }
     },
     "name": "巨牙族·戰王之怒",
     "type": "法術",
     "cost": 7
+  },
+  "card_back": {
+    "id": "card_back",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Card Back"
+        },
+        "type": "Back",
+        "cost": 0,
+        "image": "cards-final-v3/card_back.png"
+      }
+    },
+    "name": "Card Back",
+    "type": "Back",
+    "cost": 0
   }
 }
