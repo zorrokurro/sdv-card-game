@@ -54,11 +54,11 @@
     }
   },
   "cards": {
-    "dataUrl": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards.json?v=6",
+    "dataUrl": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards.json?v=7",
     "cardBack": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/card_back.png",
-    "version": 5
+    "version": 7
   },
   "defaultRessources": {
-    "decksUrl": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/decks.json"
+    "decksUrl": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/decks.json?v=2"
   }
 }
