@@ -148,14 +148,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "色彩感知·色相"
+          "name": "索拉·瑞斯"
         },
         "type": "生物",
         "cost": 3,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pa_10.png"
       }
     },
-    "name": "色彩感知·色相",
+    "name": "索拉·瑞斯",
     "type": "生物",
     "cost": 3
   },
@@ -196,14 +196,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "亮紅色男人"
+          "name": "哈維爾·羅德里格斯"
         },
         "type": "生物",
         "cost": 5,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pa_13.png"
       }
     },
-    "name": "亮紅色男人",
+    "name": "哈維爾·羅德里格斯",
     "type": "生物",
     "cost": 5
   },
@@ -212,14 +212,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "亮藍綠女孩"
+          "name": "艾琳·索利斯"
         },
         "type": "生物",
         "cost": 5,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pa_14.png"
       }
     },
-    "name": "亮藍綠女孩",
+    "name": "艾琳·索利斯",
     "type": "生物",
     "cost": 5
   },
@@ -228,14 +228,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "色彩感知·質感"
+          "name": "涅拉·克羅諾斯"
         },
         "type": "生物",
         "cost": 5,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pa_15.png"
       }
     },
-    "name": "色彩感知·質感",
+    "name": "涅拉·克羅諾斯",
     "type": "生物",
     "cost": 5
   },
@@ -244,14 +244,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "認知科學局·強化組分部"
+          "name": "希爾瓦·諾克圖恩"
         },
         "type": "生物",
         "cost": 5,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pa_16.png"
       }
     },
-    "name": "認知科學局·強化組分部",
+    "name": "希爾瓦·諾克圖恩",
     "type": "生物",
     "cost": 5
   },
@@ -308,14 +308,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "銀白色老人"
+          "name": "馬可·奧里略"
         },
         "type": "生物",
         "cost": 7,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pa_20.png"
       }
     },
-    "name": "銀白色老人",
+    "name": "馬可·奧里略",
     "type": "生物",
     "cost": 7
   },
@@ -340,14 +340,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "色彩感知·層次"
+          "name": "奧里昂·維塔利斯"
         },
         "type": "生物",
         "cost": 7,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pa_22.png"
       }
     },
-    "name": "色彩感知·層次",
+    "name": "奧里昂·維塔利斯",
     "type": "生物",
     "cost": 7
   },
@@ -356,14 +356,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "七個幽靈·集結"
+          "name": "莉莉絲·塞普特姆"
         },
         "type": "生物",
         "cost": 8,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pa_23.png"
       }
     },
-    "name": "七個幽靈·集結",
+    "name": "莉莉絲·塞普特姆",
     "type": "生物",
     "cost": 8
   },
@@ -964,14 +964,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "暗紅色者·初期"
+          "name": "卡戎·安布羅修斯"
         },
         "type": "生物",
         "cost": 1,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_01.png"
       }
     },
-    "name": "暗紅色者·初期",
+    "name": "卡戎·安布羅修斯",
     "type": "生物",
     "cost": 1
   },
@@ -980,14 +980,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "灰衣偵查員"
+          "name": "盧修斯·格雷"
         },
         "type": "生物",
         "cost": 1,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_02.png"
       }
     },
-    "name": "灰衣偵查員",
+    "name": "盧修斯·格雷",
     "type": "生物",
     "cost": 1
   },
@@ -1028,14 +1028,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "管控組·外勤幹員"
+          "name": "維克多·奧里利烏斯"
         },
         "type": "生物",
         "cost": 2,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_05.png"
       }
     },
-    "name": "管控組·外勤幹員",
+    "name": "維克多·奧里利烏斯",
     "type": "生物",
     "cost": 2
   },
@@ -1060,14 +1060,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "暗紅色者·中期"
+          "name": "阿斯莫德·馬格努斯"
         },
         "type": "生物",
         "cost": 3,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_07.png"
       }
     },
-    "name": "暗紅色者·中期",
+    "name": "阿斯莫德·馬格努斯",
     "type": "生物",
     "cost": 3
   },
@@ -1076,14 +1076,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "灰衣小隊長"
+          "name": "馬庫斯·斯凱勒"
         },
         "type": "生物",
         "cost": 3,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_08.png"
       }
     },
-    "name": "灰衣小隊長",
+    "name": "馬庫斯·斯凱勒",
     "type": "生物",
     "cost": 3
   },
@@ -1092,14 +1092,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "強化組·實驗護衛"
+          "name": "雷克斯·巴洛克"
         },
         "type": "生物",
         "cost": 3,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_09.png"
       }
     },
-    "name": "強化組·實驗護衛",
+    "name": "雷克斯·巴洛克",
     "type": "生物",
     "cost": 3
   },
@@ -1124,14 +1124,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "暗紅色者·熟練"
+          "name": "巴風特·諾瓦里斯"
         },
         "type": "生物",
         "cost": 4,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_11.png"
       }
     },
-    "name": "暗紅色者·熟練",
+    "name": "巴風特·諾瓦里斯",
     "type": "生物",
     "cost": 4
   },
@@ -1140,14 +1140,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "管控組·情報分析官"
+          "name": "伊蓮娜·弗萊明"
         },
         "type": "生物",
         "cost": 4,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_12.png"
       }
     },
-    "name": "管控組·情報分析官",
+    "name": "伊蓮娜·弗萊明",
     "type": "生物",
     "cost": 4
   },
@@ -1156,14 +1156,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "清理組·狙擊手"
+          "name": "幽影·德古利亞"
         },
         "type": "生物",
         "cost": 5,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_13.png"
       }
     },
-    "name": "清理組·狙擊手",
+    "name": "幽影·德古利亞",
     "type": "生物",
     "cost": 5
   },
@@ -1172,14 +1172,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "認知科學局·強化戰士"
+          "name": "阿瑞斯·泰坦尼烏斯"
         },
         "type": "生物",
         "cost": 5,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_14.png"
       }
     },
-    "name": "認知科學局·強化戰士",
+    "name": "阿瑞斯·泰坦尼烏斯",
     "type": "生物",
     "cost": 5
   },
@@ -1188,14 +1188,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "暗紅色者·後期"
+          "name": "路西法·梅菲斯托斯"
         },
         "type": "生物",
         "cost": 6,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_15.png"
       }
     },
-    "name": "暗紅色者·後期",
+    "name": "路西法·梅菲斯托斯",
     "type": "生物",
     "cost": 6
   },
@@ -1220,14 +1220,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "清理組·執行者"
+          "name": "死神·莫圖斯"
         },
         "type": "生物",
         "cost": 7,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_17.png"
       }
     },
-    "name": "清理組·執行者",
+    "name": "死神·莫圖斯",
     "type": "生物",
     "cost": 7
   },
@@ -1268,14 +1268,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "暗紅色者·最終型"
+          "name": "魔王·薩麥爾"
         },
         "type": "生物",
         "cost": 9,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pb_20.png"
       }
     },
-    "name": "暗紅色者·最終型",
+    "name": "魔王·薩麥爾",
     "type": "生物",
     "cost": 9
   },
@@ -2212,14 +2212,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "回聖會·先知降臨"
+          "name": "艾利歐·索恩"
         },
         "type": "生物",
         "cost": 8,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pc_19.png"
       }
     },
-    "name": "回聖會·先知降臨",
+    "name": "艾利歐·索恩",
     "type": "生物",
     "cost": 8
   },
@@ -2276,14 +2276,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "回聖會·最終先知"
+          "name": "薩加·普羅菲塔"
         },
         "type": "生物",
         "cost": 12,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pc_23.png"
       }
     },
-    "name": "回聖會·最終先知",
+    "name": "薩加·普羅菲塔",
     "type": "生物",
     "cost": 12
   },
@@ -2292,14 +2292,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "維瑟爾·消散前夕"
+          "name": "薇拉·迪塞普提恩"
         },
         "type": "生物",
         "cost": 13,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pc_24.png"
       }
     },
-    "name": "維瑟爾·消散前夕",
+    "name": "薇拉·迪塞普提恩",
     "type": "生物",
     "cost": 13
   },
@@ -2916,14 +2916,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "歸獸者·驯獸師"
+          "name": "塔爾昆·法烏努斯"
         },
         "type": "生物",
         "cost": 2,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pd_04.png"
       }
     },
-    "name": "歸獸者·驯獸師",
+    "name": "塔爾昆·法烏努斯",
     "type": "生物",
     "cost": 2
   },
@@ -3012,14 +3012,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "歸獸者·狂戰士"
+          "name": "卡恩·貝爾塞克"
         },
         "type": "生物",
         "cost": 4,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pd_10.png"
       }
     },
-    "name": "歸獸者·狂戰士",
+    "name": "卡恩·貝爾塞克",
     "type": "生物",
     "cost": 4
   },
@@ -3076,14 +3076,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "歸獸者·獸王"
+          "name": "莫格·萊歐尼斯"
         },
         "type": "生物",
         "cost": 5,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pd_14.png"
       }
     },
-    "name": "歸獸者·獸王",
+    "name": "莫格·萊歐尼斯",
     "type": "生物",
     "cost": 5
   },
@@ -3124,14 +3124,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "歸獸者·狂化戰士"
+          "name": "格里姆·弗倫茲"
         },
         "type": "生物",
         "cost": 7,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pd_17.png"
       }
     },
-    "name": "歸獸者·狂化戰士",
+    "name": "格里姆·弗倫茲",
     "type": "生物",
     "cost": 7
   },
@@ -3188,14 +3188,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "歸獸者·部落之魂"
+          "name": "阿卡拉·安尼瑪"
         },
         "type": "生物",
         "cost": 10,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pd_21.png"
       }
     },
-    "name": "歸獸者·部落之魂",
+    "name": "阿卡拉·安尼瑪",
     "type": "生物",
     "cost": 10
   },
@@ -3204,14 +3204,14 @@
     "face": {
       "front": {
         "name": {
-          "name": "荒野·萬獸之王"
+          "name": "席爾瓦·貝斯特利亞"
         },
         "type": "生物",
         "cost": 12,
         "image": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/cards-final-v3/pd_22.png"
       }
     },
-    "name": "荒野·萬獸之王",
+    "name": "席爾瓦·貝斯特利亞",
     "type": "生物",
     "cost": 12
   },
