@@ -7,7 +7,7 @@
     ],
     "deckRulesets": {
       "Standard": {
-        "general": { "min": 40, "max": 60, "maxPerCard": 4 }
+        "general": { "min": 40, "max": 60, "maxPerCard": 4, "maxHandSize": 8, "excessToZone": "Energy" }
       }
     }
   },
@@ -37,7 +37,7 @@
             "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "CENTER",
-            "displayedTitle": "Energy Zone"
+            "displayedTitle": "意識深淵"
           },
           "Dissipation": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER", "displayedTitle": "Dissipation" },
           "Extinction": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER", "displayedTitle": "Extinction" }
@@ -59,6 +59,6 @@
     "version": 7
   },
   "defaultRessources": {
-    "decksUrl": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/decks.json?v=2"
+    "decksUrl": "https://cdn.jsdelivr.net/gh/zorrokurro/sdv-card-game@master/decks.json?v=3"
   }
 }
