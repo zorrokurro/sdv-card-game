@@ -27,10 +27,10 @@ TERM_EXPLANATIONS = {
     "回聲": "施放法術時獲得回聲指示物",
 }
 
-# Card dimensions (MTG style)
+# Card dimensions (MTG text + Yu-Gi-Oh extended art)
 CARD_W, CARD_H = 488, 680
-ART_W, ART_H = 460, 240  # MTG ~35% height
-ART_X, ART_Y = 14, 55
+ART_W, ART_H = 488, 420  # Full width, ~62% height for 超框
+ART_X, ART_Y = 0, 0
 
 # Darker faction colors
 FACTION_COLORS = {
@@ -147,9 +147,6 @@ def render_card(card_data):
     card = Image.new('RGB', (CARD_W, CARD_H), faction['primary'])
     draw = ImageDraw.Draw(card)
 
-    # Outer frame border (darker)
-    draw.rounded_rectangle([0, 0, CARD_W-1, CARD_H-1], radius=16, fill=None, outline=faction['glow'], width=3)
-
     # Art area - extended to edges (超框 style)
     art_y = ART_Y
     draw.rectangle([0, art_y, CARD_W, art_y + ART_H], fill=(10, 10, 15))
@@ -163,6 +160,9 @@ def render_card(card_data):
     # Subtle frame overlay (like Yu-Gi-Oh frame break effect)
     for i in range(3):
         draw.rectangle([i, art_y + i, CARD_W - i, art_y + i + 1], fill=(*faction['glow'][:3], 50))
+
+    # Outer frame border - drawn AFTER art for 超框 effect
+    draw.rounded_rectangle([0, 0, CARD_W-1, CARD_H-1], radius=16, fill=None, outline=faction['glow'], width=3)
 
     # Cost circle (top right) - glowing effect
     cost = card_data['cost']
@@ -189,7 +189,7 @@ def render_card(card_data):
 
     # Text box (below art) - contains type + effect
     text_box_y = art_y + ART_H + 10
-    text_box_h = 280
+    text_box_h = 195
     draw.rounded_rectangle([10, text_box_y, CARD_W - 10, text_box_y + text_box_h], radius=6, fill=(5, 5, 10))
     draw.rounded_rectangle([10, text_box_y, CARD_W - 10, text_box_y + text_box_h], radius=6, fill=None, outline=faction['glow'], width=1)
 
