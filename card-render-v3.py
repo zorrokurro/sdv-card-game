@@ -200,22 +200,22 @@ def render_card(card_data):
 
     # Effect text (below type)
     effect = card_data.get('effect', '')
-    font_effect = get_font(15)
-    effect_y = text_box_y + 32
-    max_chars = 32
+    font_effect = get_font(14)
+    effect_y = text_box_y + 30
+    max_chars = 30
     lines = []
     for paragraph in effect.split('\n'):
         wrapped = textwrap.wrap(paragraph, width=max_chars)
         lines.extend(wrapped)
 
-    for i, line in enumerate(lines[:5]):
-        draw.text((18, effect_y + i * 20), line, fill=(220, 220, 220), font=font_effect)
+    for i, line in enumerate(lines[:4]):
+        draw.text((18, effect_y + i * 18), line, fill=(220, 220, 220), font=font_effect)
 
     # Term explanations (bottom of text box, smaller font)
-    font_term = get_font(10)
+    font_term = get_font(9)
     used_terms = [t for t in TERM_EXPLANATIONS if t in effect]
     if used_terms:
-        term_y = text_box_y + 128
+        term_y = text_box_y + 110
         term_text = "／".join([f"{t}: {TERM_EXPLANATIONS[t]}" for t in used_terms])
         wrapped_terms = textwrap.wrap(term_text, width=48)
         for i, line in enumerate(wrapped_terms[:2]):
