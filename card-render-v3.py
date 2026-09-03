@@ -27,10 +27,10 @@ TERM_EXPLANATIONS = {
     "回聲": "施放法術時獲得回聲指示物",
 }
 
-# Card dimensions (Yu-Gi-Oh style)
+# Card dimensions (MTG style)
 CARD_W, CARD_H = 488, 680
-ART_W, ART_H = 460, 460  # Larger art area
-ART_X, ART_Y = 14, 60
+ART_W, ART_H = 460, 240  # MTG ~35% height
+ART_X, ART_Y = 14, 55
 
 # Darker faction colors
 FACTION_COLORS = {
@@ -189,7 +189,7 @@ def render_card(card_data):
 
     # Text box (below art) - contains type + effect
     text_box_y = art_y + ART_H + 10
-    text_box_h = 150
+    text_box_h = 280
     draw.rounded_rectangle([10, text_box_y, CARD_W - 10, text_box_y + text_box_h], radius=6, fill=(5, 5, 10))
     draw.rounded_rectangle([10, text_box_y, CARD_W - 10, text_box_y + text_box_h], radius=6, fill=None, outline=faction['glow'], width=1)
 
@@ -208,14 +208,14 @@ def render_card(card_data):
         wrapped = textwrap.wrap(paragraph, width=max_chars)
         lines.extend(wrapped)
 
-    for i, line in enumerate(lines[:3]):
+    for i, line in enumerate(lines[:5]):
         draw.text((18, effect_y + i * 20), line, fill=(220, 220, 220), font=font_effect)
 
     # Term explanations (bottom of text box, smaller font)
     font_term = get_font(10)
     used_terms = [t for t in TERM_EXPLANATIONS if t in effect]
     if used_terms:
-        term_y = text_box_y + 100
+        term_y = text_box_y + 140
         term_text = "／".join([f"{t}: {TERM_EXPLANATIONS[t]}" for t in used_terms])
         wrapped_terms = textwrap.wrap(term_text, width=50)
         for i, line in enumerate(wrapped_terms[:2]):
