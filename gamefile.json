@@ -7,7 +7,7 @@
     ],
     "deckRulesets": {
       "Standard": {
-        "general": { "min": 40, "max": 60, "maxPerCard": 4, "maxHandSize": 8, "excessToZone": "Energy" }
+        "general": { "min": 40, "max": 60, "maxPerCard": 4 }
       }
     }
   },
